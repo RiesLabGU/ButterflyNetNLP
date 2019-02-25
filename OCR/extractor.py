@@ -7,10 +7,10 @@ from tika import parser
 printable = set(string.printable)
 
 # regex cleaning and line setting
-raw = parser.from_file('sample.pdf')
-text = raw['content']
-text = text.lower().replace('\n', ' ').replace('\r', ' ').replace('\t', ' ').strip()
-text = ' '.join(text.split())
+raw = parser.from_file('sample.pdf')  # parse OCR text from file
+text = raw['content']  # grab textual content
+text = text.lower().replace('\n', ' ').replace('\r', ' ').replace('\t', ' ').strip()  #replace all whitespace, lower
+text = ' '.join(text.split())  # remove consecutive spaces
 text = re.sub(r'(?<=[a-z]{4})[.]', '.\n', text)
 text = text.encode('ascii', errors='ignore').decode(encoding='utf8').replace(r'\\', '').replace('"', '')
 text = re.sub(r'(?<=nae)', '\n', text)
