@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d39a6a8-76c7-4876-9132-59102d5e87de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OCR/extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR/raw.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/OCR/extractor.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,16 +14,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="255">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="e#22#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OCR/raw.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11849">
+              <caret line="697" column="2" lean-forward="true" selection-start-line="697" selection-start-column="2" selection-end-line="697" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -35,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
+            <state relative-caret-position="799">
               <caret line="47" selection-start-line="47" selection-end-line="53" selection-end-column="19" />
               <folding>
                 <element signature="e#22#37#0" expanded="true" />
@@ -72,8 +84,8 @@
         <option value="$PROJECT_DIR$/tv_file1.txt" />
         <option value="$PROJECT_DIR$/bnet_raw.txt" />
         <option value="$PROJECT_DIR$/line_classifier.py" />
-        <option value="$PROJECT_DIR$/OCR/extractor.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/OCR/extractor.py" />
       </list>
     </option>
   </component>
@@ -100,6 +112,11 @@
               <item name="ButterflyNetNLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="ButterflyNetNLP" type="462c0819:PsiDirectoryNode" />
               <item name="NaiveBayes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButterflyNetNLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButterflyNetNLP" type="462c0819:PsiDirectoryNode" />
+              <item name="OCR" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,7 +145,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.habitat_vocab">
+  <component name="RunManager" selected="Python.extractor">
+    <configuration name="extractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ButterflyNetNLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCR/extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="habitat_vocab" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ButterflyNetNLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,6 +211,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extractor" />
         <item itemvalue="Python.habitat_vocab" />
         <item itemvalue="Python.line_classifier" />
       </list>
@@ -196,19 +235,33 @@
       <option name="project" value="LOCAL" />
       <updated>1551120641177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-added gitignore">
+      <created>1551120865985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551120865985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-added OCR -&gt; txt extractor">
+      <created>1551121410333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551121410333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1010" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1200318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1200318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30546623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30444697" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,7 +277,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-moved NB to new dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="-moved NB to new dir" />
+    <MESSAGE value="-added gitignore" />
+    <MESSAGE value="-added OCR -&gt; txt extractor" />
+    <option name="LAST_COMMIT_MESSAGE" value="-added OCR -&gt; txt extractor" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/authorshipAttribution.py" />
@@ -273,7 +328,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
+        <state relative-caret-position="799">
           <caret line="47" selection-start-line="47" selection-end-line="53" selection-end-column="19" />
           <folding>
             <element signature="e#22#37#0" expanded="true" />
@@ -281,17 +336,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OCR/raw.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11849">
+          <caret line="697" column="2" lean-forward="true" selection-start-line="697" selection-start-column="2" selection-end-line="697" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#22#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

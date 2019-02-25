@@ -1,17 +1,16 @@
 #!/usr/bin/env python
-import argparse
+import re
+import nltk
+import string
 from tika import parser
 
-def main(data_file):
-    raw = parser.from_file(data_file)
+printable = set(string.printable)
 
-    with open("raw.txt") as f:
-        f.write(raw['content'])
+raw = parser.from_file('sample.pdf')
+text = raw['content']
+text = text.lower().replace('\n', ' ').replace('\r', ' ').replace('\t', ' ').strip()
+text = re.sub(r'(?<=[a-z]{4})[.]', '\n', text)
+text = text.encode('ascii', errors='ignore').decode(encoding='utf8').replace(r'\\', '').replace('"', '')
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='pdf to convert')
-    parser.add_argument('--path', type=str, default="sample.pdf",
-                        help='path to the menu to update')
-    args = parser.parse_args()
-
-    main(args.path)
+with open("raw.txt", 'w', encoding='utf8') as f:
+    f.write(text)
