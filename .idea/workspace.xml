@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d39a6a8-76c7-4876-9132-59102d5e87de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OCR/raw.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OCR/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/OCR/extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/raw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OCR/raw.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="204">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="e#22#28#0" expanded="true" />
               </folding>
@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OCR/raw.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11849">
-              <caret line="697" column="2" lean-forward="true" selection-start-line="697" selection-start-column="2" selection-end-line="697" selection-end-column="2" />
+            <state>
+              <caret column="106426" selection-start-column="106426" selection-end-column="106426" />
             </state>
           </provider>
         </entry>
@@ -249,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551121410333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="-added text scrubbing">
+      <created>1551123435349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551123435349</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-more text scrubbing, regex">
+      <created>1551123955705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551123955705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -279,7 +293,9 @@
     <MESSAGE value="-moved NB to new dir" />
     <MESSAGE value="-added gitignore" />
     <MESSAGE value="-added OCR -&gt; txt extractor" />
-    <option name="LAST_COMMIT_MESSAGE" value="-added OCR -&gt; txt extractor" />
+    <MESSAGE value="-added text scrubbing" />
+    <MESSAGE value="-more text scrubbing, regex" />
+    <option name="LAST_COMMIT_MESSAGE" value="-more text scrubbing, regex" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/authorshipAttribution.py" />
@@ -345,15 +361,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OCR/raw.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11849">
-          <caret line="697" column="2" lean-forward="true" selection-start-line="697" selection-start-column="2" selection-end-line="697" selection-end-column="2" />
+        <state>
+          <caret column="106426" selection-start-column="106426" selection-end-column="106426" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="e#22#28#0" expanded="true" />
           </folding>

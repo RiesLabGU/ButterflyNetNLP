@@ -1,81 +1,81 @@
-228   family nymphalidae
+  family nymphalidae
  subfamily heliconiinae
-  fritillaries  sixteen species of fritillaries occur in cascadia, including 9 greater fritillaries {argynnis), 6 lesser fritillaries (boloria), and euptoicta claiidia
-  all fritillaries are orange dorsally with complex markings of black lines and  spots
- ventrally, greater fritillaries bear large oval spots (silvered or not) on  the hindwings, and lesser fritillaries have violet- or rust-tinted hindwings  with white or yellow non-oval spots or markings, and euploicla has drab banded markings
-  greater fritillaries are found in all montane habitats and many moist lowland habitats
- they are single brooded with long-lived adults; females of most species enter reproductive diapause and aestivate in midsummer
+ fritillaries sixteen species of fritillaries occur in cascadia, including 9 greater fritillaries {argynnis), 6 lesser fritillaries (boloria), and euptoicta claiidia
+ all fritillaries are orange dorsally with complex markings of black lines and spots
+ ventrally, greater fritillaries bear large oval spots (silvered or not) on the hindwings, and lesser fritillaries have violet  or rust tinted hindwings with white or yellow non oval spots or markings, and euploicla has drab banded markings
+ greater fritillaries are found in all montane habitats and many moist lowland habitats
+ they are single brooded with long lived adults; females of most species enter reproductive diapause and aestivate in midsummer
  males eclose before females, and eggs are laid singly in late summer and early fall near or on dried remnants of violets
- lesser fritillaries (except b. sclenc) also have a single generation, most are restricted to mid-high elevations, and adults do not aestivate
-  fritillary eggs are conical to barrel-shaped with strong vertical ribs, white-yellow maturing to orange or red. tlie greater fritillaries overwinter as unfed first-instar larvae and develop during spring, passing through 6 instars
- the larvae are generally gray-black, adorned with branched spines, some with a lighter dorsal stripe and many with orange spine bases
+ lesser fritillaries (except b. sclenc) also have a single generation, most are restricted to mid high elevations, and adults do not aestivate
+ fritillary eggs are conical to barrel shaped with strong vertical ribs, white yellow maturing to orange or red. tlie greater fritillaries overwinter as unfed first instar larvae and develop during spring, passing through 6 instars
+ the larvae are generally gray black, adorned with branched spines, some with a lighter dorsal stripe and many with orange spine bases
  pupae are brown and hang vertically from a cremaster
-  lesser and greater fritillaries have similar eggs; the larvae are also similar, although those of lesser fritillaries are smaller, sometimes with subtle  spotting and black or orange spine bases
+ lesser and greater fritillaries have similar eggs; the larvae are also similar, although those of lesser fritillaries are smaller, sometimes with subtle spotting and black or orange spine bases
  all boloria have 5 instars, 4 species overwintering as partly grown larvae and 1 as an unfed first instar
- boloria  astarte is biennial, overwintering twice
+ boloria astarte is biennial, overwintering twice
  larval hosts include violets, bilberry, kinnikinnick, saxifrage, bistort, and willow
  the pupae are similar to those of argynnis but vary in darkness and girth, and 3 have spiny abdominal processes and pearly nodes
-  most fritillary larvae are active nocturnally
+ most fritillary larvae are active nocturnally
  all possess an eversible ventral gland on the first segment that emits chemicals likely used in defense against predators
-  subfamily heliconiinae
- \ family nymphalidae
- 229   mi -    230 i  subfamily heliconiinae
- | family nymphalidae
- 231  i  variegated fritillary euptoieta claudia (cramer)  adult biology euptoieta claudia is a primarily tropical species intermediate between argynnis and heliconius
- in  the us it is a permanent resident from s az e to nc, flying all year with multiple generations (scott, 1986a). highly migratory and opportunistic, e. claudia ranges far to the n in summer, reaching se bc and across canada to the atlantic
- unable to withstand freezing,  n populations die out each fall, although a population has survived in quebec for at least 10 years (layberry et al., 1998). this species has not been found in wa or or but has been reported in bc close to the ne vva border, and there are records from the id panhandle
- during invasive years e. claudia reaches its n limits in late summer; records in bc occur from july 17-sep 4 (guppy and shepard, 2001). in its breeding range the preferred habitat includes open sunny fields, prairies, and roadsides (tveten and tveten, 1996), but it can be found everywhere but deep forests (pyle, 1981). larvae feed on a wide variety of host plants, including viola (violet), linum (flax), plantago (plantain), desmodiuni spp. (beggarticks), portulaca spp. (purslane), and passiflora (passion vine). males patrol all day just above the ground for mates; a receptive female holds her wings mostly closed and abdomen raised slightly
- the male lands behind and flutters his wings, then mating occurs (scott, 1986a). eggs are laid singly on stems and leaves of the host
-  immature stage biology we reared this species once, from eggs from a female collected w of golden, jefferson co., co. after  12 days caged with viola glabella (stream violet), plantago major (common plantain), and passiflora incarnate (purple passionflower), she laid 58 eggs on the paper cage liner
- the eggs hatched in 3 days, and li were placed on the above hosts plus sedum lanceolatum (lanceleaf stonecrop). the larvae fed only on v. glabella, which was replaced with v. adunca for the remainder of the rearing
- fewer than half  the eggs hatched, and 9 survived to l2, but survival thereafter was 100(i. 1.1 consumed eggshells and were reared at 20-22 c, initially in petri dishes with cut leaves
+ subfamily heliconiinae
+  family nymphalidae
+   m      subfamily heliconiinae
+  family nymphalidae
+   variegated fritillary euptoieta claudia (cramer) adult biology euptoieta claudia is a primarily tropical species intermediate between argynnis and heliconius
+ in the us it is a permanent resident from s az e to nc, flying all year with multiple generations (scott, 6a). highly migratory and opportunistic, e. claudia ranges far to the n in summer, reaching se bc and across canada to the atlantic
+ unable to withstand freezing, n populations die out each fall, although a population has survived in quebec for at least 10 years (layberry et al., 8). this species has not been found in wa or or but has been reported in bc close to the ne vva border, and there are records from the id panhandle
+ during invasive years e. claudia reaches its n limits in late summer; records in bc occur from july 17 sep 4 (guppy and shepard, 1). in its breeding range the preferred habitat includes open sunny fields, prairies, and roadsides (tveten and tveten, 6), but it can be found everywhere but deep forests (pyle, 1). larvae feed on a wide variety of host plants, including viola (violet), linum (flax), plantago (plantain), desmodiun spp. (beggarticks), portulaca spp. (purslane), and passiflora (passion vine). males patrol all day just above the ground for mates; a receptive female holds her wings mostly closed and abdomen raised slightly
+ the male lands behind and flutters his wings, then mating occurs (scott, 6a). eggs are laid singly on stems and leaves of the host
+ immature stage biology we reared this species once, from eggs from a female collected w of golden, jefferson co., co. after 12 days caged with viola glabella (stream violet), plantago major (common plantain), and passiflora incarnate (purple passionflower), she laid 58 eggs on the paper cage liner
+ the eggs hatched in 3 days, and l were placed on the above hosts plus sedum lanceolatum (lanceleaf stonecrop). the larvae fed only on v. glabella, which was replaced with v. adunca for the remainder of the rearing
+ fewer than half the eggs hatched, and 9 survived to l2, but survival thereafter was (. 1.1 consumed eggshells and were reared at 20 22 c, initially in petr dishes with cut leaves
  early instars avoided leaf edges, grazing the midleaf surface halfway through in irregular patches, breaking through in places, leaving translucent windows elsewhere
- from l3, larvae consumed whole  leaves, producing large jagged holes from the middle or edges
- the rate of development was staggered; some reached 1,3 while others were still li. in l3 and l4,  larvae mostly rested on the underside of leaves during the day, feeding nocturnally
+ from l3, larvae consumed whole leaves, producing large jagged holes from the middle or edges
+ the rate of development was staggered; some reached 1,3 while others were still l. in l3 and l4, larvae mostly rested on the underside of leaves during the day, feeding nocturnally
  by late l4 and 1,5, larvae often wandered off the host, seeking sunny spots for basking, returning to feed mostly nocturnally
  at this stage entire leaves were consumed, leaving only the stems
- when 1.5 reached -40 mm, feeding ceased, wandering increased, and pupation occurred at the top of the cage
- ttie time from egg-hatch to pupation was 19-27 days and adults ectosed 9 days later
+ when 1.5 reached  40 mm, feeding ceased, wandering increased, and pupation occurred at the top of the cage
+ ttie time from egg hatch to pupation was 19 27 days and adults ectosed 9 days later
  tliere are 5 instars and no nests are constructed
- mature  larvae make little attempt at concealment and may be aposematic, although they are eaten by birds (allen et al., 2005). early instars derive protection from setal droplets (li), concealment, and nocturnal feeding, and later instars possess spines, intimidatory anterior horns, and a large black ventral gland that may emit defensive chemicals
- iveten and tveten (1996) reported that adults overwinter in 1x, perhaps in reproductive diapause (gech and tudor, 2005).  description of immature stages the egg is a white, strongly tapered cone with 14 strong vertical rilts that merge to -9 at the apex around the micropyle
+ mature larvae make little attempt at concealment and may be aposematic, although they are eaten by birds (allen et al., 5). early instars derive protection from setal droplets (l), concealment, and nocturnal feeding, and later instars possess spines, intimidatory anterior horns, and a large black ventral gland that may emit defensive chemicals
+ iveten and tveten (6) reported that adults overwinter in 1x, perhaps in reproductive diapause (gech and tudor, 5). description of immature stages the egg is a white, strongly tapered cone with 14 strong vertical rilts that merge to  9 at the apex around the micropyle
  1,1 has a shiny black abdomen tip and bifurcated head, and the body is white infused with considerable yellow laterally and dorsally
- each segment has -8 black bullae, each sporting a long black droplet-tipped seta
+ each segment has  8 black bullae, each sporting a long black droplet tipped seta
  l2 is brown, and there are white dorsolateral and ventrolateral stripes
- the bullae are tall black conical spines, each with multiple black setae; the anterior-most pair constitute forward-projecting black conical horns
+ the bullae are tall black conical spines, each with multiple black setae; the anterior most pair constitute forward projecting black conical horns
  tlie head is shiny black, remaining so until pupation
  l3 is similar, but the ground color is orange and the horns are proportionally longer
- tlie 2 white stripes are strongly developed and divided vertically into 3-5 pieces per segment
+ tlie 2 white stripes are strongly developed and divided vertically into 3 5 pieces per segment
  tire spines and setae are shiny black, remaining so to pupation
  1,4 is brighter orange; the white longitudinal stripes are bold and edged in black
  tlie anterior horns are twice as long as other spines and there is a sc]uarish black spot between them
- 1,5 is similar, the anterior horns -3 times longer than  t egg 0.8 mm  pupa @17 mm (lateral, left, dorsal, right)  other spines
+ 1,5 is similar, the anterior horns  3 times longer than t egg 0.8 mm pupa @17 mm (lateral, left, dorsal, right) other spines
  true legs and prologs are shinv black
- the pupa is ornate, initially bright orange dorsallv, maturing to white with black spots and metallic-  gold conical spines in lateral and dorsolateral rows
+ the pupa is ornate, initially bright orange dorsallv, maturing to white with black spots and metallic  gold conical spines in lateral and dorsolateral rows
  the wing cases are white with strongly contrasting black spots and oblong markings
- the larva of e. claudia is unique in cascadia and should not be confused with any other species, although the pupa resembles those of euphvilryas spp. published images include mature larvae in t\ eten and t veten (1996), allen et al. (2005), and minno et al. (2005), and mature larvae and pupae in p\te (1981), scott (1986a), allen (1997), and wagner (2t)05). all images agree with ours, although it. larvae have orange heads with black markings (minno et al., 2005).  discussion  this species is easily reared, proc-ided eggs are obtained in sufficient numbers to accommodate high egg and li mortality
- adults should be sought in far ne wa, where they will likely eventualh- be found
- why and how 1 population persists in quebec city, 1,000 miles north of its normal overwintering range, would make a fascinating research project
- tj-ie benefits derived from great summer range expansion each year followed by invariable winter contraction are unclear and would make an interesting study
+ the larva of e. claudia is unique in cascadia and should not be confused with any other species, although the pupa resembles those of euphvilryas spp. published images include mature larvae in t eten and t veten (6), allen et al. (5), and minno et al. (5), and mature larvae and pupae in pte (1), scott (6a), allen (7), and wagner (2t)05). all images agree with ours, although it. larvae have orange heads with black markings (minno et al., 5). discussion this species is easily reared, proc ided eggs are obtained in sufficient numbers to accommodate high egg and l mortality
+ adults should be sought in far ne wa, where they will likely eventualh  be found
+ why and how 1 population persists in quebec city, 1, miles north of its normal overwintering range, would make a fascinating research project
+ tj ie benefits derived from great summer range expansion each year followed by invariable winter contraction are unclear and would make an interesting study
  tlie possible aposematism of mature larvae and possible defensive function of the 1.1 setal droplets and ventral gland would provide excellent chemical ecology research subjects
-  li (ts 1.6 mm  l2 @ 4.0 mm  l3 @ 11 mm  l4 @ 16 mm  < q)  (0 iq 0)  a  0)  m c o o f5 q n  q c q. s  oi  3 (d  l5 @ 36 mm    232   i  great spangled fritillary argynnis cybele (fabricius)  adult biology argynnis cybele, the largest cascadian fritillary, is found in most low-mid-elevation mountainous  and hilly areas, absent w of the cascades in bc and from the driest regions
- beyond cascadia the range includes most of s canada and n us. preferring moist woods, meadows, and riparian areas, a. cybele is widely distributed, occurring from sea level to 6,000 ft (warren, 2005). the single brood flies early june-early oct. larval hosts include viola glabella (stream violet), v. adunca (blue violet), v. niittallii  (nuttall's violet), and v. sempervirens (evergreen violet). males eclose 4-5 days before females (james, 2008a), although allen (1997) reported their appearance 2-3 weeks before females in e us. females mate, enter reproductive diapause, and aestivate for 3-5 weeks after eclosion (james, 2008a), and are rarely seen before aug. flight is strong, and males patrol for females often in a territorial circuit (douglas and douglas, 2005). both sexes nectar on thistles, milkweed, and dogbane
- populations may be sedentary (miller and hammond, 2007). in aug and sep females lay eggs singly and haphazardly near the bases of dead and dying viola spp. (scott, 1986a; douglas and douglas, 2005).  immature stage biology we reared this species 3 times from gravid females collected mid-late aug in kittitas and asotin cos., wa. eggs hatched in 10-12 days at 20-22 c, then the larvae congregated under cover and diapaused as unfed li. overwintering for -80 days at 5 c was sufficient for li to break diapause and begin feeding on v. adunca leaves within -4 days at 25 c (james, 2008a). development from postdiapause li to pupation took an average of 44 days, females ~ 1 week longer than males, and adults edosed 13-19 days after pupation (james, 2008a). larvae feed  nocturnally, seeking cover during the day under leaves, rocks, or debris
- violet leaves are eaten from  the edges, producing large scooped-out holes
+ l (ts 1.6 mm l2 @ 4.0 mm l3 @ 11 mm l4 @ 16 mm < q) (0 iq 0) a 0) m c o o f5 q n q c q. s o 3 (d l5 @ 36 mm    great spangled fritillary argynnis cybele (fabricius) adult biology argynnis cybele, the largest cascadian fritillary, is found in most low mid elevation mountainous and hilly areas, absent w of the cascades in bc and from the driest regions
+ beyond cascadia the range includes most of s canada and n us. preferring moist woods, meadows, and riparian areas, a. cybele is widely distributed, occurring from sea level to 6, ft (warren, 5). the single brood flies early june early oct. larval hosts include viola glabella (stream violet), v. adunca (blue violet), v. niittalli (nuttall's violet), and v. sempervirens (evergreen violet). males eclose 4 5 days before females (james, 8a), although allen (7) reported their appearance 2 3 weeks before females in e us. females mate, enter reproductive diapause, and aestivate for 3 5 weeks after eclosion (james, 8a), and are rarely seen before aug. flight is strong, and males patrol for females often in a territorial circuit (douglas and douglas, 5). both sexes nectar on thistles, milkweed, and dogbane
+ populations may be sedentary (miller and hammond, 7). in aug and sep females lay eggs singly and haphazardly near the bases of dead and dying viola spp. (scott, 6a; douglas and douglas, 5). immature stage biology we reared this species 3 times from gravid females collected mid late aug in kittitas and asotin cos., wa. eggs hatched in 10 12 days at 20 22 c, then the larvae congregated under cover and diapaused as unfed l. overwintering for  80 days at 5 c was sufficient for l to break diapause and begin feeding on v. adunca leaves within  4 days at 25 c (james, 8a). development from postdiapause l to pupation took an average of 44 days, females ~ 1 week longer than males, and adults edosed 13 19 days after pupation (james, 8a). larvae feed nocturnally, seeking cover during the day under leaves, rocks, or debris
+ violet leaves are eaten from the edges, producing large scooped out holes
  larvae do not make nests
  postdiapause larvae are solitary but tolerate each other well in captivity
- l2 and older larvae possess a ventral gland on segment 1 that everts if the larva is threatened, emitting a musky odor, likely for defense (james, 2008a). larvae hearing pupation silk a number of leaves together to form a pupation tent, often very close to and sometimes touching the ground
+ l2 and older larvae possess a ventral gland on segment 1 that everts if the larva is threatened, emitting a musky odor, likely for defense (james, 8a). larvae hearing pupation silk a number of leaves together to form a pupation tent, often very close to and sometimes touching the ground
  pupae are noticeably more wriggly than other argynnis spp. protection is based on nocturnal feeding, spines, possible chemical protection, and camolillage
- i here are 6 instars
-  description of immature stages the pale yellow egg matures to pinkish red with darker spots, and is truncated conical
- it bears -20 strong vertical ribs that merge to 9-10 at the top. li is reddish brown or grayish, with 8 distinct black bullae in a transverse row across each segment; each bulla has a long brown seta with a droplet at the tip. tliere is a gray dorsal stripe that persists through l3. l2 is gray with black longitudinal lines along the spine bases
- the bullae are tall conical black spines bearing 10-12 black setae
+  here are 6 instars
+ description of immature stages the pale yellow egg matures to pinkish red with darker spots, and is truncated conical
+ it bears  20 strong vertical ribs that merge to 9 10 at the top. l is reddish brown or grayish, with 8 distinct black bullae in a transverse row across each segment; each bulla has a long brown seta with a droplet at the tip. tliere is a gray dorsal stripe that persists through l3. l2 is gray with black longitudinal lines along the spine bases
+ the bullae are tall conical black spines bearing 10 12 black setae
  1.3 is similar with black lines along the spine rows, except for the ventral spines, which have bright orange bases
  l3ull cream and orange patches appear at the ba.ses of other spines
- 1.4 is similar but is darker and has more distinct orange bases to lateral  spines
- the head has paired dorsal orange-brown patches
- 1.5 is dark gray-black with no dorsal stripe but indistinct dark lines laterally
- tlie black spines have large bright orange bases and the orange-brown head patches merge dorsally
+ 1.4 is similar but is darker and has more distinct orange bases to lateral spines
+ the head has paired dorsal orange brown patches
+ 1.5 is dark gray black with no dorsal stripe but indistinct dark lines laterally
+ tlie black spines have large bright orange bases and the orange brown head patches merge dorsally
  in some populations the dorsal spines lack orange bases
  1.6 is jet black with an orange head dorsally
  paired spines on segment 1 point forward over the head, which is black on the face
@@ -85,68 +85,68 @@
  the shape is robust, swollen in tbe middle with a large girth, and the abdomen bas parallel rows of orange bullae
  immature stages of this species are similar to those of other argynnis spp., especially a. cglcis, a. hydaspe, and a. hespcris, all of which have dark larvae
  argynnis cybele differs by having oranger spines and lacking a dorsal stripe
- 'ihe heads of mature a. cybele larvae have more extensive orange markings than those of other argynnis spp. 'the pupa of a. cybele is. more robust and more strongly textured than tho.se  subfamily heliconiinae
- i family nymphalidae
- 233  c\  (u  ta  d 0) 3  n a.  l2 4 mm egg @ 1.0 mm  l3 @ 8 mm (premolt)  l4 @ 10 mm  pupa (3) 30 mm li @ 1.8 mm  of other argynnis spp. (james, 2(k)8a). larvae and/or pupae were illustrated b\' allen (1997), layberry et al. (1998), guppy and shepard (2001), wagner (2005), allen et al. (2005), and miller and hammond (2003, 2007). lames (2008a) illustrated the entire life cycle
+ 'ihe heads of mature a. cybele larvae have more extensive orange markings than those of other argynnis spp. 'the pupa of a. cybele is. more robust and more strongly textured than tho.se subfamily heliconiinae
+  family nymphalidae
+  c (u ta d 0) 3 n a. l2 4 mm egg @ 1.0 mm l3 @ 8 mm (premolt) l4 @ 10 mm pupa (3) 30 mm l @ 1.8 mm of other argynnis spp. (james, 2(k)8a). larvae and/or pupae were illustrated b' allen (7), layberry et al. (8), guppy and shepard (1), wagner (5), allen et al. (5), and miller and hammond (3, 7). lames (8a) illustrated the entire life cycle
  all images are similar to ours
-  discussion additional information on immature stages is available in james (2008a). i.arvae are ditlicult to find, but eggs are readily obtained tvom gravid females
+ discussion additional information on immature stages is available in james (8a). .arvae are ditlicult to find, but eggs are readily obtained tvom gravid females
  one wandering larva we tound was parasitized
- douglas and douglas (2005) captured larvae in pitfall traps placed at the bases of host plants showing leaf damage
- larvae are easily reared on violet leaves, with native species preferred; late- instar a. cybele fed poorly on pansy (james, 2008a). research is being conducted on the chemistry and defensive function of the ventral osmeterium- like gland (james, 2008a), and similar studies are needed for the droplets on i.l setae
- ihis species is sensitive to forest management, with populations sometimes negatively affected by insecticide applications (miller and hammond, 2007).  l5 @ 21 mm  l6 @ 45 mm  q)  vs  to v: 3 3 k' n v: a-  .  ol cr  n' e' in  l6 @ 45 mm    234   coronis fritillary argynnis coronis (behr)    adult biology argynnis coronis ranges throughout much of w us from wa and sd to co, az, and s ca. in cascadia  it occurs primarily along the cascades and foothills but also e of the cascades in or. favored habitats  include canyons, hillsides, shrub-steppe, forest margins, and mountain meadows from 1,000-8,000 ft. a single generation flies may-oct, with males emerging before females at relatively low elevations (< 2,000 ft). mating occurs, but females enter reproductive diapause, migrating upslope
+ douglas and douglas (5) captured larvae in pitfall traps placed at the bases of host plants showing leaf damage
+ larvae are easily reared on violet leaves, with native species preferred; late  instar a. cybele fed poorly on pansy (james, 8a). research is being conducted on the chemistry and defensive function of the ventral osmeterium  like gland (james, 8a), and similar studies are needed for the droplets on .l setae
+ ihis species is sensitive to forest management, with populations sometimes negatively affected by insecticide applications (miller and hammond, 7). l5 @ 21 mm l6 @ 45 mm q) vs to v: 3 3 k' n v: a  . ol cr n' e' in l6 @ 45 mm   coronis fritillary argynnis coronis (behr)  adult biology argynnis coronis ranges throughout much of w us from wa and sd to co, az, and s ca. in cascadia it occurs primarily along the cascades and foothills but also e of the cascades in or. favored habitats include canyons, hillsides, shrub steppe, forest margins, and mountain meadows from 1, 8, ft. a single generation flies may oct, with males emerging before females at relatively low elevations (< 2, ft). mating occurs, but females enter reproductive diapause, migrating upslope
  males remain largely at low elevations
- populations seen migrating upslope near rimrock lk, yakima co., wa (3,000 ft) on june 4 were entirely female; they spend june-aug at high elevations (5,000-8,000 ft) seeking nectar
- reproductive diapause in females terminates by early aug in wa (james, 2008a), and they move downslope seeking host violets at lower elevations
- this altitudinal migration is most marked in the e cascades and yakima valley of wa. larval hosts are viola trinervata (sagebrush violet), v. beckwithii (great basin violet), v nuttallii (nuttall's violet), v. praemorsa (prairie violet), v. purpurea (goosefoot violet), and v douglasii (douglas' violet) (scott, 1986a; pyle, 2002). eggs are laid singly on or near senesced violets in late aug-oct.  immature stage biology we reared or partially reared this species several times
- gravid females obtained from yakima co., wa from july 30 to sep 29 over 4 years produced 100- 1,000 eggs per cohort, 2-5% of which were reared to  adults
- oviposition occurred in partial sunlight at 21- 35 c on dried leaves and stems of viola labradorica  (labrador violet). no oviposition occurred on live  violets
- females obtained on july 30 took 7 days to oviposit; later-caught females oviposited within 2 days of caging
- eggs hatched in 14-20 days, and li sought refuge in curled leaves and dried seedpods without feeding
- li were overwintered at 4-5 c for 10-20 weeks before e.xposure to 25-27 c and constant light
+ populations seen migrating upslope near rimrock lk, yakima co., wa (3, ft) on june 4 were entirely female; they spend june aug at high elevations (5, 8, ft) seeking nectar
+ reproductive diapause in females terminates by early aug in wa (james, 8a), and they move downslope seeking host violets at lower elevations
+ this altitudinal migration is most marked in the e cascades and yakima valley of wa. larval hosts are viola trinervata (sagebrush violet), v. beckwithi (great basin violet), v nuttalli (nuttall's violet), v. praemorsa (prairie violet), v. purpurea (goosefoot violet), and v douglasi (douglas' violet) (scott, 6a; pyle, 2). eggs are laid singly on or near senesced violets in late aug oct. immature stage biology we reared or partially reared this species several times
+ gravid females obtained from yakima co., wa from july 30 to sep 29 over 4 years produced   1, eggs per cohort, 2 5% of which were reared to adults
+ oviposition occurred in partial sunlight at 21  35 c on dried leaves and stems of viola labradorica (labrador violet). no oviposition occurred on live violets
+ females obtained on july 30 took 7 days to oviposit; later caught females oviposited within 2 days of caging
+ eggs hatched in 14 20 days, and l sought refuge in curled leaves and dried seedpods without feeding
+ l were overwintered at 4 5 c for 10 20 weeks before e.xposure to 25 27 c and constant light
  short daylengths (12 hr) failed to break dormancy despite warm temperatures
- postdiapause li took 3-5 days to commence feeding on viola adiinca (blue violet) and viola glabclla (stream violet). li molted to l2 after 8-9 days, and development from l2 to pupation took 31 days, with a further 12 days before adult eclosion
+ postdiapause l took 3 5 days to commence feeding on viola adiinca (blue violet) and viola glabclla (stream violet). l molted to l2 after 8 9 days, and development from l2 to pupation took 31 days, with a further 12 days before adult eclosion
  postdiapause larvae preferentially feed on flowers and young leaves at first, then leaves only, eating holes from the edges
  larvae are solitary with no nests, but tolerate high densities well in captivity
- most feeding is nocturnal, with larvae often resting under leaves during the day. l2-l6 possess an eversible, ventral gland that produces a musky odor when the larva is disturbed (james, 2008a) and is likely defensive
+ most feeding is nocturnal, with larvae often resting under leaves during the day. l2 l6 possess an eversible, ventral gland that produces a musky odor when the larva is disturbed (james, 8a) and is likely defensive
  mature larvae often silk together leaves as pupation tents, and pupation always occurs close to the ground
- larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in li), and spines
-  description of immature stages the egg is conical, white, developing red spots and dashes with maturity, becoming dark before hatching
- there are 20-22 prominent vertical ribs terminating around a well-defined micropyle
- li is cream or  yellowish orange with a shiny black setaceous head and 8 dark bullae on each segment; each bulla sports a long seta with a droplet at the tip. postdiapause li develop a reddish tinge
- l2 is blackish gray with an indistinct middorsal dark stripe and tall conical black spines sporting -10 setae
- bullae in the midlateral row on segments 4-11 have orange bases
+ larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in l), and spines
+ description of immature stages the egg is conical, white, developing red spots and dashes with maturity, becoming dark before hatching
+ there are 20 22 prominent vertical ribs terminating around a well defined micropyle
+ l is cream or yellowish orange with a shiny black setaceous head and 8 dark bullae on each segment; each bulla sports a long seta with a droplet at the tip. postdiapause l develop a reddish tinge
+ l2 is blackish gray with an indistinct middorsal dark stripe and tall conical black spines sporting  10 setae
+ bullae in the midlateral row on segments 4 11 have orange bases
  l3 is mostly black with 2 intermittent middorsal white stripes
- l4 is similar but grayer with distinct orange-based spines laterally and a prominent middorsal pair of white stripes
+ l4 is similar but grayer with distinct orange based spines laterally and a prominent middorsal pair of white stripes
  tire head is shiny black
  l5 is darker, mottled with white and gray especially laterally, and the midlateral spines become orange
  l6 is similar; white markings on the body, including the dorsal stripes, are larger and more distinct, giving the larva an overall grayish appearance
  tire head is black with no orange markings
- 'llie pupa is medium brown with dark brown-black markings, including segment joints
- most argynnis spp. are similar, but a. h. brico, a. h. dodgei, a. cgleis, a. cybclc, and a. liydaspc larvae are darker
+ 'llie pupa is medium brown with dark brown black markings, including segment joints
+ most argynnis spp. are similar, but a. h. brico, a. h. dodge, a. cgleis, a. cybclc, and a. liydaspc larvae are darker
  argynnis callippe has a broad pale dorsal stripe
-  subfamily heliconiinae
- | family nymphalidae
- 235  egg @1.0 mm l3 @ 8 mm  pupa @21 mm  l4 @ 15 mm  li @ 1.5 mm  l5 @ 20 mm  l2 @ 3 mm  a. mormonia is smaller, and a. iillantis has more  complex side markings
+ subfamily heliconiinae
+  family nymphalidae
+  egg @1.0 mm l3 @ 8 mm pupa @21 mm l4 @ 15 mm l @ 1.5 mm l5 @ 20 mm l2 @ 3 mm a. mormonia is smaller, and a. iillantis has more complex side markings
  argynnis zcrcnc is similar but tends to be lighter
- neill (2007) illustrated a larva similar to ours, and james (2008a) illustrated l6 @ 35 mm all immature stages
-  discussion  additional observations and data are reported in james (2008a). li overwinter well in captivity if sufficient humidity is provided (>60%). although eggs were laid on dried v. labradorica and 1.3-1.6 fed on this ne us native, 1.1 and 1.2 did not readily accept this host
- similarly, viola tricolor (pansy) was accepted only by 1.5-1.6. the w native violets v. adunca and v. glabclla were very acceptable hosts
- the reproductive ecology of this species l6 @ 35 mm with well-defined adult and larval diapauses deserves further study
+ neill (7) illustrated a larva similar to ours, and james (8a) illustrated l6 @ 35 mm all immature stages
+ discussion additional observations and data are reported in james (8a). l overwinter well in captivity if sufficient humidity is provided (>60%). although eggs were laid on dried v. labradorica and 1.3 1.6 fed on this ne us native, 1.1 and 1.2 did not readily accept this host
+ similarly, viola tricolor (pansy) was accepted only by 1.5 1.6. the w native violets v. adunca and v. glabclla were very acceptable hosts
+ the reproductive ecology of this species l6 @ 35 mm with well defined adult and larval diapauses deserves further study
  of particular interest are the altitudinal migration, environmental cues determining movement, distances traveled, and whether males migrate
-  n o  o 3  w?' n  q>  tq  3 3_ k' o o t o 3  03 n>    236   zerene fritillary argynnis zerene {so\sduva\)  i  adult biology argynnis zerene is a variable species with 15 subspecies (pelham, 2008). it occurs in most mountain and foothill areas of cascadia and in some prairie and shrub-steppe, but is absent from most of the cascades  in n wa. beyond cascadia it ranges from n bc to central ca, and the pacific coast to mt and co. tlie  single brood flies from mid-may to mid-sep, with males eclosing 4-5 days before females (james, 2008). habitats include prairies and foreshores w of the cascades, mountain clearings, logging roadsides, and shrub-steppe from sea level to 9,000 ft (warren, 2005). coastal populations are threatened; a. z. hippolyta (oregon silverspot) is federally and state listed, with captive breeding and reintroduction programs in progress (pyle, 2002; miller and hammond, 2007). larval hosts are viola adiinca (blue violet), v glabella (stream violet), v palustris (marsh violet), and v. nuttallii (nuttall's violet) in cascadia
- mating occurs immediately after female eclosion (guppy and shepard, 2001), and females do not mature their ovaries for 3-5 weeks (sims, 1984; scott, 1986a), spending the summer at higher elevations, returning to areas with violets to oviposit in aug and sep. reproductive diapause in females terminates by early aug in wa (james, 2008a). oviposition occurs on senesced violets; pyle (2002) suggested that females hunt over turf for violet scent
-  immature stage biology we reared this species 5 times
- gravid females from kittitas, columbia, and pend oreille cos., wa during aug over 5 years produced 100-1,000 eggs per cohort, 2-5% of which were reared to adults
- oviposition occurred in a variety of enclosures with fresh or dried violets, in partial sunlight at temperatures of 20-35 c. eggs hatched in 13-19 days according to temperature
-  and li overwintered (at 4-5 c) in clusters among leaf debris without feeding
- postdiapause li took 5 days at 25 c to commence feeding
- development from l2 to pupation took 45 days at 20-22 c on v nuttallii and 34 days at 25 c on v adiinca
- l5 and 1.6 also fed well on v. labradorica (labrador violet) and v. tricolor (pansy). adults eclosed 13-21 days after pupation
+ n o o 3 w?' n q> tq 3 3_ k' o o t o 3 03 n>   zerene fritillary argynnis zerene {sosduva)  adult biology argynnis zerene is a variable species with 15 subspecies (pelham, 8). it occurs in most mountain and foothill areas of cascadia and in some prairie and shrub steppe, but is absent from most of the cascades in n wa. beyond cascadia it ranges from n bc to central ca, and the pacific coast to mt and co. tlie single brood flies from mid may to mid sep, with males eclosing 4 5 days before females (james, 8). habitats include prairies and foreshores w of the cascades, mountain clearings, logging roadsides, and shrub steppe from sea level to 9, ft (warren, 5). coastal populations are threatened; a. z. hippolyta (oregon silverspot) is federally and state listed, with captive breeding and reintroduction programs in progress (pyle, 2; miller and hammond, 7). larval hosts are viola adiinca (blue violet), v glabella (stream violet), v palustris (marsh violet), and v. nuttalli (nuttall's violet) in cascadia
+ mating occurs immediately after female eclosion (guppy and shepard, 1), and females do not mature their ovaries for 3 5 weeks (sims, 4; scott, 6a), spending the summer at higher elevations, returning to areas with violets to oviposit in aug and sep. reproductive diapause in females terminates by early aug in wa (james, 8a). oviposition occurs on senesced violets; pyle (2) suggested that females hunt over turf for violet scent
+ immature stage biology we reared this species 5 times
+ gravid females from kittitas, columbia, and pend oreille cos., wa during aug over 5 years produced  1, eggs per cohort, 2 5% of which were reared to adults
+ oviposition occurred in a variety of enclosures with fresh or dried violets, in partial sunlight at temperatures of 20 35 c. eggs hatched in 13 19 days according to temperature
+ and l overwintered (at 4 5 c) in clusters among leaf debris without feeding
+ postdiapause l took 5 days at 25 c to commence feeding
+ development from l2 to pupation took 45 days at 20 22 c on v nuttalli and 34 days at 25 c on v adiinca
+ l5 and 1.6 also fed well on v. labradorica (labrador violet) and v. tricolor (pansy). adults eclosed 13 21 days after pupation
  larvae initially fed on flowers and leaves, then leaves only, eating holes from the edges
  larvae are solitary with no nests, but tolerate siblings in captivity
- most feeding is nocturnal, with larvae often resting under leaves during the day. l2-l6 possess an eversible, ventral gland on segment 1 that produces a musky odor when the larva is disturbed  (scott, 1986a; mccorkle and llammond, 1988; james, 2008a), and is likely defensive
- scott (1986a) and  jatnes (2008a) reported that silked-together leaves are often used as pupation tents
- larval defense is based on concealment (nocturnal feeding), chemical protection (ventral gland, setal droplets?), and physical protection (spines).  description of immature stages itie egg is white, narrowed, and truncated at the top. 'itiere arc -20 strong vertical ribs, merging to -10 at the top. li is cream-reddish, with 8 dark bullae on each segment; each bulla sports a long dark seta with a droplet at the tip. 1.2 is gray-brown; bullae are conical spines with -10 setae
+ most feeding is nocturnal, with larvae often resting under leaves during the day. l2 l6 possess an eversible, ventral gland on segment 1 that produces a musky odor when the larva is disturbed (scott, 6a; mccorkle and llammond, 8; james, 8a), and is likely defensive
+ scott (6a) and jatnes (8a) reported that silked together leaves are often used as pupation tents
+ larval defense is based on concealment (nocturnal feeding), chemical protection (ventral gland, setal droplets?), and physical protection (spines). description of immature stages itie egg is white, narrowed, and truncated at the top. 'itiere arc  20 strong vertical ribs, merging to  10 at the top. l is cream reddish, with 8 dark bullae on each segment; each bulla sports a long dark seta with a droplet at the tip. 1.2 is gray brown; bullae are conical spines with  10 setae
  in l3 the spines are larger with more setae
  the body is mostly gray, with black stripes and orange spots at the bases of the spines
  l4 is gray mottled with black stripes
@@ -154,200 +154,200 @@
  tlie black head has paired brown dorsal spots, and the rows of orange spots persist along the body until pupation
  l5 is similar; the black spots at the bases of dorsal spines are bold
  in l6 the ventrolateral spines are orange, the others remaining black
- overall the color is light, gray-brown with black splotches
- 'ihe pupa is medium brown with black bands at segment joints and the wing cases are gray-brown with black veins
- all argynnis spp. larvae are similar, but a. h. dodgei, a. h. brico, a. egleis, a. cybele, and a. hydaspc are darker
+ overall the color is light, gray brown with black splotches
+ 'ihe pupa is medium brown with black bands at segment joints and the wing cases are gray brown with black veins
+ all argynnis spp. larvae are similar, but a. h. dodge, a. h. brico, a. egleis, a. cybele, and a. hydaspc are darker
  argynnis callippe has a broad pale dorsal stripe, a. mormonia is smaller, and a. atlantis has more comple
 v side markings
  argynnis coronis is most similar; however, it tends to be darker with dorsolateral orange spots split into 2 lines
- guppy and shepard (2001), allen et al. (2005), and neill (2007) published images oflarvae from ak, ga, and gascadia that are darker than ours
-  miller and hammond (2003, 2007) and james (2008a)  show images similar to ours
-  subfamily heliconiinae
- | family nymphalidae
- 237  egg @ 0.9 mm  l3 @7 mm  pupa @ 23 mm  h  l4 @ 13 mm  li (s) 1.5 mm  l5 @ 22 mm  k  l2@4mm  discussion  additional observations and data are reported in james (2008a). eggs are easily obtained from closely confined females as long as violet detritus is provided
- li overwinter well if sufjicient humidity is provided (>60%). substantial mortality occurs under dry conditions, and larvae are subject to mold if rh is higher than 90%). overwintered larvae feed well on succulent fresh violet blossoms and leaves; tough species like \'. scinpcrvircns and \' tricolor may be rejected by early instars
+ guppy and shepard (1), allen et al. (5), and neill (7) published images oflarvae from ak, ga, and gascadia that are darker than ours
+ miller and hammond (3, 7) and james (8a) show images similar to ours
+ subfamily heliconiinae
+  family nymphalidae
+  egg @ 0.9 mm l3 @7 mm pupa @ 23 mm h l4 @ 13 mm l (s) 1.5 mm l5 @ 22 mm k l2@4mm discussion additional observations and data are reported in james (8a). eggs are easily obtained from closely confined females as long as violet detritus is provided
+ l overwinter well if sufjicient humidity is provided (>60%). substantial mortality occurs under dry conditions, and larvae are subject to mold if rh is higher than 90%). overwintered larvae feed well on succulent fresh violet blossoms and leaves; tough species like '. scinpcrvircns and ' tricolor may be rejected by early instars
  larvae are very difficult to find
- research is being conductecj on the chemistry and defensive function of the ventral osmeterium-like gland, and similar studies are needed for the droplets on 1,1 setae
-  l6 @ 38 mm  n (d  n 3 m  q)  vc 3 2 k' n 0)  0) 3 (d  cd o_ wi' a. c < at  l6 @ 38 mm    238   callippe fritillary argynnis callippe (boisduval)  adult biology argynnis callippe flies in a single brood mid-may- mid-aug e of the cascades in much of cascadia, also w of the divide in s or, but is absent from tbe  driest parts of the columbia basin
- beyond cascadia it ranges over much of w north america from s bc to the prairie provinces, s to co and ca. preferred habitats include montane canyons, open moist  wooded areas, and shrub-steppe prairie at elevations of 300-9,700 ft. the flight period is protracted in s bc and wa, females entering reproductive diapause soon after eclosion, moving to high elevations during june- july before returning to lay eggs in mid-late aug (guppy and shepard, 2001). scott (1992) suggested that a. callippe undergoes little or no reproductive diapause in co, dying before late summer, which also appears to be the case for populations in n ca (shapiro and manolis, 2007). larval hosts confirmed in cascadia are viola nuttallii (nuttall's violet) and  viola sempervirens (evergreen violet), although other viola spp. are likely used as well
- males frequent hilltops as well as patrolling hillsides near the ground to seek females (scott, 1986a). both sexes visit thistles and mints, and males are avid puddlers
- females crawl  into shady hollows where they lay eggs singly, often in litter where no violets are apparent but are present in spring (scott, 1986a, 1992).  immature stage biology we reared this species several times from gravid females
- a female collected june 29 in yakima co.,  wa, lived for 6 weeks but did not lay eggs until early aug. larvae died during overwintering
- females collected july 24 (yakima co.), july 24, july 26 (different years) (kittitas co., wa), produced -150, icq, and icq eggs, respectively
- eggs hatched after -11 days
- li sought refuge and were overwintered at 4-5 c from late aug. winter survival was poor if  h  relative humidity was <70')o. after -100 days, 30 li were exposed to 26 c and continuous light
- feeding on viola labradorica (labrador violet) commenced  after 3 days witb 1.2 reached 7 days later
- development from l2 to pupation took 47 days at 22-26 c. adults eclosed after -35 days at 18-21 c. on march 17, 7 li were exposed to 20-22 c at natural daylengths and supplied with viola tricolor (fansy) flowers, then leaves of viola odorata, a nonnative violet
- one  individual reached 1.6 before dying in april
- on april 18, 2 li were exposed to the same conditions and reared on v. nuttallii
+ research is being conductecj on the chemistry and defensive function of the ventral osmeterium like gland, and similar studies are needed for the droplets on 1,1 setae
+ l6 @ 38 mm n (d n 3 m q) vc 3 2 k' n 0) 0) 3 (d cd o_ w' a. c < at l6 @ 38 mm   callippe fritillary argynnis callippe (boisduval) adult biology argynnis callippe flies in a single brood mid may  mid aug e of the cascades in much of cascadia, also w of the divide in s or, but is absent from tbe driest parts of the columbia basin
+ beyond cascadia it ranges over much of w north america from s bc to the prairie provinces, s to co and ca. preferred habitats include montane canyons, open moist wooded areas, and shrub steppe prairie at elevations of  9, ft. the flight period is protracted in s bc and wa, females entering reproductive diapause soon after eclosion, moving to high elevations during june  july before returning to lay eggs in mid late aug (guppy and shepard, 1). scott (2) suggested that a. callippe undergoes little or no reproductive diapause in co, dying before late summer, which also appears to be the case for populations in n ca (shapiro and manolis, 7). larval hosts confirmed in cascadia are viola nuttalli (nuttall's violet) and viola sempervirens (evergreen violet), although other viola spp. are likely used as well
+ males frequent hilltops as well as patrolling hillsides near the ground to seek females (scott, 6a). both sexes visit thistles and mints, and males are avid puddlers
+ females crawl into shady hollows where they lay eggs singly, often in litter where no violets are apparent but are present in spring (scott, 6a, 2). immature stage biology we reared this species several times from gravid females
+ a female collected june 29 in yakima co., wa, lived for 6 weeks but did not lay eggs until early aug. larvae died during overwintering
+ females collected july 24 (yakima co.), july 24, july 26 (different years) (kittitas co., wa), produced  , icq, and icq eggs, respectively
+ eggs hatched after  11 days
+ l sought refuge and were overwintered at 4 5 c from late aug. winter survival was poor if h relative humidity was <70')o. after   days, 30 l were exposed to 26 c and continuous light
+ feeding on viola labradorica (labrador violet) commenced after 3 days witb 1.2 reached 7 days later
+ development from l2 to pupation took 47 days at 22 26 c. adults eclosed after  35 days at 18 21 c. on march 17, 7 l were exposed to 20 22 c at natural daylengths and supplied with viola tricolor (fansy) flowers, then leaves of viola odorata, a nonnative violet
+ one individual reached 1.6 before dying in april
+ on april 18, 2 l were exposed to the same conditions and reared on v. nuttalli
  ijiese grew faster, pupating 34 days after first feeding, adults eclosing after a further 13 days
- li fed on violet petals or leaves
+ l fed on violet petals or leaves
  later instars ate only leaves, feeding nocturnally and eating holes from the leaf edges
  at maturity the larvae wandered off the host plant to pupate close to the ground under lightly silked leaf tents
  there are 6 instars and no nests are constructed
- protection is based on nocturnal  feeding, spines, and likely cbemical protection from a ventral gland on segment 1 (l2-l6) and setal droplets in li.  description of immature stages the egg is pale yellow, ovate at the base, narrowed and truncated at the top. there are 20-26 strong vertical ribs
- li is brown with 8 black bullae in a transverse  row on each segment; each bulla sports a long dark seta with a droplet at the tip. l2 is gray-black with tall black conical spines, each with -10 setae
+ protection is based on nocturnal feeding, spines, and likely cbemical protection from a ventral gland on segment 1 (l2 l6) and setal droplets in l. description of immature stages the egg is pale yellow, ovate at the base, narrowed and truncated at the top. there are 20 26 strong vertical ribs
+ l is brown with 8 black bullae in a transverse row on each segment; each bulla sports a long dark seta with a droplet at the tip. l2 is gray black with tall black conical spines, each with  10 setae
  a prominent broad gray dorsal stripe with a thin black median line is present
  1.3 is similar, with complex mottled orange markings laterally, and black stripes follow the lines of conical spines
  in l4 and 1.5 the patterns are more complex, the dorsal stripe remaining prominent
  tlie lateral spines have orange bases, and there are smaller dorsolateral orange markings
- l6 is gray-brown with complex black markings in broken stripes following the rows of spines
- tlie dorsal stripe is prominent and broad, a dull creamy-bronze, and the central dark line is almost obsolete in some individuals
- dorsally the head bears a transverse brown mark with small  black speckles, and the spines are cream-white with orange tips; those on the sides also have orange bases
+ l6 is gray brown with complex black markings in broken stripes following the rows of spines
+ tlie dorsal stripe is prominent and broad, a dull creamy bronze, and the central dark line is almost obsolete in some individuals
+ dorsally the head bears a transverse brown mark with small black speckles, and the spines are cream white with orange tips; those on the sides also have orange bases
  the pupa is rich reddish brown, the abdomen with broad coppery bands alternating with black markings
- larvae are paler than those of a. h. dodgei, a. h. brico, a. hydaspc, a. inonnotua, and a. cybclc
+ larvae are paler than those of a. h. dodge, a. h. brico, a. hydaspc, a. inonnotua, and a. cybclc
  tlie larvae of a. atlantis have complex white lateral lines
- argynnis coronis and a. zcrenc are similar, but the dorsal stripe  in a. callippe is broader with a fainter median line
- guppy and shepard (2001) show a mature larva and  subfamily heliconiinae
- i family nymphalidae
- 239  ij-hi i.*.  l3 10 mm  egg @1.0 mm  pupa @ 22 mm  l4 @ 11 mm  l5 @ 15 mm  li @ 2.5 mm  l6 @ 30 mm  l2 @ 3 mm  f  r' . ' f '1   pupa from wa similar to ours
- allen et al. (2005) picture a mature larva from t'x that is dark with a narrow dorsal stripe and a strong black central line
-  discussion  larvae of a. callippe are ditlicult to find, but eggs are readily obtained from females confined with violet detritus
+ argynnis coronis and a. zcrenc are similar, but the dorsal stripe in a. callippe is broader with a fainter median line
+ guppy and shepard (1) show a mature larva and subfamily heliconiinae
+  family nymphalidae
+  ij h .*. l3 10 mm egg @1.0 mm pupa @ 22 mm l4 @ 11 mm l5 @ 15 mm l @ 2.5 mm l6 @ 30 mm l2 @ 3 mm f  r' . ' f '1  pupa from wa similar to ours
+ allen et al. (5) picture a mature larva from t'x that is dark with a narrow dorsal stripe and a strong black central line
+ discussion larvae of a. callippe are ditlicult to find, but eggs are readily obtained from females confined with violet detritus
  overwintering 1.1 is difficult, with dry or excessively moist conditions causing high mortality
- post-winter larvae feed well on a number of viola spp., although v. sempervirens appeared unfavorable
+ post winter larvae feed well on a number of viola spp., although v. sempervirens appeared unfavorable
  research is needed on the chemistry and defensive function of the eversible ventral gland and the setal droplets in 1.1. natural mortalit)' factors and their impact on population dynamics deserve study, as do the dynamics of reproductive diapause and associated environmental cues
-  l6 @ 35 mm  n  5l  5' d  01  iq  3 3 k' n  3 ft)  00 o_ ifl' a. c < q)    240   great basin fritillary argynnis egleis (behr)  adult biology argynnis egleis is a w species ranging from wa, id, and mt s to wy, or, nv, ca, and ut, occurring mostly at mid-high elevations (2,000-10,000 ft) in forest clearings and meadows, and on dry rocky ridges and hilltops
- it is sparsely distributed in wa but more readily found in the wallowa-blues, ochocos, warners and siskiyou ranges of or. adults fly in 1 generation mid-june-early sep and can be locally common
- males emerge a week or two before females, patrol and sometimes hill-top. no evidence has been presented that females enter reproductive diapause; this strategy may be unnecessary in these higher- elevation habitats
+ l6 @ 35 mm n 5l 5' d 01 iq 3 3 k' n 3 ft) 00 o_ ifl' a. c < q)   great basin fritillary argynnis egleis (behr) adult biology argynnis egleis is a w species ranging from wa, id, and mt s to wy, or, nv, ca, and ut, occurring mostly at mid high elevations (2, 10, ft) in forest clearings and meadows, and on dry rocky ridges and hilltops
+ it is sparsely distributed in wa but more readily found in the wallowa blues, ochocos, warners and siskiyou ranges of or. adults fly in 1 generation mid june early sep and can be locally common
+ males emerge a week or two before females, patrol and sometimes hill top. no evidence has been presented that females enter reproductive diapause; this strategy may be unnecessary in these higher  elevation habitats
  later in the flight period females are found mostly in wooded areas seeking host plants
- both sexes are avid flower visitors on mountain balm,  thistles, asters, yarrow, and rabbitbrush; males visit mud. recorded host plants are viola nuttalli (nuttall's violet), v. praemorsa (prairie violet), v. adunca (blue violet), v. purpurea (goosefoot violet), and v. walteri (prostrate blue violet) (scott, 1986a; pyle, 2002). eggs are laid singly on or near senescing violets
-  immature stage biology we reared this species twice, obtaining eggs from 4-7 gravid females collected near mt misery, garfield co., wa on aug 3 and 14 (different years). females were caged with potted viola labradorica (labrador violet) and 50-100 eggs were laid over 2 weeks
+ both sexes are avid flower visitors on mountain balm, thistles, asters, yarrow, and rabbitbrush; males visit mud. recorded host plants are viola nuttall (nuttall's violet), v. praemorsa (prairie violet), v. adunca (blue violet), v. purpurea (goosefoot violet), and v. walter (prostrate blue violet) (scott, 6a; pyle, 2). eggs are laid singly on or near senescing violets
+ immature stage biology we reared this species twice, obtaining eggs from 4 7 gravid females collected near mt misery, garfield co., wa on aug 3 and 14 (different years). females were caged with potted viola labradorica (labrador violet) and 50  eggs were laid over 2 weeks
  initially (48 hrs) eggs were laid on the living plant, thereafter on inert surfaces and senesced leaves and stems
- eggs hatched after 15 days at 21-23 g, and unfed li sought refuge in curled leaves and dried seedpods
- li were held at 20-25 c until early oct then transferred to an unheated garage
+ eggs hatched after 15 days at 21 23 g, and unfed l sought refuge in curled leaves and dried seedpods
+ l were held at 20 25 c until early oct then transferred to an unheated garage
  one month later they were transferred to 5 c for overwintering
- after 61, 69, 77, and 133 days, 9, 3, 12, and 22 li were transferred to summer-like rearing conditions, 25 c, constant illumination
- li in the first 2 cohorts took 10-12 days  to commence feeding on v adtinca-, the later cohorts took 48 hrs. l2 was reached 8 days after transfer, and development from l2 to pupation took 34 days with a further 12 days to eclosion
- all instars fed on k adunca, v. labradorica, and \'. glahella (stream violet). postdiapause larvae fed on young leaves at first, then older leaves, eating holes from the edges
- l6 accepted viola tricolor (pansy) as a host, but li were unable to feed on this plant
+ after 61, 69, 77, and  days, 9, 3, 12, and 22 l were transferred to summer like rearing conditions, 25 c, constant illumination
+ l in the first 2 cohorts took 10 12 days to commence feeding on v adtinca , the later cohorts took 48 hrs. l2 was reached 8 days after transfer, and development from l2 to pupation took 34 days with a further 12 days to eclosion
+ all instars fed on k adunca, v. labradorica, and '. glahella (stream violet). postdiapause larvae fed on young leaves at first, then older leaves, eating holes from the edges
+ l6 accepted viola tricolor (pansy) as a host, but l were unable to feed on this plant
  viola trincrvata (sagebrush violet) was refused by l3. larvae are solitary with no nests but tolerate high densities well in captivity
- most feeding is nocturnal, with larvae resting under leaves during the day. 1.2-1.6 possess an eversible, ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 2008a) and  is likely defensive
+ most feeding is nocturnal, with larvae resting under leaves during the day. 1.2 1.6 possess an eversible, ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 8a) and is likely defensive
  mature larvae silk together leaves as pupation tents close to the ground in limited space
  many pupae fall to the ground
- larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in li), and physical protection (spines).  description of immature stages the egg is white and conical with 24-26 prominent vertical ribs merging to -15 at the top. li is reddish brown, paler laterally, with a shiny black setaceous head and 8-10 prominent black bullae across each segment
+ larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in l), and physical protection (spines). description of immature stages the egg is white and conical with 24 26 prominent vertical ribs merging to  15 at the top. l is reddish brown, paler laterally, with a shiny black setaceous head and 8 10 prominent black bullae across each segment
  each bulla sports a long dark seta with a droplet at the tip. l2 is dark brown with a wide middorsal pale stripe and a thin central dark stripe
- there are 6 prominent conical black spines across each segment, each bearing -10 setae
- lateral spines on segments 4-12 have vaguely orange bases
- l3 is blackish with larger spines bearing more setae and distinct orange bases to lateral spines on segments 4-12. l4 is black mottled with white, creating a grayish appearance
- the orange-based lateral spines are distinct, and 2 parallel dorsal white stripes are separated by a tbin black stripe
- l5 is similar, darker with brown head markings dorsally and laterally, distinct orange-based lateral spines, and indistinct orange bases to the other spines
+ there are 6 prominent conical black spines across each segment, each bearing  10 setae
+ lateral spines on segments 4 12 have vaguely orange bases
+ l3 is blackish with larger spines bearing more setae and distinct orange bases to lateral spines on segments 4 12. l4 is black mottled with white, creating a grayish appearance
+ the orange based lateral spines are distinct, and 2 parallel dorsal white stripes are separated by a tbin black stripe
+ l5 is similar, darker with brown head markings dorsally and laterally, distinct orange based lateral spines, and indistinct orange bases to the other spines
  dorsally, white markings on each segment are concentrated posteriorly
  1.6 is black mottled with brown and has 2 indistinct thin white lines dorsally
  spines in the lateral row are whitish yellow, as are bases of the dorsolateral black spines
- the black head is like that of  1.5 and the spiracles are black
+ the black head is like that of 1.5 and the spiracles are black
  the pupa is brown with black markings limited to intersegmental banding, the eyes, and wing venation
- there are 2-3 lateral rows of indistinct orange spots on the abdomen
+ there are 2 3 lateral rows of indistinct orange spots on the abdomen
  most argynnis spp. larvae are lighter
- argynnis hydaspc, a.  subfamily heliconllnae
- | family nymphalidae
- 241  l3 ia> 5 mm egg @1.0 mm  pupa @ 22 mm  l4 (a> 12 mm (late)  li @ 1.5 mm  l5 @ 15 mm (early)  l2 @3.0 mm  h. brico, a. h. dodgci, and a. cybclc have dark larvae, but a. h. dodgei has a wide pale dorsal hand, and a. h. brico and a. cybclc have vivid orange spines
+ argynnis hydaspc, a. subfamily heliconllnae
+  family nymphalidae
+  l3 ia> 5 mm egg @1.0 mm pupa @ 22 mm l4 (a> 12 mm (late) l @ 1.5 mm l5 @ 15 mm (early) l2 @3.0 mm h. brico, a. h. dodgc, and a. cybclc have dark larvae, but a. h. dodge has a wide pale dorsal hand, and a. h. brico and a. cybclc have vivid orange spines
  the mature larva of a. hydaspc is most similar, but the head usually has no brown markings
- james (2008a) illustrated the life cycle of a. cglcis and provided further information on immature stages
-  discussion  similar to other argynnis spp., a. cglcis oviposits readily in captivity and is easily reared
- overwintering li require at least 60-70% humidity and must experience -2.3 months of cold temperatures before being able to commence feeding when exposed to warm temperatures
+ james (8a) illustrated the life cycle of a. cglcis and provided further information on immature stages
+ discussion similar to other argynnis spp., a. cglcis oviposits readily in captivity and is easily reared
+ overwintering l require at least 60 70% humidity and must experience  2.3 months of cold temperatures before being able to commence feeding when exposed to warm temperatures
  three previously unreported violet hosts were accepted by all instars, and pansies were acceptable to final instars
  studies are needed on the reproductive ecology of this species, which may vary between subspecies at different elevations
- little is known of natural enemies and other population-regulating factors
-  l6 @ 35 mm  cn  n> fi) r+  c9 01 ift  vs  iq v: =5 2  fd  ?  3 (t) =r  l6 @ 35 mm    242   i  northwestern fritillary argynnis hesperis dodgei (gunder) (unsilvered form)  adult biology argynnis hesperis is considered by some authors a subspecies of a. atlantis (e.g., pyle, 2002; miller and hammond, 2007). we follow guppy and shepard (2001), warren (2005), and pelham (2008) in treating a. hesperis as a distinct species
- the northwestern fritillary ranges from ak to mb, s to nm and ca. in cascadia it occurs in bc, wa, or, and id. argynnis hesperis dodgei is unsilvered and occurs in the s cascades of wa and most mid-high-elevation areas in or. in n wa and bc it is replaced by the silvered a. h. brico
- in se wa and or a. h. dodgei is found in cool, forested and open, dry subalpine habitats (1,500- 8,000 ft) and can be locally common (dornfield, 1980; warren, 2005; miller and hammond, 2007).  the single brood flies mid-june-sep, males emerging a week or so before females
+ little is known of natural enemies and other population regulating factors
+ l6 @ 35 mm cn n> f) r+ c9 01 ift vs iq v: =5 2 fd ? 3 (t) =r l6 @ 35 mm    northwestern fritillary argynnis hesperis dodge (gunder) (unsilvered form) adult biology argynnis hesperis is considered by some authors a subspecies of a. atlantis (e.g., pyle, 2; miller and hammond, 7). we follow guppy and shepard (1), warren (5), and pelham (8) in treating a. hesperis as a distinct species
+ the northwestern fritillary ranges from ak to mb, s to nm and ca. in cascadia it occurs in bc, wa, or, and id. argynnis hesperis dodge is unsilvered and occurs in the s cascades of wa and most mid high elevation areas in or. in n wa and bc it is replaced by the silvered a. h. brico
+ in se wa and or a. h. dodge is found in cool, forested and open, dry subalpine habitats (1,  8, ft) and can be locally common (dornfield, 0; warren, 5; miller and hammond, 7). the single brood flies mid june sep, males emerging a week or so before females
  males patrol meadows, hillsides, and ridgelines and visit mud and animal scat
  both sexes feed at flowers, particularly mountain balm, thistles, asters, and yarrow
- larval hosts are violets, with viola pupurea (coosefoot violet), v. adunca (blue violet), v. nuttallii (nuttall's violet), and  v. praemorsa (prairie violet) confirmed (scott et al., 1998; warren, 2005). eggs are laid singly on or near senescing violets
-  immature stage biology we reared this species 3 times from gravid females obtained on aug 14 near mt misery, carfield co., wa and aug 20 and aug 21 near mt howard, wallowa co., or. confined with dried foliage of viola labradorica (labrador violet) in a plastic container with a muslin lid (32 x 20 x 9 cm) and held at 23-26 c in dappled sunlight, females laid 15, 50, and 65 eggs, respectively, during 3-7 days
- eggs hatched after 12-13 days, and li sought refuge in curled leaves and dried seedpods without feeding
- li were held at 20-25 c until  mid-sep, then transferred to 5 c for overwintering
- after 92-107 days, 1,1 were placed on v adunca, v. labradorica (labrador violet), or vi odorata (sweet  violet) leaflets at 27 c with continuous lighting
+ larval hosts are violets, with viola pupurea (coosefoot violet), v. adunca (blue violet), v. nuttalli (nuttall's violet), and v. praemorsa (prairie violet) confirmed (scott et al., 8; warren, 5). eggs are laid singly on or near senescing violets
+ immature stage biology we reared this species 3 times from gravid females obtained on aug 14 near mt misery, carfield co., wa and aug 20 and aug 21 near mt howard, wallowa co., or. confined with dried foliage of viola labradorica (labrador violet) in a plastic container with a muslin lid (32 x 20 x 9 cm) and held at 23 26 c in dappled sunlight, females laid 15, 50, and 65 eggs, respectively, during 3 7 days
+ eggs hatched after 12 13 days, and l sought refuge in curled leaves and dried seedpods without feeding
+ l were held at 20 25 c until mid sep, then transferred to 5 c for overwintering
+ after 92  days, 1,1 were placed on v adunca, v. labradorica (labrador violet), or v odorata (sweet violet) leaflets at 27 c with continuous lighting
  feeding commenced after 4 days, and 1.2 was reached 2 days later
- development from 1.2 to pupation took 30-40 days, with adults eclosing 19-28 days later (pupae held at 19-21 c). 1.1-1.5 fed well on the 3 viola spp. provided
+ development from 1.2 to pupation took 30 40 days, with adults eclosing 19 28 days later (pupae held at 19 21 c). 1.1 1.5 fed well on the 3 viola spp. provided
  postdiapause larvae fed on young leaves at first, then older leaves, eating holes from the edges
- larvae arc solitary with no nests and most feeding is nocturnal, with larvae resting under leaves during the day. l2-l6 possess an eversible ventral gland that produces a musky odor when the larva is disturbed (james, 2008a) and likely defensive
+ larvae arc solitary with no nests and most feeding is nocturnal, with larvae resting under leaves during the day. l2 l6 possess an eversible ventral gland that produces a musky odor when the larva is disturbed (james, 8a) and likely defensive
  mature larvae silk together leaves as pupation tents, and pupation occurs close to the ground in limited space
- larval defense is based on concealment (nocturnal  feeding, pupa), chemical protection (ventral gland, setal droplets in l!), and physical protection (.spines).  description of immature stages the egg is creamy white, developing distinctive reddish brown lines and spots
- there are 22-23 prominent vertical ribs merging to -15 at the top. li is medium- dark brown, paler laterally with a shiny black setaceous head and 8-10 black bullae across each segment
- each bulla sports a long dark seta with a droplet at the tip. l2 is dark brown-black with an indistinct middorsal  pale stripe
- six prominent conical black spines traverse each segment, each hearing -10 setae
+ larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in l!), and physical protection (.spines). description of immature stages the egg is creamy white, developing distinctive reddish brown lines and spots
+ there are 22 23 prominent vertical ribs merging to  15 at the top. l is medium  dark brown, paler laterally with a shiny black setaceous head and 8 10 black bullae across each segment
+ each bulla sports a long dark seta with a droplet at the tip. l2 is dark brown black with an indistinct middorsal pale stripe
+ six prominent conical black spines traverse each segment, each hearing  10 setae
  bases of spines in the lower lateral row are pale
  l3 is black with paler areas, especially laterally
- ibe black spines are larger, and their bases are orange in the sublateral row on segments 4-11. l4 is similar but darker, with orange- based sublateral black bullae and a shiny black head
+ ibe black spines are larger, and their bases are orange in the sublateral row on segments 4 11. l4 is similar but darker, with orange  based sublateral black bullae and a shiny black head
  an indistinct pair of intermittent white stripes is present dorsally
  l5 is black with a pair of indistinct gray stripes dorsally, pale markings laterally, and a shiny black head
  bases of the spines in the sublateral row are dull red and indistinct
  l6 is black with a pale middorsal stripe but no lateral pale markings
- initially spines in the sublateral row are orange with a black tip but fade with maturity to whitish tan. setae on all spines are orange-brown
+ initially spines in the sublateral row are orange with a black tip but fade with maturity to whitish tan. setae on all spines are orange brown
  tlie black head has few or no brown markings
  4he pupa is mostly black dorsally with mahogany brown wing cases marked in black primarily following venation
  most argynnis spp. larvae are similar but lighter in color, argynnis hydaspe, a. egleis, a. cybelc, and a. h. brico have dark larvae, but a. egleis and a. h. brico have a pair of dorsal white lines, and a. cybcle has vivid orange spines
  larvae of a. hydaspe may be indistinguishable
- the  subfamily heliconiinae
- | family nymphalidae
- 243  l3 @ 7 mmegg @ 0.9 mm  pupa @17 mm  l4 @ 12 mm  li @ 1.5 mm  l5 @ 16 mm  l2 @4 mm  larva shown in miller and hammond (2007) (.s. atlantis dodgei) is similar to ours
-  discussion  the substantial difference between a. hesperis (both subspecies) and a. atlantis larvae, first reported by scott (1988) and scott et al. (1998) and illustrated here, supports the specific status of these 2 entities
+ the subfamily heliconiinae
+  family nymphalidae
+  l3 @ 7 mmegg @ 0.9 mm pupa @17 mm l4 @ 12 mm l @ 1.5 mm l5 @ 16 mm l2 @4 mm larva shown in miller and hammond (7) (.s. atlantis dodge) is similar to ours
+ discussion the substantial difference between a. hesperis (both subspecies) and a. atlantis larvae, first reported by scott (8) and scott et al. (8) and illustrated here, supports the specific status of these 2 entities
  additional studies on the biology of immature stages of these species should be conducted and may reveal further differences
- cravid females appear to oviposit well in captivity, as do other argynnis spp. the full host range of this species remains to be determined; viola glabella (stream violet) occurs commonly in the sh wa and ne or habitats occupied by a. h. dodgei and is a likely host
+ cravid females appear to oviposit well in captivity, as do other argynnis spp. the full host range of this species remains to be determined; viola glabella (stream violet) occurs commonly in the sh wa and ne or habitats occupied by a. h. dodge and is a likely host
  itic identity and impact of natural enemies on population dynamics of this localized but sometimes common species are unknown and deserve study
  also worthy of study is the possible existence of reproductive diapause in newly eclosed females
-  l6 @ 34 mm  l6 @ 34 mm  3 o  i 1 o  -h rt o fd  i3  0)  3 3  ln  3- fd  t3 (d 2 tn'  a. o a. la 2  c 3 q. (d    244   northwestern fritiilary argynnis hesperis brico (silvered form) kondia, scott & spomer  adult biology argynnis hesperis brico is a subspecies of the northwestern fritiilary, occurring in s bc and n  wa from okanogan to pend oreille cos. argynnis hesperis brico ranges across w canada into mt and co. we separate the subspecies of a. hesperis because the adults are readily distinguished and there are no known blend areas in cascadia where the two meet or  merge
- argynnis hesperis brico has affinities to the n and e and the rocky mts, while a. h. dodgei resembles relatives to the s. a single brood flies from mid-june to early sep, occupying partially wooded, moist meadow habitats, often near watercourses
- larval host plants include viola adunca (blue violet), v. canadensis  (canadian violet), v. nuttallii (nuttall's violet), and perhaps v. sempervirens (evergreen violet). males patrol meadows, ridges, and hilltops and visit mud. courtship is similar to that of other argynnis spp., females ovipositing throughout aug near senesced violets after most of the earlier-flying males have died
-  it is likely, although unconfirmed, that females are in reproductive diapause from eclosion to late july, as in other argynnis spp. (james, 2008a).  immature stage biology we reared this subspecies once
+ l6 @ 34 mm l6 @ 34 mm 3 o  1 o  h rt o fd i3 0) 3 3 ln 3  fd t3 (d 2 tn' a. o a. la 2 c 3 q. (d   northwestern fritiilary argynnis hesperis brico (silvered form) kondia, scott & spomer adult biology argynnis hesperis brico is a subspecies of the northwestern fritiilary, occurring in s bc and n wa from okanogan to pend oreille cos. argynnis hesperis brico ranges across w canada into mt and co. we separate the subspecies of a. hesperis because the adults are readily distinguished and there are no known blend areas in cascadia where the two meet or merge
+ argynnis hesperis brico has affinities to the n and e and the rocky mts, while a. h. dodge resembles relatives to the s. a single brood flies from mid june to early sep, occupying partially wooded, moist meadow habitats, often near watercourses
+ larval host plants include viola adunca (blue violet), v. canadensis (canadian violet), v. nuttalli (nuttall's violet), and perhaps v. sempervirens (evergreen violet). males patrol meadows, ridges, and hilltops and visit mud. courtship is similar to that of other argynnis spp., females ovipositing throughout aug near senesced violets after most of the earlier flying males have died
+ it is likely, although unconfirmed, that females are in reproductive diapause from eclosion to late july, as in other argynnis spp. (james, 8a). immature stage biology we reared this subspecies once
  females obtained on aug 22 near tiger meadows, pend oreille co., wa produced 86 eggs
- eggs hatched after 5-18 days, and -70 li sought refuge under dead leaves and entered diapause without feeding
- larvae were overwintered at 4 c from sep 23. on may 17, larvae were exposed to 20-22 c under natural daylengths and provided with v. nuttalli and v. glabella (stream violet). the larvae rejected v. nuttallii but readily accepted v. glabella and commenced feeding within a day or  two. development from commencement of feeding to pupation was rapid, taking 22 days (june 8), and adults began eclosing -17 days later
- many larvae died in early instars, but 3 survived to l6. further mortality occurred before pupation from disease; only 3 pupated successfully anti eclosed to adults
+ eggs hatched after 5 18 days, and  70 l sought refuge under dead leaves and entered diapause without feeding
+ larvae were overwintered at 4 c from sep 23. on may 17, larvae were exposed to 20 22 c under natural daylengths and provided with v. nuttall and v. glabella (stream violet). the larvae rejected v. nuttalli but readily accepted v. glabella and commenced feeding within a day or two. development from commencement of feeding to pupation was rapid, taking 22 days (june 8), and adults began eclosing  17 days later
+ many larvae died in early instars, but 3 survived to l6. further mortality occurred before pupation from disease; only 3 pupated successfully ant eclosed to adults
  larvae fed nocturnally on viola leaves, eating from edges; they were solitary and did not construct nests
- camouflage coloration, nocturnal feeding activity, spines, and likely chemical protection (from a ventral gland in l2-l6 and setal droplets in 1.1) contribute to the defense of these larvae f rom natural enemies
-  description of immature stages the eggs are yellow maturing to red, with -15 strong vertical ribs crossed by -20 weaker lateral ribs
- li is dark magenta with a shiny black head and -10 dark bullae per segment, each with a long dark seta
+ camouflage coloration, nocturnal feeding activity, spines, and likely chemical protection (from a ventral gland in l2 l6 and setal droplets in 1.1) contribute to the defense of these larvae f rom natural enemies
+ description of immature stages the eggs are yellow maturing to red, with  15 strong vertical ribs crossed by  20 weaker lateral ribs
+ l is dark magenta with a shiny black head and  10 dark bullae per segment, each with a long dark seta
  l2 is purplish brown; tall conical spines replace bullae, each bearing several dark setae
  1.3 is darker, the spines black with bristly setae, and the black head has distinct brown dorsal patches
  1.4 is shiny black except for small orangish patches at the lateral spine bases
- l5 is similar to l4, the brown head patches prominent,  with 2 dorsolateral stripes darker than the blackish body, and a pair of thin pale dorsal stripes
+ l5 is similar to l4, the brown head patches prominent, with 2 dorsolateral stripes darker than the blackish body, and a pair of thin pale dorsal stripes
  in l6 the pale dorsal stripes remain, and all spines except dorsal rows are pinkish with black tips
  the shiny pupa is rich chestnut brown with black splotches
- the eggs of a. h. brico and a. h. dodgei are generally similar, but in li a. h. brico is magenta while a. h. dodgei is more olive
- in 1.3 a. h. brico develops a pair of brown patches on the top of the black head, while in a. h. dodgei the head is often solid black
- during l4-l6 the brown markings on the head capsule of a. h. brico enlarge, while in some individuals of a. h. dodgei the head remains black throughout development
+ the eggs of a. h. brico and a. h. dodge are generally similar, but in l a. h. brico is magenta while a. h. dodge is more olive
+ in 1.3 a. h. brico develops a pair of brown patches on the top of the black head, while in a. h. dodge the head is often solid black
+ during l4 l6 the brown markings on the head capsule of a. h. brico enlarge, while in some individuals of a. h. dodge the head remains black throughout development
  tlie pupae of the subspecies are similar, with a. h. brico more reddish, especially on the abdomen
  larvae of a. hydaspe are similar but usually lack brown markings on the head, or if they occur they are very minor
- mature larvae of a. h. brico tend to be shiny black with brighter orange markings than those of either a. h. dodgei or a. hydaspe
+ mature larvae of a. h. brico tend to be shiny black with brighter orange markings than those of either a. h. dodge or a. hydaspe
  otiier argynnis spp., except a. cybele and a. eglcis, have paler larvae, the former lacking dorsal stripes and with more extensive orange spines, the latter with paler sides
  we know of no published images of immature stages of a. h brico
-  discussion  argynnis h. brico is found close to and synchronously with populations of a. atlanlis in pend oreille co. in ne wa. adults are often very similar, particularly  subfamily heliconiinae
- | family nymphalidae
- 245  l2 3.7 mm  egg @ 0.8 mm (fresh, left, mature, right)  lb @ 8.5 mm  li @ 1.2 mm  **v>'  l4 @ n mm  pupa @ 20 mm  when worn; however a. h. brico occupies drier habitats while a. atlantis is found mostly near bogs and wet riparian areas
- some lepidopterists still regard a. hesperis and a. atlanlis as conspecific; however, in cascadia the pale, dcrrsally striped larvae of a. atlantis bear limited resemblance to the black larvae of a. h. brico or a. h. dodgei
- further rearing of a. h. brico and a. h. dodgei populations is needed to confirm the differences we report between these subspecies
+ discussion argynnis h. brico is found close to and synchronously with populations of a. atlanlis in pend oreille co. in ne wa. adults are often very similar, particularly subfamily heliconiinae
+  family nymphalidae
+  l2 3.7 mm egg @ 0.8 mm (fresh, left, mature, right) lb @ 8.5 mm l @ 1.2 mm **v>' l4 @ n mm pupa @ 20 mm when worn; however a. h. brico occupies drier habitats while a. atlantis is found mostly near bogs and wet riparian areas
+ some lepidopterists still regard a. hesperis and a. atlanlis as conspecific; however, in cascadia the pale, dcrrsally striped larvae of a. atlantis bear limited resemblance to the black larvae of a. h. brico or a. h. dodge
+ further rearing of a. h. brico and a. h. dodge populations is needed to confirm the differences we report between these subspecies
  little is known about the ecology of either subspecies, including the existence or not of reproductive diapause and the mortality factors affecting immature stages
- in our rearings, a. h. brico larvae developed faster than those of a. h. dodgei, 22 days from commencement ofpo
-stdiapause feeding to pupation, while the same development took 30-40 days for a. h. dodgei
+ in our rearings, a. h. brico larvae developed faster than those of a. h. dodge, 22 days from commencement ofpo
+stdiapause feeding to pupation, while the same development took 30 40 days for a. h. dodge
  tlie full range of violet host plants used by a. h. brico in cascadia is unknown and needs studv
-  l5 (a) 18 mm  l6 @ 30 mm  l6 @ 30 mm    246   atlantis frltlllary argynnis atlantis (w. h. edwards)  adult biology argynnis atlantis occurs in the ne us and e canada, w to e bc and s to mt, sd, co, and nm. in cascadia  it is found in se bc, n id, ne wa, and ne or. this  species was formerly combined with a. hespcris
- miller and hammond (2007) treat the cascadia subspecies of a. atlantis as a distinct species, a. hollandi
+ l5 (a) 18 mm l6 @ 30 mm l6 @ 30 mm   atlantis frltlllary argynnis atlantis (w. h. edwards) adult biology argynnis atlantis occurs in the ne us and e canada, w to e bc and s to mt, sd, co, and nm. in cascadia it is found in se bc, n id, ne wa, and ne or. this species was formerly combined with a. hespcris
+ miller and hammond (7) treat the cascadia subspecies of a. atlantis as a distinct species, a. holland
  in cascadia, a. atlantis is found in cool, moist to boggy boreal habitats
- never common, it sometimes flies  with a. hesperis brico in ne wa and a. hesperis dodgei in ne or. the single brood flies late june-late aug, and males emerge before females
- egg-laying does not occur until mid-aug in wv, suggesting reproductive diapause (allen, 1997). males patrol trails and roads for females, and both sexes nectar on asters
+ never common, it sometimes flies with a. hesperis brico in ne wa and a. hesperis dodge in ne or. the single brood flies late june late aug, and males emerge before females
+ egg laying does not occur until mid aug in wv, suggesting reproductive diapause (allen, 7). males patrol trails and roads for females, and both sexes nectar on asters
  pearly everlasting, mints, vetches, yarrow, and dogbane
  males visit mud and animal scat
- viola canadensis  (canada violet) is the only larval host confirmed for cascadia (miller and hammond, 2007), but other  violets are recorded elsewhere
+ viola canadensis (canada violet) is the only larval host confirmed for cascadia (miller and hammond, 7), but other violets are recorded elsewhere
  eggs are laid singly near senescing violets
-  immature stage biology we reared this species from females obtained on aug 14 and 28 at bunchgrass and tiger meadows, pend oreille co., wa. confined with dried viola  labradorica (labrador violet) or v. glabella (stream violet), females laid -165 eggs
- eggs hatched after 13-14 days at 21-25 c, and li sought refuge in curled leaves without feeding
- one group of li held at these temperatures and 30-40% rh suffered major mortality, with -70% desiccating within a few days
+ immature stage biology we reared this species from females obtained on aug 14 and 28 at bunchgrass and tiger meadows, pend oreille co., wa. confined with dried viola labradorica (labrador violet) or v. glabella (stream violet), females laid   eggs
+ eggs hatched after 13 14 days at 21 25 c, and l sought refuge in curled leaves without feeding
+ one group of l held at these temperatures and 30 40% rh suffered major mortality, with  70% desiccating within a few days
  the survivors imbibed moisture and expanded in size
- larvae were transferred to 5 c, 70-80% rh  on sep 24 for overwintering, 1 group in dead leaf refugia, the other on filter paper
- after 101 days, larvae were inspected; 100% and 48% of the dead leaf  and filter paper 1.1 survived, respectively; all were exposed to 15-24 c, 12 hr light, and provided with vi labradorica and v. adiinca (blue violet). feeding commenced after 3-5 days (only on v! labradorica), and 1.2 was reached 7-9 days later
- another cohort (n = 25) was held at 5 c for -250 days, then exposed to 20-22 c with v glabclhr, they fed sparingly, but all died by l2. in the successlul cohort, development from l2 to pupation took 35-39 days, with adults eclosing after a further 12 days (21-26 c). larvae fed readily on v. labradorica and v odorata (sweet violet), rejecting v adtinca
+ larvae were transferred to 5 c, 70 80% rh on sep 24 for overwintering, 1 group in dead leaf refugia, the other on filter paper
+ after  days, larvae were inspected; % and 48% of the dead leaf and filter paper 1.1 survived, respectively; all were exposed to 15 24 c, 12 hr light, and provided with v labradorica and v. adiinca (blue violet). feeding commenced after 3 5 days (only on v! labradorica), and 1.2 was reached 7 9 days later
+ another cohort (n = 25) was held at 5 c for   days, then exposed to 20 22 c with v glabclhr, they fed sparingly, but all died by l2. in the successlul cohort, development from l2 to pupation took 35 39 days, with adults eclosing after a further 12 days (21 26 c). larvae fed readily on v. labradorica and v odorata (sweet violet), rejecting v adtinca
  postdiapause larvae fed on young leaves at first, then older leaves, eating from the edges
- larvae are solitary with no nests and most feeding is nocturnal, with larvae resting under leaves during the day. 1.2-1.6 possess an eversible, ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 2008a) and is  likely defensive
+ larvae are solitary with no nests and most feeding is nocturnal, with larvae resting under leaves during the day. 1.2 1.6 possess an eversible, ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 8a) and is likely defensive
  mature larvae silk together leaves as pupation tents close to the ground
  larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets), and spines
-  description of immature stages jtie egg is ovoid, yellowish white becoming red. tliere are 20-22 prominent vertical ribs merging to -14 at the top. li is dark brown, with 8-10 prominent black bullae across each segment
+ description of immature stages jtie egg is ovoid, yellowish white becoming red. tliere are 20 22 prominent vertical ribs merging to  14 at the top. l is dark brown, with 8 10 prominent black bullae across each segment
  each bulla sports a long seta with a droplet at the tip. l2 is dark brown to black with a middorsal pale stripe
- six conical black spines traverse each segment, each bearing -10 setae
+ six conical black spines traverse each segment, each bearing  10 setae
  late in 1.2, patches of white appear on the body, and spine bases become orange
  1.3 is black with a distinct pair of dorsal white stripes and grayish white patches
- orange-based black spines bear -15 setae
+ orange based black spines bear  15 setae
  l4 is similar to late l3, but the shiny black head has brown markings laterally
  late 1.4 have increased white lateral markings and prominent dorsal white stripes
  1.5 is darker with distinct dorsal white stripes and a pattern of white lines, reminiscent ot crocodile skin
@@ -355,162 +355,162 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  tlie sublateral row of spines is bright orange, becoming whitish
  the lateral white markings coalesce to torm snakeskin patches separated by black areas
  tlie black head is distinctly marked with dorsolateral brown markings
- tjie pupa is medium-dark brown with black markings on the head, thorax, and abdomen, black-banded intersegmentally, with a pair of dorsal black spots on each segment
- most argynnis spp. larvae are similar but mature larvae ot a. h. brico, a. h. dodgei, a. hydaspe, a. eglcis, and a. cybcle arc darker, with little or no white markings
- tlie lighter  subfamily heliconiinae
- \ family nymphalidae
- 247  l3 cic 9 mm  egg @ 0.8 mm (fresh) egg @ 0.9 mm (mature)    'v - 1  l4 (3 13 mm  li @ 1.6 mm  l5 (3) 23 mm  l2 @ 5 mm  larvae of a. zercnc, a. coronis, inonnoniii, and  a. callippe are similar, but none has the vi\ id dorsal white stripes and complex lateral white markings seen in a. atlantis
- tlie black spots on the pupa abdomen also appear to be unique, linages of mature larvae appear in allen (1997), wagner (2005), and allen et al. (2005) and agree with ours
-  discussion  the need for humid conditions (>70%) to ensure  good survival of diapausing 1.1 likeh' retlects adaptation to the moist habitats occupied bv a. atlantis in cascadia
+ tjie pupa is medium dark brown with black markings on the head, thorax, and abdomen, black banded intersegmentally, with a pair of dorsal black spots on each segment
+ most argynnis spp. larvae are similar but mature larvae ot a. h. brico, a. h. dodge, a. hydaspe, a. eglcis, and a. cybcle arc darker, with little or no white markings
+ tlie lighter subfamily heliconiinae
+  family nymphalidae
+  l3 cic 9 mm egg @ 0.8 mm (fresh) egg @ 0.9 mm (mature)  'v   1 l4 (3 13 mm l @ 1.6 mm l5 (3) 23 mm l2 @ 5 mm larvae of a. zercnc, a. coronis, inonnonii, and a. callippe are similar, but none has the v id dorsal white stripes and complex lateral white markings seen in a. atlantis
+ tlie black spots on the pupa abdomen also appear to be unique, linages of mature larvae appear in allen (7), wagner (5), and allen et al. (5) and agree with ours
+ discussion the need for humid conditions (>70%) to ensure good survival of diapausing 1.1 likeh' retlects adaptation to the moist habitats occupied bv a. atlantis in cascadia
  tire violet species used in cascadia need documentation
  tlie rejection of v. adunca in our rearing is surprising, as this species is present in habitats used by a. atlantis
  the existence or not of reproductive diapause in females deserves study, as does the ecology of immature stages
- miller and hammond (2007) considered this species to be local and sedentarv, thus sensitive to forest management
-  l6 @ 36 mm  0) 3  w'  ql -i  ><  to  o 3  k' o  s 3  a  0)  a. in  l6 @ 36 mm  pupa @ 19 mm    248   hydaspe fritillary argynnis hydaspe (boisduval)  adult biology argynnis hydaspe is widely distributed and common, found in a variety of forested habitats, particularly moist woodlands, meadows, and flowery scree slopes
- the range includes nearly all of cascadia except the drier parts of the columbia basin and se or. beyond cascadia it is found from central bc to central ca,  e to co and ut. found from near sea level to 8,300  ft (warren, 2005), the single brood flies mid-may- late sep. larval host plants include viola glabella (streamviolet), v. adunca (blue violet), v. nuttallii (nuttall's violet), and v. sempervirens (evergreen violet). other violets (e.g., v. orbiculata, v. purpurea) are used elsewhere (scott, 1986a). males hill-top and are often seen at mud; both sexes visit thistles, asters,  penstemons, and dogbane
- males begin flight earlier than females, and after mating the females enter summer aestivation for 3-5 weeks before becoming gravid in early aug (james, 2008a). oviposition occurs in aug-sep in the vicinity of senesced violets
- pyle (2002) observed females ovipositing on rocks at the base of v. adunca in the olympic mts of wa.  immature stage biology we reared this species 4 times
- on aug 1,3, 10, and 30 (different years) gravid females were obtained from yakima, kittitas, and garfield cos., wa, and  grant co., or, respectively
- on each occasion large numbers of eggs (-100-500) were laid on dried v. glabella and v. labradorica (labrador violet) leaves and stems and inert surfaces (paper, cage sides, etc.). the yakima co. cohort oviposited only on potted v. labradorica during the first 2 days, ignoring dried foliage
- eggs hatched in -9 days at 25 c; li partially  consumed eggshells, sought refuge under leaves and debris, and became dormant
- li were overwintered at  4-5 c from late sep/early oct. survival of li during overwintering varied with relative humidity; high mortality occurred at 6()-7()o rh, low mortality at 80-90% rh. larvae were exposed to warm (20-26 c) temperatures and continuous light or natural daylengths after 90-180 days and reared on v mittalli, v. adunca, v. glabella, or v labradorica
- development from start of feeding to pupation took 30-35 days, with adults eclosing after a further 12 days
- this is significantly faster than the rates recorded for a. coronis, a. zercnc, a. cglcis, and a. cybele (james, 2008). feeding by li was initially on flowers or small leaves, the earliest feeding causing windowpanes in leaves
- l2-l6 fed on larger leaves, eating from the edges
- i.arvae fed well on all violets except v labradorica when provided with alternative hosts; however, l4-l6 in a no-choice test with v. labradorica developed to adulthood
+ miller and hammond (7) considered this species to be local and sedentarv, thus sensitive to forest management
+ l6 @ 36 mm 0) 3 w' ql   >< to o 3 k' o s 3 a 0) a. in l6 @ 36 mm pupa @ 19 mm   hydaspe fritillary argynnis hydaspe (boisduval) adult biology argynnis hydaspe is widely distributed and common, found in a variety of forested habitats, particularly moist woodlands, meadows, and flowery scree slopes
+ the range includes nearly all of cascadia except the drier parts of the columbia basin and se or. beyond cascadia it is found from central bc to central ca, e to co and ut. found from near sea level to 8, ft (warren, 5), the single brood flies mid may  late sep. larval host plants include viola glabella (streamviolet), v. adunca (blue violet), v. nuttalli (nuttall's violet), and v. sempervirens (evergreen violet). other violets (e.g., v. orbiculata, v. purpurea) are used elsewhere (scott, 6a). males hill top and are often seen at mud; both sexes visit thistles, asters, penstemons, and dogbane
+ males begin flight earlier than females, and after mating the females enter summer aestivation for 3 5 weeks before becoming gravid in early aug (james, 8a). oviposition occurs in aug sep in the vicinity of senesced violets
+ pyle (2) observed females ovipositing on rocks at the base of v. adunca in the olympic mts of wa. immature stage biology we reared this species 4 times
+ on aug 1,3, 10, and 30 (different years) gravid females were obtained from yakima, kittitas, and garfield cos., wa, and grant co., or, respectively
+ on each occasion large numbers of eggs (  ) were laid on dried v. glabella and v. labradorica (labrador violet) leaves and stems and inert surfaces (paper, cage sides, etc.). the yakima co. cohort oviposited only on potted v. labradorica during the first 2 days, ignoring dried foliage
+ eggs hatched in  9 days at 25 c; l partially consumed eggshells, sought refuge under leaves and debris, and became dormant
+ l were overwintered at 4 5 c from late sep/early oct. survival of l during overwintering varied with relative humidity; high mortality occurred at 6() 7()o rh, low mortality at 80 90% rh. larvae were exposed to warm (20 26 c) temperatures and continuous light or natural daylengths after 90  days and reared on v mittall, v. adunca, v. glabella, or v labradorica
+ development from start of feeding to pupation took 30 35 days, with adults eclosing after a further 12 days
+ this is significantly faster than the rates recorded for a. coronis, a. zercnc, a. cglcis, and a. cybele (james, 8). feeding by l was initially on flowers or small leaves, the earliest feeding causing windowpanes in leaves
+ l2 l6 fed on larger leaves, eating from the edges
+ .arvae fed well on all violets except v labradorica when provided with alternative hosts; however, l4 l6 in a no choice test with v. labradorica developed to adulthood
  no nests are made and larvae are nocturnal, retreating into refugia during the day. there are 6 instars and protection is based on diurnal concealment, chemical protection (ventral gland on segment 1, setal droplets in 1.1), and spines
-  description of immature stages the egg is yellowish while turning purplish red, with -20 strong vertical ribs merging to -12 around the micropyle
- li is reddish brown with a transverse row of 8 black bullae on each segment, each with a single long black seta with a droplet at the tip. l2 is purplish brown with black conical spines, each with -10 dark setae
+ description of immature stages the egg is yellowish while turning purplish red, with  20 strong vertical ribs merging to  12 around the micropyle
+ l is reddish brown with a transverse row of 8 black bullae on each segment, each with a single long black seta with a droplet at the tip. l2 is purplish brown with black conical spines, each with  10 dark setae
  there are vague dark longitudinal lines and the subspiracular bullae have yellowish bases
- l3 is darker; subspiracular spines sometimes have bright orange-red bases
+ l3 is darker; subspiracular spines sometimes have bright orange red bases
  l4 is black with 2 pale dorsal stripes and sometimes similar orange markings
- l5 is similar, but the posterior half of each segment is lightly corrugated with several small folds, and the black head usually has some orange-brown markings
+ l5 is similar, but the posterior half of each segment is lightly corrugated with several small folds, and the black head usually has some orange brown markings
  l6 is uniformly charcoal black; the subspiracular spines are orange, and the bases of dorsolateral spines may be slightly orange
  dorsolateral spines have a squarish black patch around the bases, forming 2 longitudinal bands; between them are 2 narrow indistinct gray lines
- orange-brown markings on the head, if present, are limited
+ orange brown markings on the head, if present, are limited
  the pupa is dark reddish brown with black dorsal markings and rufous inlersegmental bands
  tlie wing cases are brown with black smudged markings
- all argynnis spp. have similar larvae (lames, 2008a), but several are considerably lighter than a. hydaspe, including those of a. coronis, a. zercnc, a. inonnonia
-  subfamily heliconiinae
- | family nymphalidae
- 249  l2 loi 5 mm  egg @ 1.0 mm (fresh, top, mature, bottom) pupa @ 22 mm  l3 (3) 8 mm  li @ 1.5 mm  a. atlantis, and a. eallippc
- the larvae i>t cylcis are dark with pale dorsal lines, in .4. cvbclc the orange spines are numerous and prominent, and the head is marked with brown dorsallv
- .\rgvntiis hesperis brico and a. h. dodgci are ver\' similar, although a. h. brico may have more extensive brown head markings
- photos of larvae and pupae in woodward (2005) and neill (2007) and a larva in guppy and shepard (2001) are similar to ours
-  james (2008a) illustrated the complete lite historv
-  discussion  gravid females lay eggs readily even in small containers as long as violet debris is present; however, overwintering of 1,1 can be difficult, with substantial mortality if conditions are too dry or too moist
+ all argynnis spp. have similar larvae (lames, 8a), but several are considerably lighter than a. hydaspe, including those of a. coronis, a. zercnc, a. inonnonia
+ subfamily heliconiinae
+  family nymphalidae
+  l2 lo 5 mm egg @ 1.0 mm (fresh, top, mature, bottom) pupa @ 22 mm l3 (3) 8 mm l @ 1.5 mm a. atlantis, and a. eallippc
+ the larvae >t cylcis are dark with pale dorsal lines, in .4. cvbclc the orange spines are numerous and prominent, and the head is marked with brown dorsallv
+ .rgvntiis hesperis brico and a. h. dodgc are ver' similar, although a. h. brico may have more extensive brown head markings
+ photos of larvae and pupae in woodward (5) and neill (7) and a larva in guppy and shepard (1) are similar to ours
+ james (8a) illustrated the complete lite historv
+ discussion gravid females lay eggs readily even in small containers as long as violet debris is present; however, overwintering of 1,1 can be difficult, with substantial mortality if conditions are too dry or too moist
  details of female aestivation (e.g., timing, behavior) need elucidation, as do the factors that shape the abundance and distribution of this species
  little is known of the natural enemies affecting a. hydaspe
-  l4 (3) 1 5 mm  ls @ 19 mm  l6 @ 32 mm  x  q.  v>  o fl>  q>  vq vc 3 3 k' 3- v; a. q in  t3 a>  00 o, in a c < 0)  l6 @ 37 mm    250   mormon fritillary argynnis mormonia erinna (w. h. edwards)  i  adult biology argynnis mormonia ranges from ak s to az and e to mb, sd, ut, and co, occupying mid-high-elevation habitats
- two subspecies are found in cascadia; a. m. erinna is found in extreme s bc, in ne and se vva,  and in the cascades, ochocos, wallowas, and blue  mts of or. argynnis mormonia erinna flies in moist alpine and subalpine meadows, also drier hillsides, from -2,400 to 7,000 ft (warren, 2005). the single brood flies from late june to mid sep but is most common during july-aug. boggs (1987), studying a co population of a. mormonia, found males emerge 2-3 weeks before females and mate more than once
-  females mate only once and do not appear to undergo reproductive diapause
+ l4 (3) 1 5 mm ls @ 19 mm l6 @ 32 mm x q. v> o fl> q> vq vc 3 3 k' 3  v; a. q in t3 a> 00 o, in a c < 0) l6 @ 37 mm   mormon fritillary argynnis mormonia erinna (w. h. edwards)  adult biology argynnis mormonia ranges from ak s to az and e to mb, sd, ut, and co, occupying mid high elevation habitats
+ two subspecies are found in cascadia; a. m. erinna is found in extreme s bc, in ne and se vva, and in the cascades, ochocos, wallowas, and blue mts of or. argynnis mormonia erinna flies in moist alpine and subalpine meadows, also drier hillsides, from  2, to 7, ft (warren, 5). the single brood flies from late june to mid sep but is most common during july aug. boggs (7), studying a co population of a. mormonia, found males emerge 2 3 weeks before females and mate more than once
+ females mate only once and do not appear to undergo reproductive diapause
  dispersal is limited, and males patrol for females
  mated females spend much time crawling through ground vegetation looking for oviposition sites
- fecundity is directly related to adult nutrition (boggs and ross, 1993). both sexes nectar on flowers, including asters, yarrow, and pearly everlasting; males and older females also visit mud, carrion, and animal scat
- larval hosts in cascadia include viola palustris (marsh violet), v. adunca (blue violet), v. nephrophylla (northern bog violet), v. nuttalli (nuttall's violet), and v. sempervirens (evergreen violet) (pyle, 2002; warren, 2005; miller and hammond, 2007). eggs are laid singly on or near senescing violets
-  immature stage biology we reared or partially reared this species from females collected in pend oreille co., wa and wallowa co.,  or during aug. oviposition occurred immediately when females were provided with dried foliage of v labradorica (labrador violet) in plastic boxes  with muslin lids (32 x 20 x 9 cm). eggs were hidden underneath foliage and also laid on living foliage when provided
- eggs hatched after 10 days at 21-25 c, and li sought refuge in curled leaves without feeding on eggshells or leaves
- 1.1 were overwintered at 5 c from sep 24 for 109 days with -9090 survival
- feeding commenced on v adunca, v labradorica, and v. odorala (sweet violet) after 5 days at 20-25 c, 12-15 hr light, and development from l2 to pupation took 68 days
- pupae held at 17-21c eclosed in 22 days
+ fecundity is directly related to adult nutrition (boggs and ross, 3). both sexes nectar on flowers, including asters, yarrow, and pearly everlasting; males and older females also visit mud, carrion, and animal scat
+ larval hosts in cascadia include viola palustris (marsh violet), v. adunca (blue violet), v. nephrophylla (northern bog violet), v. nuttall (nuttall's violet), and v. sempervirens (evergreen violet) (pyle, 2; warren, 5; miller and hammond, 7). eggs are laid singly on or near senescing violets
+ immature stage biology we reared or partially reared this species from females collected in pend oreille co., wa and wallowa co., or during aug. oviposition occurred immediately when females were provided with dried foliage of v labradorica (labrador violet) in plastic boxes with muslin lids (32 x 20 x 9 cm). eggs were hidden underneath foliage and also laid on living foliage when provided
+ eggs hatched after 10 days at 21 25 c, and l sought refuge in curled leaves without feeding on eggshells or leaves
+ 1.1 were overwintered at 5 c from sep 24 for  days with  0 survival
+ feeding commenced on v adunca, v labradorica, and v. odorala (sweet violet) after 5 days at 20 25 c, 12 15 hr light, and development from l2 to pupation took 68 days
+ pupae held at 17 21c eclosed in 22 days
  larvae fed on young leaves at first, then older leaves, eating from the edges mostly at night
- l1-l3 tend to rest and feed communally in captivity
- l2-l6 possess an eversible ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 2008a) and is likely defensive
+ l1 l3 tend to rest and feed communally in captivity
+ l2 l6 possess an eversible ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 8a) and is likely defensive
  mature larvae silk together leaves as pupation tents, and pupation occurs close to the ground
  if hanging leaves are not available, larvae gather leaves and silk them onto a substrate to form a tent
- larval defense is based  on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in li), and physical protection (spines).  description of immature stages the broad-based conical egg is creamy white turning orange-brown with indistinct red spots
- utere are 24-26 prominent vertical ribs merging to -12 at the top. li is medium-dark brown, with 8-10 prominent black bullae across each segment
+ larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in l), and physical protection (spines). description of immature stages the broad based conical egg is creamy white turning orange brown with indistinct red spots
+ utere are 24 26 prominent vertical ribs merging to  12 at the top. l is medium dark brown, with 8 10 prominent black bullae across each segment
  each bulla sports a long dark seta with a droplet at the tip. l2 is black with a wide white stripe dorsally, bisected by a thin brown line
- six conical black spines with pale orange and white bases traverse each segment, each bearing -10 setae
- 1.3 is similar, with well-developed lateral white patches
+ six conical black spines with pale orange and white bases traverse each segment, each bearing  10 setae
+ 1.3 is similar, with well developed lateral white patches
  l4 has increased white areas, and the larva appears white mottled with black and orange markings
  the head is black with indistinct brown dorsolateral markings
  l5 is similar, black with distinct white stripes dorsally separated by a black line, and extensive white vermiform markings laterally
  spines are black except for the ventrolateral row, which is yellowish orange; all spine bases are orange
  l6 is black with orangish white spines
  tlie dorsal orangish white stripe bisected isy a black line is prominent
- lateral white vermiform markings are distinct, and some coalesce to form oblique forward-facing dashes from spine bases in the upper 2 lateral rows
+ lateral white vermiform markings are distinct, and some coalesce to form oblique forward facing dashes from spine bases in the upper 2 lateral rows
  the black head is covered dorsally with brown markings dotted with black
  tlie pupa is light brown with black markings on the head, thorax, and abdomen
  all argynnis spp. larvae are similar
-  subfamily heliconiinae
- | family nymphalidae
- 251  l2 to) 4 mm  egg @ 0.8 mm li (a) 1.5 mm  l3 @ 7 mm  l4 @ 11 mm  pupa @16 mm  but mature larvae of a. li. hrico
- a. h. dodi^ci, ,4. hydaspe, a. eglcis, and a. cyhclc are darker with limited or no white markings
- ihe lighter mature larvae of a. zerenc, a. coronis, a. atlantis, and a. callippe are most similar, but only a. atlantis and a. coronis have bisected dorsal stripes as prominent; however, both subspecies of a. inonnonia are the only entities with all spines whitish in 1.6. miller and hammond (2007) show an image of a mature larva that appears similar to ours
-  discussion  both subspecies of a. mormonia are easily reared from gravid females
- in our rearings, a. m. erinna l3-l6 were lighter and had more extensive white markings laterally than a. nt. washingtonia
+ subfamily heliconiinae
+  family nymphalidae
+  l2 to) 4 mm egg @ 0.8 mm l (a) 1.5 mm l3 @ 7 mm l4 @ 11 mm pupa @16 mm but mature larvae of a. l. hrico
+ a. h. dod^c, ,4. hydaspe, a. eglcis, and a. cyhclc are darker with limited or no white markings
+ ihe lighter mature larvae of a. zerenc, a. coronis, a. atlantis, and a. callippe are most similar, but only a. atlantis and a. coronis have bisected dorsal stripes as prominent; however, both subspecies of a. inonnonia are the only entities with all spines whitish in 1.6. miller and hammond (7) show an image of a mature larva that appears similar to ours
+ discussion both subspecies of a. mormonia are easily reared from gravid females
+ in our rearings, a. m. erinna l3 l6 were lighter and had more extensive white markings laterally than a. nt. washingtonia
  tlie dorsal white stripe was also more prominent and the overall appearance of late instars resembled that of a. atlantis
- l2ornfield (1980) described the larva of a. m. erinna in or as paler than other argynnis spp., but rearing of this subspecies from other locations (e.g., high-elevation habitats in or) is needed to determine whether lighter coloration is diagnostic in separating erinna from wiis/ungfou/u.  l5 @ 18 mm  l6 @ 32 mm  o  3 o 3  01 -r  vc  to v: 3 3  5'  2 o t  2 o 3  s ftj t  3 3 3  q.  o)  a in  l6 @ 32 mm    252   mormon fritillary argynnis mormonia washingtonia (barnes & mcdunnough)  adult biology argynnis mormonia ranges from ak s to az and e to  mb, sd, ut, and co, occupying mid-high-elevation habitats
+ l2ornfield (0) described the larva of a. m. erinna in or as paler than other argynnis spp., but rearing of this subspecies from other locations (e.g., high elevation habitats in or) is needed to determine whether lighter coloration is diagnostic in separating erinna from wiis/ungfou/u. l5 @ 18 mm l6 @ 32 mm o 3 o 3 01  r vc to v: 3 3 5' 2 o t 2 o 3 s ftj t 3 3 3 q. o) a in l6 @ 32 mm   mormon fritillary argynnis mormonia washingtonia (barnes & mcdunnough) adult biology argynnis mormonia ranges from ak s to az and e to mb, sd, ut, and co, occupying mid high elevation habitats
  two subspecies that differ substantially as adults occur in cascadia
- argynnis mormonia washingtonia is found in s bc and in the cascades of wa (pyle, 2002) and flies in moist alpine and subalpine meadows, also drier hillsides, from -2,500  to 7,000 ft. the single brood flies from early june to mid-oct but is most common during july-aug. females mate only once and do not appear to undergo reproductive diapause
+ argynnis mormonia washingtonia is found in s bc and in the cascades of wa (pyle, 2) and flies in moist alpine and subalpine meadows, also drier hillsides, from  2, to 7, ft. the single brood flies from early june to mid oct but is most common during july aug. females mate only once and do not appear to undergo reproductive diapause
  dispersal is limited, and males patrol for females
  mated females spend much time crawling through ground vegetation looking for oviposition sites
- both sexes nectar on flowers,  including asters, yarrow, and pearly everlasting; males and older females also visit mud, carrion, and animal scat
- larval hosts include viola paiustris (marsh violet), v. adunca (blue violet), v. nephrophylla (northern bog violet), v nuttalli (nuttall's violet), and v sempervirens (evergreen violet) (pyle, 2002; warren, 2005; miller and hammond, 2007). eggs are laid singly on or near senescing violets
-  immature stage biology we reared this species several times
- females obtained from yakima co., wa july 29-30 (2 years) oviposited immediately when provided with dried foliage of v. labradorica (labrador violet) in plastic boxes with muslin lids (32 x 20 x 9 cm). eggs were hidden underneath foliage and also laid on living foliage when provided
- eggs hatched after 10 days at 21-25 c, and li sought refuge in curled leaves without feeding on eggshells or leaves
- li held at 21-25 c, 30-40% rh for 5-10 weeks before overwintering suffered 95- 100% mortality, but limited exposure (7 days) resulted  in <516 mortality
- li were overwintered at 5 c for 88 days with -9016 survival
- feeding commenced on v adunca, v labradorica, and v odorata (sweet violet) after 2 days at 27 c, 12- 15 hr light
+ both sexes nectar on flowers, including asters, yarrow, and pearly everlasting; males and older females also visit mud, carrion, and animal scat
+ larval hosts include viola paiustris (marsh violet), v. adunca (blue violet), v. nephrophylla (northern bog violet), v nuttall (nuttall's violet), and v sempervirens (evergreen violet) (pyle, 2; warren, 5; miller and hammond, 7). eggs are laid singly on or near senescing violets
+ immature stage biology we reared this species several times
+ females obtained from yakima co., wa july 29 30 (2 years) oviposited immediately when provided with dried foliage of v. labradorica (labrador violet) in plastic boxes with muslin lids (32 x 20 x 9 cm). eggs were hidden underneath foliage and also laid on living foliage when provided
+ eggs hatched after 10 days at 21 25 c, and l sought refuge in curled leaves without feeding on eggshells or leaves
+ l held at 21 25 c, 30 40% rh for 5 10 weeks before overwintering suffered 95  % mortality, but limited exposure (7 days) resulted in < mortality
+ l were overwintered at 5 c for 88 days with  6 survival
+ feeding commenced on v adunca, v labradorica, and v odorata (sweet violet) after 2 days at 27 c, 12  15 hr light
  development from 1.2 to pupation took 44 days
- pupae held at 17-21 c eclosed in 18 days
+ pupae held at 17 21 c eclosed in 18 days
  larvae fed on young leaves at first, then older leaves, eating from the edges and mostly at night
- 1.1-1.3 tend to rest and feed communally in captivity
- 1.2-1.6 possess an eversible ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 2008a) and is likely defensive
+ 1.1 1.3 tend to rest and feed communally in captivity
+ 1.2 1.6 possess an eversible ventral gland on segment 1 that produces a musky odor when the larva is disturbed (james, 8a) and is likely defensive
  mature larvae silk together leaves as pupation tents, and pupation occurs close to the ground
  if hanging leaves are not available, larvae gather leaves and silk them to a substrate to form a tent
  prepupae that fall to the ground are able to pupate successfully
- larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in 1.1), and physical protection (spines).  description of immature stages the conical egg is creamy white becoming brown with indistinct red spots prior to hatching
- tliere are 24-26 prominent vertical ribs merging to -12 at the top. li is medium-dark brown with 8-10 protninent black bullae across each segment
- each bulla sports a long dark seta with a droplet at the tip. l2 is dark brown-black with a wide pale stripe dorsally and a shiny black head
- six prominent conical black spines traverse each segment, each bearing -10 setae
+ larval defense is based on concealment (nocturnal feeding, pupa), chemical protection (ventral gland, setal droplets in 1.1), and physical protection (spines). description of immature stages the conical egg is creamy white becoming brown with indistinct red spots prior to hatching
+ tliere are 24 26 prominent vertical ribs merging to  12 at the top. l is medium dark brown with 8 10 protninent black bullae across each segment
+ each bulla sports a long dark seta with a droplet at the tip. l2 is dark brown black with a wide pale stripe dorsally and a shiny black head
+ six prominent conical black spines traverse each segment, each bearing  10 setae
  l3 is black with a pale dorsal stripe bisected by a dark line
- orange-based black spines are larger and bear -12 setae
+ orange based black spines are larger and bear  12 setae
  l4 is black mottled with gray vermiform markings and a dorsal grayish white stripe bisected by a dark line
  orange bases ot spines are larger, and the head is black with distinct brown tnarkings dorsolaterally, peppered with black dots
  l5 is similarly marked but darker with a distinct white stripe bisected by a dark line
  ventrolateral spines are yellowish orange, and the brown markings on the head are more extensive
- l6 is dark brown-black  with orangish white spines and a dorsal orangish white stripe bisected by a dark line
+ l6 is dark brown black with orangish white spines and a dorsal orangish white stripe bisected by a dark line
  lateral pale markings are limited
  ibe black head is covered dorsally with brown markings dotted with black
- tlte pupa is medium-dark brown with darker markings on the head, thorax, and abdomen
- all argynnis spp. larvae are similar, but mature larvae of a. /;. brico,  a. h. dodgei, a. hydaspe, a. cglcis, and a. cybelc are dark with limited or no white markings, llie lighter and dorsally striped mature larvae of a. zcrcne, a. coronis, a. atlantis, and a. callippc are most similar,  subfamily heliconiinae
- | family nymphalidae
- 253  l2 3 mm  eggs @ 0.9 mm  l3 @ 6 mm  3 o 3  q> -t  iq  3 3  li @ 1.5 mm  2 o  o 3  q  q lo  3-  3 to  l4 @ 12 mm  w.  o 3  ., it; -i- -  oj cu  3 rd tn  e  l5 @ 16 mm  pupa (a) 17 mm  but only a. atlantis and a. coronis have prominent bisected dorsal stripes; however, both subspecies of a. mormonia are the only entities with all spines whitish in l6. guppy and shepard (2001) show an image of a mature larva of ssp. opis that appears similar to ours
-  n  d c 3 3 o c to 3-  l6 @ 26 mm  discussion  both subspecies of a. mormonia are easily reared
- we found the larvae of a. in. washingtonia were darker and did not have the extensive white lateral  markings of a. m. eriniur, however, coloration and markings may vary with habitat and geography, and more rearing is needed to confirm this difference
- the need for sufficiently humid conditions (>70%) to ensure good survival of pre-overwintering, diapausing 1.1 likely reflects adaptation to the moist habitats occupied by a. in. washiiu^toniii
- high humidity is also needed for good survival of overwintering f.l.  l6 @ 26 mm  uaiulmu^ai.    254   silver-bordered fritillary fio/or/a se/ene ([schiffermuller])  adult biology boloria selene is primarily a n species found e of the cascades in bc and in n wa, also in small remnant  populations scattered in central and se wa, ne or, and the id panhandle
+ tlte pupa is medium dark brown with darker markings on the head, thorax, and abdomen
+ all argynnis spp. larvae are similar, but mature larvae of a. /;. brico, a. h. dodge, a. hydaspe, a. cglcis, and a. cybelc are dark with limited or no white markings, llie lighter and dorsally striped mature larvae of a. zcrcne, a. coronis, a. atlantis, and a. callippc are most similar, subfamily heliconiinae
+  family nymphalidae
+  l2 3 mm eggs @ 0.9 mm l3 @ 6 mm 3 o 3 q>  t iq 3 3 l @ 1.5 mm 2 o o 3 q q lo 3  3 to l4 @ 12 mm w. o 3 ., it;      oj cu 3 rd tn e l5 @ 16 mm pupa (a) 17 mm but only a. atlantis and a. coronis have prominent bisected dorsal stripes; however, both subspecies of a. mormonia are the only entities with all spines whitish in l6. guppy and shepard (1) show an image of a mature larva of ssp. opis that appears similar to ours
+ n d c 3 3 o c to 3  l6 @ 26 mm discussion both subspecies of a. mormonia are easily reared
+ we found the larvae of a. in. washingtonia were darker and did not have the extensive white lateral markings of a. m. eriniur, however, coloration and markings may vary with habitat and geography, and more rearing is needed to confirm this difference
+ the need for sufficiently humid conditions (>70%) to ensure good survival of pre overwintering, diapausing 1.1 likely reflects adaptation to the moist habitats occupied by a. in. washiiu^tonii
+ high humidity is also needed for good survival of overwintering f.l. l6 @ 26 mm uaiulmu^a.   silver bordered fritillary fio/or/a se/ene ([schiffermuller]) adult biology boloria selene is primarily a n species found e of the cascades in bc and in n wa, also in small remnant populations scattered in central and se wa, ne or, and the id panhandle
  it is circumboreal, occurring in europe and asia
- in north america it occurs in ak and much of canada, s into n us, and along the rocky mts to nm. the preferred habitats are bogs, fens, and moist riparian areas between 1,300 and 3,600 ft and it is locally common in some areas
- the flight period in cascadia is mid-april-early sep with 2 broods
- guppy and shepard (2001) reported an apparent partial third brood in early sep in s bc. the larval food plants include viola palustris (marsh violet), v. nephrophylla (northern bog violet), and v. glabella (stream violet). males patrol conspicuously over grassy, boggy areas near violets, searching for females
+ in north america it occurs in ak and much of canada, s into n us, and along the rocky mts to nm. the preferred habitats are bogs, fens, and moist riparian areas between 1, and 3, ft and it is locally common in some areas
+ the flight period in cascadia is mid april early sep with 2 broods
+ guppy and shepard (1) reported an apparent partial third brood in early sep in s bc. the larval food plants include viola palustris (marsh violet), v. nephrophylla (northern bog violet), and v. glabella (stream violet). males patrol conspicuously over grassy, boggy areas near violets, searching for females
  after mating, females remain concealed in the vegetation
  in captivity, oviposition occurs on host leaves or inert surfaces
- on aug 15 in pend oreille co., wa, we saw a second-brood female ovipositing on a hard edge of an unsurfaced road; viola was present a few hundred feet away
- a population of b. selene at moxee bog, yakima co., wa (pyle, 2002) may have been extirpated, possibly because removal of livestock allowed unbrowsed vegetation to choke out the viola
- scott (1992) reported the extinction of a small population in co, when horse grazing was stopped
+ on aug 15 in pend oreille co., wa, we saw a second brood female ovipositing on a hard edge of an unsurfaced road; viola was present a few hundred feet away
+ a population of b. selene at moxee bog, yakima co., wa (pyle, 2) may have been extirpated, possibly because removal of livestock allowed unbrowsed vegetation to choke out the viola
+ scott (2) reported the extinction of a small population in co, when horse grazing was stopped
  the survival of b. selene appears dependent on herbivore grazing in at least some situations
-  immature stage biology we reared this species 3 times from gravid females from the first and second broods
- on june 24,4 females  from mary ann creek, okanogan co., wa, produced -50 eggs
- larvae provided with viola glabella and v.  scinpcrvircns preferred v. glabella
- thirteen larvae  reached l2, 10 pupating and producing adults
- females from tiger meadows, pend oreille co., wa, on july 1 and aug 28 produced -100 eggs during 5 days
- eggs hatched in 5-6 days at 21-25 c, and  larvae were provided with v glabella, v labradorica (labrador violet), and v' trieolor (pansy), which they accepted equally
- development from li to pupation took 25-30 (first brood) or 30-34 days, with eclosion  after 10-20 days
- guppy and shepard (2001) reported that some larvae in the first brood in bg develop very slowly
- some (3010) of our july 1 first brood became dormant in l3 despite long daylengths
- autumn- reared larvae were exposed to naturally declining daylengths, and development ceased in l2. a subgroup was transferred to 26-30 g and continuous lighting and immediately recommenced feeding
- overwintering is reported to occur as l2-l4 (scott, 1986a). larvae feed nocturnally on violet leaves, with early instars feeding on the undersides (scott, 1986a). l3-l5 eat large holes from the edges inward
+ immature stage biology we reared this species 3 times from gravid females from the first and second broods
+ on june 24,4 females from mary ann creek, okanogan co., wa, produced  50 eggs
+ larvae provided with viola glabella and v. scinpcrvircns preferred v. glabella
+ thirteen larvae reached l2, 10 pupating and producing adults
+ females from tiger meadows, pend oreille co., wa, on july 1 and aug 28 produced   eggs during 5 days
+ eggs hatched in 5 6 days at 21 25 c, and larvae were provided with v glabella, v labradorica (labrador violet), and v' trieolor (pansy), which they accepted equally
+ development from l to pupation took 25 30 (first brood) or 30 34 days, with eclosion after 10 20 days
+ guppy and shepard (1) reported that some larvae in the first brood in bg develop very slowly
+ some (0) of our july 1 first brood became dormant in l3 despite long daylengths
+ autumn  reared larvae were exposed to naturally declining daylengths, and development ceased in l2. a subgroup was transferred to 26 30 g and continuous lighting and immediately recommenced feeding
+ overwintering is reported to occur as l2 l4 (scott, 6a). larvae feed nocturnally on violet leaves, with early instars feeding on the undersides (scott, 6a). l3 l5 eat large holes from the edges inward
  there are 5 instars, and no nests are made
- l2-l5 possess a ventral gland on segment 1 that secretes chemicals likely used to repel predators
+ l2 l5 possess a ventral gland on segment 1 that secretes chemicals likely used to repel predators
  tlie survival strategy employs diurnal concealment, protective spines, and chemical defense
-  description of immature stages the egg is whitish turning straw yellow with -18 vertical ribs crossed by 22-24 lesser horizontal ribs, creating a cancellate pattern
- li is marbled rusty, cream, and greenish
+ description of immature stages the egg is whitish turning straw yellow with  18 vertical ribs crossed by 22 24 lesser horizontal ribs, creating a cancellate pattern
+ l is marbled rusty, cream, and greenish
  ttiere are paired dorsal brown patches on the 4th, 6th, 8th, and 10th segments
- all segments bear 8-12 shiny black bullae, giving rise dorsally to long black simple setae and laterally to pale yellowish setae
+ all segments bear 8 12 shiny black bullae, giving rise dorsally to long black simple setae and laterally to pale yellowish setae
  the bullae in 1.2 are raised into itlack cones in uniform rows, each bulla bearing a cluster of dark setae
  the body is streaked longitudinally in a pattern of alternating dark and light stripes
  in l3 the dark stripes are reduced, the black bullae contrast with lighter colors at their bases, and considerable orange suffusion occurs laterally and dorsolaterally
@@ -519,61 +519,61 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  1.4 is a mottled jumble of gray, orange, and black, with gray dominating dorsally
  tlie horns on segment 1 are longer, and all bullae are black, bearing numerous setae
  l5 is purplish gray, mottled with numerous black splotches and yellow spinctike bullae bearing setae
- the anterior 3 segments are  subfamily heliconiinae
- | family nymphalidae
- 255  li (2) 2.0 mm  egg (s) 0.9 mm  pupa @15 mm  black, and the horns t)n the first segment are long and black with yellow bases
- the pupa is mottled brown, black, and reddish with spiny projections; there are 5 pairs of shiny cream-colored cones on the head and thorax
- the larcae of other boloria  spp. are similar; however, the contrasting cellow spines, long anterior horns, and black anterior segments of b. selene in l5 are diagnostic
- there are numerous published images of larvae, the most recent including allen (1997) and guppy and shepard (2001) (both with pupa images), and wagner (2003), allen et al. (2005), and neill (2007). all images agree with ours
-  discussion  viola host plants grow very low, often under other vegetation where the crypticalh' colored, nocturnal larvae are very difficult to find, but eggs can be obtained from gravid females
- larvae mac- be fragile in li, but later instars are hardier and will accept a number of viola spp., including commercial pansy
- most eggs from first-brood females develop directly to adults, but some midstage larvae diapause
- all second-brood larx'ae overwinter as diapausing l2-l4. ttie environmental cues for inducing diapause in the second generation are unknown, but we suspect declining daylength to be important; we were able to avoid diapause bv exposing l2 to continuous light
+ the anterior 3 segments are subfamily heliconiinae
+  family nymphalidae
+  l (2) 2.0 mm egg (s) 0.9 mm pupa @15 mm black, and the horns t)n the first segment are long and black with yellow bases
+ the pupa is mottled brown, black, and reddish with spiny projections; there are 5 pairs of shiny cream colored cones on the head and thorax
+ the larcae of other boloria spp. are similar; however, the contrasting cellow spines, long anterior horns, and black anterior segments of b. selene in l5 are diagnostic
+ there are numerous published images of larvae, the most recent including allen (7) and guppy and shepard (1) (both with pupa images), and wagner (3), allen et al. (5), and neill (7). all images agree with ours
+ discussion viola host plants grow very low, often under other vegetation where the crypticalh' colored, nocturnal larvae are very difficult to find, but eggs can be obtained from gravid females
+ larvae mac  be fragile in l, but later instars are hardier and will accept a number of viola spp., including commercial pansy
+ most eggs from first brood females develop directly to adults, but some midstage larvae diapause
+ all second brood larx'ae overwinter as diapausing l2 l4. ttie environmental cues for inducing diapause in the second generation are unknown, but we suspect declining daylength to be important; we were able to avoid diapause bv exposing l2 to continuous light
  a proportion of the population may be obliged to diapause as larvae regardless of environmental conditions
- little is known of natural enemies; however, pvle (2002) found that ambush bugs prey on adults visiting flowers
+ little is known of natural enemies; however, pvle (2) found that ambush bugs prey on adults visiting flowers
  research is needed to clarify the relationship between the ecology and persistence of b. selene and grazing by herbivores
-  l2 @ 5 mm  l3 @ 10 mm  l4 @ 15 mm  l5 @ 23 mm  < m  i  a* o n  a  a.  n  01 t  00 o_ 5  s t/)  2. s 3 rti  ttj n  5; ro  3 e_  ro  l5 @ 23 mm    256   meadow fritillary boloria bellona (fabricius)  adult biology boloria bellona ranges across canada and ne us  with disjunct populations in cascadia and the rocky mts. in cascadia small populations occur in n vva (okanogan and ferry cos.) and ne id. populations previously existed in the wa blue mts and in umatilla co.. or but have not been seen at these locations for  more than half a century
- e populations are often found in disturbed environments, but in the w the  habitat is restricted to mid-high-elevation meadows
+ l2 @ 5 mm l3 @ 10 mm l4 @ 15 mm l5 @ 23 mm < m  a* o n a a. n 01 t 00 o_ 5 s t/) 2. s 3 rt ttj n 5; ro 3 e_ ro l5 @ 23 mm   meadow fritillary boloria bellona (fabricius) adult biology boloria bellona ranges across canada and ne us with disjunct populations in cascadia and the rocky mts. in cascadia small populations occur in n vva (okanogan and ferry cos.) and ne id. populations previously existed in the wa blue mts and in umatilla co.. or but have not been seen at these locations for more than half a century
+ e populations are often found in disturbed environments, but in the w the habitat is restricted to mid high elevation meadows
  adults fly from late may to early july where violet host plants grow, particularly the favored viola canadensis (canada violet). males patrol all day. conspicuously searching for females where open forest areas adjoin grassy meadows and boggy streams
  females generally remain low in the vegetation
  during mating the pair alternately perches and flies in tandem, avoiding other patrolling males
  in mid to late june, females oviposit on or near host plants, in damp boggy areas or adjacent woodland meadows
- scott (1992) observed  a female landing on a non-host plant, crawling down to the base, and ovipositing on a dead grass blade
+ scott (2) observed a female landing on a non host plant, crawling down to the base, and ovipositing on a dead grass blade
  on june 23 we collected a mating female, and 3 days later she laid 85 eggs
  the eggs were laid singly
  12 on live violets, the remainder on inert surfaces
- the  meadow fritillary is reported to be double- and even triple-brooded in more e and s areas (scott 1986a), larvae often produce a second brood of adults in  captivity, and pyle (2002) reported 2 generations in cascadia; however, records of second-brood adults  in wa appear to be lacking
- scott (1992) reared a single brood in co in which 19 adults eclosed but 23 larvae diapaused, producing adults after a period of dormancy
-  immature stage biology we reared this species once
- eggs from gravid females obtained in okanogan co. hatched after 5-7  days, with li consuming eggshells belore feeding on viola glabclla (stream violet) leaves
+ the meadow fritillary is reported to be double  and even triple brooded in more e and s areas (scott 6a), larvae often produce a second brood of adults in captivity, and pyle (2) reported 2 generations in cascadia; however, records of second brood adults in wa appear to be lacking
+ scott (2) reared a single brood in co in which 19 adults eclosed but 23 larvae diapaused, producing adults after a period of dormancy
+ immature stage biology we reared this species once
+ eggs from gravid females obtained in okanogan co. hatched after 5 7 days, with l consuming eggshells belore feeding on viola glabclla (stream violet) leaves
  larvae matured quickly, eating holes in leaves from the edge inward
- feeding throughout development was mostly nocturnal, and larvae often wandered off host plants  to rest
+ feeding throughout development was mostly nocturnal, and larvae often wandered off host plants to rest
  the larvae did not build nests and typically rested on inert surfaces or under cover
- larvae of b.  bellona are not gregarious but are tolerant of each other
- a cohort of 12 1.4 and 1.5 were transferred  to viola labradorica (labrador violet) and readily  accepted this commercially available violet species
- development from egg-hatch to pupation took -17-20 days, with adults eclosing 24-34 days post egg-hatch
- all captive larvae produced second- brood adults
- according to scott (1992). b. bellona overwinters as freshly molted (unled) 1.4. and it is likely that environmental and host-plant conditions experienced by 1.2-1.3 determine whether direct development or diapause occurs
- pyle (2002) reported that overwintering occurs in 1.3 or 1.4.  description of immature stages 'ihe pale greenish yellow egg bears 18-20 vertical ribs, and many small lateral cross-grooves
+ larvae of b. bellona are not gregarious but are tolerant of each other
+ a cohort of 12 1.4 and 1.5 were transferred to viola labradorica (labrador violet) and readily accepted this commercially available violet species
+ development from egg hatch to pupation took  17 20 days, with adults eclosing 24 34 days post egg hatch
+ all captive larvae produced second  brood adults
+ according to scott (2). b. bellona overwinters as freshly molted (unled) 1.4. and it is likely that environmental and host plant conditions experienced by 1.2 1.3 determine whether direct development or diapause occurs
+ pyle (2) reported that overwintering occurs in 1.3 or 1.4. description of immature stages 'ihe pale greenish yellow egg bears 18 20 vertical ribs, and many small lateral cross grooves
  1.1 has a shiny black head and many simple, long setae on the body and head
- the anterior 3 segments are creamy gray  with posterior segments alternately brown and gray
- in l2 there is a staggered row of about 8 small dark tubercles across each segment, each ot the tubercles giving rise to 2-3 simple setae; the body is cream, brown, and green
- in 1.3 the tubercles are cone shaped and black, each giving rise to 10-15 unbranched black spines
- the body is variegated in brown and cream, with a distinct dark brown lateral stripe and a broken  cream stripe above it. ihe head in this and all instars is shiny black, bearing numerous setae
- l4 is grayish, with 2-3 faint rings circling each segment between tubercles and the black side stripe
- 1.5 is similar e.xcept  the ground color is magenta-gray, and the tubercles are black at the tip and pink at the base
+ the anterior 3 segments are creamy gray with posterior segments alternately brown and gray
+ in l2 there is a staggered row of about 8 small dark tubercles across each segment, each ot the tubercles giving rise to 2 3 simple setae; the body is cream, brown, and green
+ in 1.3 the tubercles are cone shaped and black, each giving rise to 10 15 unbranched black spines
+ the body is variegated in brown and cream, with a distinct dark brown lateral stripe and a broken cream stripe above it. ihe head in this and all instars is shiny black, bearing numerous setae
+ l4 is grayish, with 2 3 faint rings circling each segment between tubercles and the black side stripe
+ 1.5 is similar e.xcept the ground color is magenta gray, and the tubercles are black at the tip and pink at the base
  an additional white longitudinal stripe is present along the basal periphery
  the pupa is brownish gray and angular
- a vertical column of 3 strong v-shaped chevrons dominates the posterior end of the abdomen, and there are several reflective metallic spots
+ a vertical column of 3 strong v shaped chevrons dominates the posterior end of the abdomen, and there are several reflective metallic spots
  larvae ot other boloria spp. are similar to b. bcllojia and are best separated by comparison ot images
- larvae of boloria cpithorc lack the well-defined side stripes and differ in details of the complex body mottling; also spine-bearing bullae are orange
- boloria sclenc often co-occurs with b. bellona and feeds on the same host  subfamily heliconiinae
- | family nymphalidae
- 257  eggs @1.0 mm l2 @ 3.1 mm  l3 @ 6 mm  li @ 1.7 mm  plants; however, mature larvae ot this species are solid black anteriorly, mottled grav posteriorlv
+ larvae of boloria cpithorc lack the well defined side stripes and differ in details of the complex body mottling; also spine bearing bullae are orange
+ boloria sclenc often co occurs with b. bellona and feeds on the same host subfamily heliconiinae
+  family nymphalidae
+  eggs @1.0 mm l2 @ 3.1 mm l3 @ 6 mm l @ 1.7 mm plants; however, mature larvae ot this species are solid black anteriorly, mottled grav posteriorlv
  with contrasting orange tubercles
- scott (1992) provided a description of the immature stages of b. bellona that agrees well with our images
- images of mature larvae shown by allen et. al. (2005) and wagner (2005) are similar to ours; however, the image of a mature larva from \v\' in allen (1997) differs in being brown with white markings and has a red-brown head
-  discussion  the scarcity of b. bellona in cascadia presents a challenge for obtaining gravid females
+ scott (2) provided a description of the immature stages of b. bellona that agrees well with our images
+ images of mature larvae shown by allen et. al. (5) and wagner (5) are similar to ours; however, the image of a mature larva from v' in allen (7) differs in being brown with white markings and has a red brown head
+ discussion the scarcity of b. bellona in cascadia presents a challenge for obtaining gravid females
  timing appears to be important, with newly mated females likely to provide the best chances of obtaining fertile eggs
  females hide in grass and shrubs, and walking through prime habitat to flush them into flight may assist in finding them
  once eggs are obtained
@@ -582,175 +582,175 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  ttie full host range in cascadia is unknown and deserves study
  it is difficult to find larvae as host plants are numerous, small, and typically well hidden under taller grasses and shrubs; also the larvae are nocturnal feeders and likely spend daylight hours in protected refugia
  very little is known of the biology and ecology of this species, including the biotic and abiotic factors affecting abundance and distribution in cascadia
-  l4 @ 13 mm  ls @ 24 mm  q>  a. o  v;  03 o  q  o-  . o 3 q  0) o-  c  pupa @ 15 mm    258   western meadow fritillary boloria epithore (w. h. edwards)  adult biology boloria epithore flies in a single brood from early may to late sep in cascadia (depending on elevation), favoring meadows, riparian areas, logging roads, and moist openings in forests and mountains from sea level to -8,000 ft (guppy and shepard, 2001; warren, 2005). guppy and shepard (2001) found that populations fly for -3 weeks
+ l4 @ 13 mm ls @ 24 mm q> a. o v; 03 o q o  . o 3 q 0) o  c pupa @ 15 mm   western meadow fritillary boloria epithore (w. h. edwards) adult biology boloria epithore flies in a single brood from early may to late sep in cascadia (depending on elevation), favoring meadows, riparian areas, logging roads, and moist openings in forests and mountains from sea level to  8, ft (guppy and shepard, 1; warren, 5). guppy and shepard (1) found that populations fly for  3 weeks
  this species is locally abundant and is found w of the cascades throughout cascadia and along the e slopes as well
- it also occurs in the mountains of ne wa, and in the blue and  wallowa mts of se wa and ne or. beyond cascadia it ranges from sw yt and sw ab, s through bc, mt, wa, id, wy, and or to central ca. larval host plants are violets including viola adunca (blue violet), v. glabella (stream violet), and v. scmpervirens (evergreen violet); warren (2005) and shapiro and manolis (2007) reported v. ocellata is used in ca, and scott (19b6a) suggested that v. nephrophylla is also a likely host
+ it also occurs in the mountains of ne wa, and in the blue and wallowa mts of se wa and ne or. beyond cascadia it ranges from sw yt and sw ab, s through bc, mt, wa, id, wy, and or to central ca. larval host plants are violets including viola adunca (blue violet), v. glabella (stream violet), and v. scmpervirens (evergreen violet); warren (5) and shapiro and manolis (7) reported v. ocellata is used in ca, and scott (19b6a) suggested that v. nephrophylla is also a likely host
  both sexes visit flowers, including pearly everlasting, asters, and thistles, and males patrol relentlessly in search of females
  in captivity, females lay eggs singly, mostly on inert surfaces but also on cut and living viola plants if provided
-  immature stage biology we reared or partially reared this species 5 times, in all cases from eggs from captive females
+ immature stage biology we reared or partially reared this species 5 times, in all cases from eggs from captive females
  on july 27, 4 females from tuquala lk, kittitas co., wa, produced 45 eggs resulting in 31 overwintering l4, and on july 16 (different year, same locality), 3 females produced 20 eggs resulting in several overwintering l4, but none survived winter in either case
- two  females obtained july 31 near swauk pass, kittitas  co., produced many eggs; 21 l4 overwintered, with 3 achieving adulthood
- females obtained aug 1 from bear creek mt (yakima co., wa) laid numerous eggs on potted v. glabella resulting in 8 overwintering  1.4. three survived and molted to 1,5 but died before  pupation
- 'ihree females from sawtooth ridge (columbia co., wa) on july 8 produced -100 eggs on potted v.glabella and \'. labradorica (labrador violet) resulting in 2 1.4 overwintering and producing adults
- eggs hatched in 4-7 days and development was rapid on v. glabella, 17-18 days from 1.1 to l4. l4 continued feeding for 3-4 days before wandering off the plant, finding shelter in dead leaves, and entering diapause, often in groups
- diapause was terminated after 3-8 months by exposure to warm (15-26 c) conditions
- feeding commenced in 2-6 days, and larvae molted to 1.5 after 7-24 days, with pupation occurring 10 days later
- delayed termination of overwintering resulted in faster postdiapause development, with pupation occurring within 9-12 days
- newly hatched larvae refused to feed on the commercial v. odorata  (sweet violet), fed poorly on v' labradorica, but fed readily on v. glabella and v. adiitica leaves, eating scalloped holes from the edges
+ two females obtained july 31 near swauk pass, kittitas co., produced many eggs; 21 l4 overwintered, with 3 achieving adulthood
+ females obtained aug 1 from bear creek mt (yakima co., wa) laid numerous eggs on potted v. glabella resulting in 8 overwintering 1.4. three survived and molted to 1,5 but died before pupation
+ 'ihree females from sawtooth ridge (columbia co., wa) on july 8 produced   eggs on potted v.glabella and '. labradorica (labrador violet) resulting in 2 1.4 overwintering and producing adults
+ eggs hatched in 4 7 days and development was rapid on v. glabella, 17 18 days from 1.1 to l4. l4 continued feeding for 3 4 days before wandering off the plant, finding shelter in dead leaves, and entering diapause, often in groups
+ diapause was terminated after 3 8 months by exposure to warm (15 26 c) conditions
+ feeding commenced in 2 6 days, and larvae molted to 1.5 after 7 24 days, with pupation occurring 10 days later
+ delayed termination of overwintering resulted in faster postdiapause development, with pupation occurring within 9 12 days
+ newly hatched larvae refused to feed on the commercial v. odorata (sweet violet), fed poorly on v' labradorica, but fed readily on v. glabella and v. adiitica leaves, eating scalloped holes from the edges
  leaves were strongly preferred over flowers, and when not feeding the larvae rested on the undersides of leaves
- survival  was good until diapause, but overwintering mortality was substantial
- protection is based on concealment  (nocturnally active), a ventral gland, and spines to dissuade predators
+ survival was good until diapause, but overwintering mortality was substantial
+ protection is based on concealment (nocturnally active), a ventral gland, and spines to dissuade predators
  itere are 5 instars, and nests are not constructed
-  description of immature stages the egg is white with 20-22 prominent vertical ribs at the base, merging to ~8-12 at the apex
- li is greenish gray with a shiny black setaceous head that persists throughout development
+ description of immature stages the egg is white with 20 22 prominent vertical ribs at the base, merging to ~8 12 at the apex
+ l is greenish gray with a shiny black setaceous head that persists throughout development
  ilie 4th, 6th, 8th, and 10th segments are rusty colored dorsally; tiny dark tubercles on the body give rise to simple long pale setae that bear small droplets at the tips, 'llie body darkens in l2 to purplish with indistinct gray markings
  tlie black bullae are conical, organized into 3 longitudinal rows laterally, each bulla bearing a cluster of black spines
  dorsally there is a broken narrow purplish line bordered on each side with gray markings
  l3 patterns are similar, but the conical bullae are taller, and the setae borne by them are more numerous, imparting a spinier appearance
- ventrally there is more orangish coloration and the whitish-brown stripe is straight
+ ventrally there is more orangish coloration and the whitish brown stripe is straight
  l4 is intermittently striped longitudinally in black, gray, or white with a ventrolateral orange stripe
- uie conical spines on segments 1-3 are black, but others are half orange
+ uie conical spines on segments 1 3 are black, but others are half orange
  in 1.5 the conical spines are entirely orange except on the terminal posterior segments and on the first 2 or 3 segments, where they are black
- the ventrolateral orange line is prominent, and there  subfamily heliconiinae
- i family nymphalidae
- 259  li 2 mm egg @ 1.0 mm  pupa @15 mm  are numerous white spots near the white circled spiracles
- dorsally 1.5 varies trom gray tt) black and there is a narrow darker line down the center,  surrounded by pale spots
- the pupa is dark brown, sometimes with a purplish tint, hearing 5 pearlv conical processes in an irregidar row on each side  of the head and thorax
- the wing cases are darker brown, and dorsally the abdomen hears 2 rows of  bold triangular processes that join on posterit>r segments to form forward-pointing chevrons
- immature stages of b. epithore are most similar to other bo/onvi spp. the larvae of b. tislarte, b. freija, and b. chariclea are usually considerably darker, and those of b. seleiie ha\e long horns over the head
- mature b. belhma larvae are browner than b.  epithore and have a distinctive black and white side stripe
+ the ventrolateral orange line is prominent, and there subfamily heliconiinae
+  family nymphalidae
+  l 2 mm egg @ 1.0 mm pupa @15 mm are numerous white spots near the white circled spiracles
+ dorsally 1.5 varies trom gray tt) black and there is a narrow darker line down the center, surrounded by pale spots
+ the pupa is dark brown, sometimes with a purplish tint, hearing 5 pearlv conical processes in an irregidar row on each side of the head and thorax
+ the wing cases are darker brown, and dorsally the abdomen hears 2 rows of bold triangular processes that join on posterit>r segments to form forward pointing chevrons
+ immature stages of b. epithore are most similar to other bo/onv spp. the larvae of b. tislarte, b. freija, and b. chariclea are usually considerably darker, and those of b. seleiie hae long horns over the head
+ mature b. belhma larvae are browner than b. epithore and have a distinctive black and white side stripe
  our images appear to be the first published of immature stages of b. epithore
-  discussion  eggs are easily obtained from gravid females, and larvae grow quickly, overwintering in 1.4. rearing larvae under long or increasing daylengths mav avert winter diapause
+ discussion eggs are easily obtained from gravid females, and larvae grow quickly, overwintering in 1.4. rearing larvae under long or increasing daylengths mav avert winter diapause
  mortality during winter diapause was considerable in our roarings, sometimes complete
  high relative humiditv appears to be important for survival of diapausing larvae; however, excessive humiditc' causes mold problems
- dormant 1.4 should be aged for -10 davs prior to overwintering, postdiapause development is enhanced by prolonged overwintering (at least 6 months). larvae are difficult to find as they feed nocturnally on low-growing violets under other vegetation
- late-season (high-elevation) larvae tend to be present after most violet hosts have senesced, an apparent maladaptive strategy unless other hosts are also used
+ dormant 1.4 should be aged for  10 davs prior to overwintering, postdiapause development is enhanced by prolonged overwintering (at least 6 months). larvae are difficult to find as they feed nocturnally on low growing violets under other vegetation
+ late season (high elevation) larvae tend to be present after most violet hosts have senesced, an apparent maladaptive strategy unless other hosts are also used
  research is needed on the identity and impact of natural enemies influencing the abundance and distribution of this species
-  l2 @ 6 mm (late)  l3 @ 10 mm  l4 @ 13 mm  n> 1/1  <t>  3  n> cu  q. o  s  0/  v;  co o  o -5  s' (u  3- o  fd  q. in  l5 @ 21 mm    260   freija fritillary boloria freija (thunberg)  adult biology boloria freija is a circumpolar species found in most of canada, extending to the great lakes and the n rockies (wy. co). in cascadia it occurs in bc and  okanogan co., wa in willow bogs and forest clearings above 5,000 ft. the single brood flies from june to july
+ l2 @ 6 mm (late) l3 @ 10 mm l4 @ 13 mm n> 1/1 <t> 3 n> cu q. o s 0/ v; co o o  5 s' (u 3  o fd q. in l5 @ 21 mm   freija fritillary boloria freija (thunberg) adult biology boloria freija is a circumpolar species found in most of canada, extending to the great lakes and the n rockies (wy. co). in cascadia it occurs in bc and okanogan co., wa in willow bogs and forest clearings above 5, ft. the single brood flies from june to july
  males patrol for females, flying erratically and close to the ground, sometimes even under low logs
  females are elusive but generally stay closer to host plants
- of 40 individuals seen near keremeos, bc on june 15-16, only 6 were female
- both sexes visit flowers, including bog rosemary, buttercups, asters, and yarrow as well as mud. larval hosts include vacciniwn caespitosum (dwarf bilberry), v. uliginosum (northern bilberry), r oxycoccus (wild cranberry), arctostaphylos uva-ursi (kinnikinnick), empetrum nigrum (black crowberry), rubus chamaemorus (cloudberry), and rhododendron aureum (rhododendron) (pyle, 1981; scott, 1986a; nielsen, 1999; douglas and douglas, 2005). in cascadia, v. caespitosum and a. uva-ursi appear to be the major hosts
- eggs are laid singly or in small clusters on or near hosts (scott, 1992; douglas and douglas, 2005). we observed oviposition on the edge of a r caespitosum leaf in okanogan co.  immature stage biology we reared this species once from 6 females obtained on june 16 near keremeos, bc. confined in plastic and muslin cylinders (13 cm dia x 8 cm tall) with cut vaccinium parvifolium (red huckleberry) and a. uva-ursi, females laid -100 eggs in 2 days
- eggs hatched in 6 days at 20-22 c and li were provided with vaccinium scoparium (grouseberry) or v. caespitosum, reaching l2 after 4 days (july 1). l2 and l3 occupied ~8 days each with l4 reached by july 16. feeding continued for 10-14 days then ceased, with larvae measuring -23-25 mm. thereafter larvae  rested on the host or inert surfaces, not seeking refuge
- larvae shrank to 20-23 mm, and on aug 10, 9 larvae were placed at 5 c for overwintering, followed by a second group of 22 on aug 17. the second cohort was examined 35 days later, and only 4 larvae were alive
- these were exposed to 25 c and long days (-15 hr), but all died after 3-61 days without feeding
- one larva from the first cohort was exposed to warm conditions after 128 days but died after 71 days without feeding
- tlie first cohort was examined alter 215 days (mar 13); the 5 remaining larvae were exposed to 19-23 c and supplied with new and old growth of a. uva-ursi
- the larvae did not feed except for 1, which nibbled on a new growth leaf alter 4-6 days the larvae molted to 1.5 that did not feed; alter 1-3 days (depending on temperature: 22-28 c) they pupated
- adults eclosed after 10-12 days at 19-21 c. scott (1986a) and pyle (2002) stated b. freija overwinters as a mature 1.4, while nielsen (1999) and douglas and douglas (2005) suggested overwintering may occur as a pupa
+ of 40 individuals seen near keremeos, bc on june 15 16, only 6 were female
+ both sexes visit flowers, including bog rosemary, buttercups, asters, and yarrow as well as mud. larval hosts include vacciniwn caespitosum (dwarf bilberry), v. uliginosum (northern bilberry), r oxycoccus (wild cranberry), arctostaphylos uva urs (kinnikinnick), empetrum nigrum (black crowberry), rubus chamaemorus (cloudberry), and rhododendron aureum (rhododendron) (pyle, 1; scott, 6a; nielsen, 9; douglas and douglas, 5). in cascadia, v. caespitosum and a. uva urs appear to be the major hosts
+ eggs are laid singly or in small clusters on or near hosts (scott, 2; douglas and douglas, 5). we observed oviposition on the edge of a r caespitosum leaf in okanogan co. immature stage biology we reared this species once from 6 females obtained on june 16 near keremeos, bc. confined in plastic and muslin cylinders (13 cm dia x 8 cm tall) with cut vaccinium parvifolium (red huckleberry) and a. uva urs, females laid   eggs in 2 days
+ eggs hatched in 6 days at 20 22 c and l were provided with vaccinium scoparium (grouseberry) or v. caespitosum, reaching l2 after 4 days (july 1). l2 and l3 occupied ~8 days each with l4 reached by july 16. feeding continued for 10 14 days then ceased, with larvae measuring  23 25 mm. thereafter larvae rested on the host or inert surfaces, not seeking refuge
+ larvae shrank to 20 23 mm, and on aug 10, 9 larvae were placed at 5 c for overwintering, followed by a second group of 22 on aug 17. the second cohort was examined 35 days later, and only 4 larvae were alive
+ these were exposed to 25 c and long days ( 15 hr), but all died after 3 61 days without feeding
+ one larva from the first cohort was exposed to warm conditions after  days but died after 71 days without feeding
+ tlie first cohort was examined alter  days (mar 13); the 5 remaining larvae were exposed to 19 23 c and supplied with new and old growth of a. uva urs
+ the larvae did not feed except for 1, which nibbled on a new growth leaf alter 4 6 days the larvae molted to 1.5 that did not feed; alter 1 3 days (depending on temperature: 22 28 c) they pupated
+ adults eclosed after 10 12 days at 19 21 c. scott (6a) and pyle (2) stated b. freija overwinters as a mature 1.4, while nielsen (9) and douglas and douglas (5) suggested overwintering may occur as a pupa
  larvae fed on young leaves at first, then older leaves, eating from the edges
  larvae are solitary with no nests and most feeding is nocturnal, with larvae resting exposed on the host during the day. larvae are active when disturbed and rapidly move away from any threat
- 1.2-1,5 possess an eversible ventral gland on segment 1 (james, 2008a) that is likely defensive
+ 1.2 1,5 possess an eversible ventral gland on segment 1 (james, 8a) that is likely defensive
  prepupal larvae wandered before pupating from cage tops
- larval defense appears based on chemical protection (ventral gland, droplets on setae in li), physical protection (spines), and evasive activity
-  description of immature stages ttie shiny greenish white egg has -35-45 shallow vertical ribs that amalgamate at the apex
- li has a shiny black setaceous head and is inconspicuously banded, gray and dark brown, becoming purplish with maturity
- tliere are 8-10 black bullae across each segment, each bearing a long dark seta with a droplet at the tip. l2 is black, developing gray areas with maturity
- six prominent conical black spines traverse each segment, each bearing -12-14 setae
+ larval defense appears based on chemical protection (ventral gland, droplets on setae in l), physical protection (spines), and evasive activity
+ description of immature stages ttie shiny greenish white egg has  35 45 shallow vertical ribs that amalgamate at the apex
+ l has a shiny black setaceous head and is inconspicuously banded, gray and dark brown, becoming purplish with maturity
+ tliere are 8 10 black bullae across each segment, each bearing a long dark seta with a droplet at the tip. l2 is black, developing gray areas with maturity
+ six prominent conical black spines traverse each segment, each bearing  12 14 setae
  mature 1.2 have an indistinct pale spiracular stripe and the prolegs are white
  1.3 is black with black spines, a shiny black head, and whitish tan prolegs
  l4 is similar, unicolored black with distinct tan prolegs
- numerous tiny black bullae (-200 per segment), each bearing a short seta, give the body a textured appearance
- l5 is black with greatly reduced green spines giving the appearance of a green-dotted black larva with tiny light-colored bullae
+ numerous tiny black bullae (  per segment), each bearing a short seta, give the body a textured appearance
+ l5 is black with greatly reduced green spines giving the appearance of a green dotted black larva with tiny light colored bullae
  some individuals have pale dorsolateral stripes
- ihe head and spiracles  subfamily heliconiinae
- | family nvmphalidae
- 261  egg @ 0.9 mm  li (5! 3 mm  pupa @13 mm  are black
+ ihe head and spiracles subfamily heliconiinae
+  family nvmphalidae
+  egg @ 0.9 mm l (5! 3 mm pupa @13 mm are black
  tlie pupa is black mottled with grav, brown, and white on the abdomen
- tliere are .5  pairs of tubercles on the abdomen, the posterior 3 with connecting ridges
- the black 1,4 and green- dotted black 1.5 of b. freija are imicine in our fauna and should not be confused with other boloriti  or argynnis spp. larvae of the related wieeiiiiiiiii- feeding b. chariclca are closest in appearance, hut mature larvae are speckled with white dots and have dull orange spines
- an image of an apparent l4 is shown in nielsen (1999) and appears similar to ours
-  l2 @ 6 mm  l3 @ 1 5 mm  discussion  our rearing appears to be the first documented in north america
- eggs were readily obtained, and larvae fed well on v. scoparium and \ '. caespitosum, completing development to 1.4 rapidlv under mild temperatures
+ tliere are .5 pairs of tubercles on the abdomen, the posterior 3 with connecting ridges
+ the black 1,4 and green  dotted black 1.5 of b. freija are imicine in our fauna and should not be confused with other bolorit or argynnis spp. larvae of the related wieeiiiiiiii  feeding b. chariclca are closest in appearance, hut mature larvae are speckled with white dots and have dull orange spines
+ an image of an apparent l4 is shown in nielsen (9) and appears similar to ours
+ l2 @ 6 mm l3 @ 1 5 mm discussion our rearing appears to be the first documented in north america
+ eggs were readily obtained, and larvae fed well on v. scoparium and  '. caespitosum, completing development to 1.4 rapidlv under mild temperatures
  larvae are black in all instars, optimizing available warming
- overwintering occurred as mature 1.4. the absence of feeding in postdiapause l4 and a brief 1.3 is highly unusual and possibly unic]uc. if post-hibernation feeding does not occur in wild populations, the need for l5 is puzzling; perhaps the species is evoktng toward 4 instars? attempts to break dormancv early were unsuccessful, with 1.4 remaining alive for lengthy periods without pupation
+ overwintering occurred as mature 1.4. the absence of feeding in postdiapause l4 and a brief 1.3 is highly unusual and possibly unic]uc. if post hibernation feeding does not occur in wild populations, the need for l5 is puzzling; perhaps the species is evoktng toward 4 instars? attempts to break dormancv early were unsuccessful, with 1.4 remaining alive for lengthy periods without pupation
  between 4 and 7 months of cold temperatures appear necessary to break diapause; thus shorter winters may reduce overwintering survival
  studies on the overwintering and postwintering behavior of b freija are needed to better understand the ecology of this species, which may be vulnerable to global climate change
-  1^ .'r  l4 @ 22 mm  l5 @ 20 mm  (t>  5^  co o  o  2 q  c 3 cr fp  iq  l5@21 mm    262  subfamily heliconiinae
- | family nymphalidae
- 263  astarte fritillary boloria astarte (e. doubleday)  i  adult biology boloria astarte is widely distributed in s bc. rare in wa and absent from or. in wa it occurs in a few scattered colonies in the n cascades (okanogan and chelan cos.). beyond cascadia the range includes ak, yt, ab, and mt. a true alpine specialist flying above 7,000 ft during mid-july-mid-aug, b. astarte frequents rocky ridges, slides, and steep scree slopes where the host plant grows
- males hill-top or patrol in search of females, often flying diagonally up and down slopes
- females eclose later than males and are more sedentary, basking on boulders or visiting nectar sources, especially arnica spp. saxifraga bronchialis (spotted saxifrage) is the only known host plant in cascadia, although s. tricuspidata (three-toothed saxifrage) is used in n bc (guppy and shepard, 2001). boloria astarte is biennial, requiring 2 years for larval development and flying on even-numbered years in cascadia; guppy and shepard (2001) reported similar flights in the coast range of bc, with flights every year (2 separate biennial populations) in the rockies
- oviposition occurs in mid-late july, with eggs laid on or near the host plant (scott, 1986a). captive females laid -85% of their eggs on inert surfaces, the remainder well hidden on the undersides of host  leaves very close to or touching the ground
-  immature stage biology we reared this species once from 3 females collected july 21 at slate peak, okanogan co., wa. of 150 eggs laid, 80% hatched after 8 days with eggshells not consumed
- larvae were reared in 2 cohorts  on saxifraga bronchialis at 20-26 c and natural daylengths
- pyle (2002) reported that b. astarte overwinters as li the first winter and l4 the second  winter; however, in our rearing, larvae developed  from 1.1-l4 in the first season, taking -28 days; many (~30';b) of the larvae did not develop beyond l2-l3 and died before overwintering
- in mid-sep, l4 stopped feeding and sought shelter under paper toweling
- twelve 1.4 were t)verwintered at 5 c from sep 17. small groups (1-3) were removed from overwintering on dec 16, jan 3, f'eb 9, and march 13 and exposed to warm temperatures
- ihe l)ec group exposed to 19-21 c and natural daylengths remained dormant, but the jan group (/; = 2) started feeding after 9 days at 28 c in continuous lighting and molted to 1.3 2 days later
+ 1^ .'r l4 @ 22 mm l5 @ 20 mm (t> 5^ co o o 2 q c 3 cr fp iq l5@21 mm   subfamily heliconiinae
+  family nymphalidae
+  astarte fritillary boloria astarte (e. doubleday)  adult biology boloria astarte is widely distributed in s bc. rare in wa and absent from or. in wa it occurs in a few scattered colonies in the n cascades (okanogan and chelan cos.). beyond cascadia the range includes ak, yt, ab, and mt. a true alpine specialist flying above 7, ft during mid july mid aug, b. astarte frequents rocky ridges, slides, and steep scree slopes where the host plant grows
+ males hill top or patrol in search of females, often flying diagonally up and down slopes
+ females eclose later than males and are more sedentary, basking on boulders or visiting nectar sources, especially arnica spp. saxifraga bronchialis (spotted saxifrage) is the only known host plant in cascadia, although s. tricuspidata (three toothed saxifrage) is used in n bc (guppy and shepard, 1). boloria astarte is biennial, requiring 2 years for larval development and flying on even numbered years in cascadia; guppy and shepard (1) reported similar flights in the coast range of bc, with flights every year (2 separate biennial populations) in the rockies
+ oviposition occurs in mid late july, with eggs laid on or near the host plant (scott, 6a). captive females laid  85% of their eggs on inert surfaces, the remainder well hidden on the undersides of host leaves very close to or touching the ground
+ immature stage biology we reared this species once from 3 females collected july 21 at slate peak, okanogan co., wa. of  eggs laid, 80% hatched after 8 days with eggshells not consumed
+ larvae were reared in 2 cohorts on saxifraga bronchialis at 20 26 c and natural daylengths
+ pyle (2) reported that b. astarte overwinters as l the first winter and l4 the second winter; however, in our rearing, larvae developed from 1.1 l4 in the first season, taking  28 days; many (~30';b) of the larvae did not develop beyond l2 l3 and died before overwintering
+ in mid sep, l4 stopped feeding and sought shelter under paper toweling
+ twelve 1.4 were t)verwintered at 5 c from sep 17. small groups (1 3) were removed from overwintering on dec 16, jan 3, f'eb 9, and march 13 and exposed to warm temperatures
+ ihe l)ec group exposed to 19 21 c and natural daylengths remained dormant, but the jan group (/; = 2) started feeding after 9 days at 28 c in continuous lighting and molted to 1.3 2 days later
  1.5 fed avidly and pupated on the host plant ~2() days after exposure to warm temperatures
- one adult eclosed -12 days later
- tlie larvae removed from overwintering in feb died; those in march molted to 1.5, but after extended periods  of feeding, wandering, and resting, they also died without pupating
- our rearing suggests that in some instances larvae may develop to adulthood in 1 year if they avoid early-instar dormanc)', which, contrary to guppy and shepard (2001), does not appear to be obligate in at least a portion of the population
- larvae refused to feed on a number of plants, including viola glabclla (stream violet), arctostaphylos uva- ursi (kinnikinnick), and vaccininin caespitosuin (dwarf bilberry), confirming saxifraga spp. as the sole host
+ one adult eclosed  12 days later
+ tlie larvae removed from overwintering in feb died; those in march molted to 1.5, but after extended periods of feeding, wandering, and resting, they also died without pupating
+ our rearing suggests that in some instances larvae may develop to adulthood in 1 year if they avoid early instar dormanc)', which, contrary to guppy and shepard (1), does not appear to be obligate in at least a portion of the population
+ larvae refused to feed on a number of plants, including viola glabclla (stream violet), arctostaphylos uva  urs (kinnikinnick), and vaccininin caespitosuin (dwarf bilberry), confirming saxifraga spp. as the sole host
  larvae tolerated each other well in crowded conditions, with no evidence ot cannibalism
- tlte  larvae fed first on terminal leaf clusters, then the middle parts of leaves several tiers below the tip. protection is based on camouflage, concealment, and likely chemical defense from setal droplets in li and a ventral gland on segment 1 in l2-l5. no nests are constructed, and there are 5 instars
-  description of immature stages the pale yellow-orangish egg is densely covered in -40 coarse vertical ribs at midheight, merging to -20 near the apex
- 1.1 is pale tan-brown with a shiny black setaceous head, persisting until pupation
- each segment has a transverse row of about 10 low, round, brown bullae, each bearing a medium-length brown seta with a tiny droplet at the tip. 1.2 is purplish gray and the bullae are tall conical grayish spines, each bearing 8-10 dark setae, 'there are 3 dark broken dorsal lines and an irregular dark line laterally
+ tlte larvae fed first on terminal leaf clusters, then the middle parts of leaves several tiers below the tip. protection is based on camouflage, concealment, and likely chemical defense from setal droplets in l and a ventral gland on segment 1 in l2 l5. no nests are constructed, and there are 5 instars
+ description of immature stages the pale yellow orangish egg is densely covered in  40 coarse vertical ribs at midheight, merging to  20 near the apex
+ 1.1 is pale tan brown with a shiny black setaceous head, persisting until pupation
+ each segment has a transverse row of about 10 low, round, brown bullae, each bearing a medium length brown seta with a tiny droplet at the tip. 1.2 is purplish gray and the bullae are tall conical grayish spines, each bearing 8 10 dark setae, 'there are 3 dark broken dorsal lines and an irregular dark line laterally
  in l3 the dark lines expand, t'orming a mottled blackish ground color, while the pale markings constrict and form complex contrasting patterns
- 1,4 is black with contrasting gray-white dorsal markings in complex but regular patterns ot dashes and vs. all spines and setae are black, the bases of the 2 dorsal rows circled  ll (o* 2.2 mm egg @1.1 mm  pupa @15 mm  in yellow-gold late in the instar
- 1,5 is similar, with the bases of all spines encircled in gold, contrasting strongly against the black bod>- color
- f.ach spine bears -25 black setae
+ 1,4 is black with contrasting gray white dorsal markings in complex but regular patterns ot dashes and vs. all spines and setae are black, the bases of the 2 dorsal rows circled ll (o* 2.2 mm egg @1.1 mm pupa @15 mm in yellow gold late in the instar
+ 1,5 is similar, with the bases of all spines encircled in gold, contrasting strongly against the black bod>  color
+ f.ach spine bears  25 black setae
  white markings are also strongly contrasting, and dorsalh they meet at segment joints to torm patterns resembling caricatures of white butterflies
   bite spots pepper the body laterally and the spiracles are black, narrowly encircled in while
  ihe pupa is shinv dark brown on the wing cases and mottled dark and light brown elsewhere
  there is a lairly deep depression behind the thorax, and the abdomen bears rows of low rounded bullae
- most other boloria spp. iar\ ae are lighter; one exception is b. jrcija in which the larvae are even darker; however, the patterns are different
+ most other boloria spp. iar ae are lighter; one exception is b. jrcija in which the larvae are even darker; however, the patterns are different
  no other boloria spp. use saxifraga spp. as hosts
  tire gold spine bases and prominent white markings of b. astarte are unique and readilv identify mature larvae
  gur images appear to be the first published of b. astarte immature stages
-  discussion  immature stages of b. astarte are dithcult to find, and females are elusive and difficult to catch
- females appear to oviposit tor -1 week so timing is important, as is exposure to full sun. additional rearing is needed to determine the lite historv of this species, particularly concerning overwintering and the environmental cues determining biennialism
+ discussion immature stages of b. astarte are dithcult to find, and females are elusive and difficult to catch
+ females appear to oviposit tor  1 week so timing is important, as is exposure to full sun. additional rearing is needed to determine the lite historv of this species, particularly concerning overwintering and the environmental cues determining biennialism
  nothing is known of the natural enemies affecting populations of b. astarte, nor ot climatic tolerances
- the restricted alpine habitat of b. astarte suggests vulnerability to climatic warming (miller and hammond, 2007), but further research is needed
+ the restricted alpine habitat of b. astarte suggests vulnerability to climatic warming (miller and hammond, 7), but further research is needed
  warmer summers might enable an annual rather than a biennial life cycle, but warmer winters might increase the mortality ot larvae
-  l2 @ 4.3 mm  l3 @ 10 mm  l4 @ 20 mm  l/i rt  0)  (t>  n  o)  co o_ 5  q 1/1  05  o o c  tt> a 05  vc  ls @ 25 mm    264   arctic fritillary boloria chariclea (schneider)  adult biology the arctic fritillary is holarctic, occurring from siberia to scandinavia to the north american arctic
-  in north america it is found in most of canada, mn,  and nh in e us and ak through the rockies s to nm in the w. in cascadia it occurs in bc and the  olympic and cascade mts of wa. boloria chariclea flies in a single brood in moist mountain meadows and alpine tundra (4,000-8,000 ft), mid-jun-sep, depending on elevation and seasonal conditions
- the life cycle is annual or biennial, according to latitude and/or elevation (pyle, 1981; scott, 1986a, 1992), but pyle (2002) considered it annual in cascadia
+ l2 @ 4.3 mm l3 @ 10 mm l4 @ 20 mm l/ rt 0) (t> n o) co o_ 5 q 1/1 05 o o c tt> a 05 vc ls @ 25 mm   arctic fritillary boloria chariclea (schneider) adult biology the arctic fritillary is holarctic, occurring from siberia to scandinavia to the north american arctic
+ in north america it is found in most of canada, mn, and nh in e us and ak through the rockies s to nm in the w. in cascadia it occurs in bc and the olympic and cascade mts of wa. boloria chariclea flies in a single brood in moist mountain meadows and alpine tundra (4, 8, ft), mid jun sep, depending on elevation and seasonal conditions
+ the life cycle is annual or biennial, according to latitude and/or elevation (pyle, 1; scott, 6a, 2), but pyle (2) considered it annual in cascadia
  it is locally common and often flies with b. epilhore
  both sexes visit flowers, especially asters and goldenrod
  males patrol for females usually during the middle of the day, when courtship and mating most frequently occur
- scott (1986a) observed a female that appeared to be releasing pheromone from 2 everted red glands at the end of her abdomen
- an unusually wide range of host plants have been recorded including viola spp. (violets), salix spp. (willows), vaccinium spp. (blueberries), polygonum bistortoides (western bistort), and dryas integrifolia (entireleaf mountain avens) (pyle, 1981; scott, 1986a; guppy and shepard, 2001). eggs are laid singly on the undersides of host- plant leaves or in the vicinity of hosts
- pyle (2002) observed oviposition on leutkea sp. (partridgefoot) in the olympics, and we observed oviposition on vaccinium deliciosum in s bc and the cascades
-  at chinook pass (wa) we observed oviposition on lupinus sp. scott (1992) listed a large number of ovipositions and plant association records from co and showed that vaccinium was by far the most favored plant genus
-  3  a  immature stage biology we partially reared this species from gravid females several times
- five females obtained aug 13 at twin lks, whatcom co., wa produced 40 eggs; 25 larvae overwintered, 10 surviving to spring at 4 c. placed at 20-22 c on april 23, they began feeding within 1 day on viola glabclla
- 'i'wo survived to 9 mm (l3) after 20 days, but then ceased feeding and slowly died
+ scott (6a) observed a female that appeared to be releasing pheromone from 2 everted red glands at the end of her abdomen
+ an unusually wide range of host plants have been recorded including viola spp. (violets), salix spp. (willows), vaccinium spp. (blueberries), polygonum bistortoides (western bistort), and dryas integrifolia (entireleaf mountain avens) (pyle, 1; scott, 6a; guppy and shepard, 1). eggs are laid singly on the undersides of host  plant leaves or in the vicinity of hosts
+ pyle (2) observed oviposition on leutkea sp. (partridgefoot) in the olympics, and we observed oviposition on vaccinium deliciosum in s bc and the cascades
+ at chinook pass (wa) we observed oviposition on lupinus sp. scott (2) listed a large number of ovipositions and plant association records from co and showed that vaccinium was by far the most favored plant genus
+ 3 a immature stage biology we partially reared this species from gravid females several times
+ five females obtained aug 13 at twin lks, whatcom co., wa produced 40 eggs; 25 larvae overwintered, 10 surviving to spring at 4 c. placed at 20 22 c on april 23, they began feeding within 1 day on viola glabclla
+ ''wo survived to 9 mm (l3) after 20 days, but then ceased feeding and slowly died
  one female collected aug 12 at slate peak, okanogan co., wa produced 30 eggs, most of which hatched
  following overwintering, small groups of larvae were moved to 22 c on 5 occasions between april 7 and june 11 and provided with 7 different food plants, including red huckleberry, scouler's willow, pacific willow, commercial blueberry
  stream violet, bitter dock, and sheep sorrel
- in spite of these many variations, the larvae failed to feed and all died in li. females obtained on july 27, 29, 30, aug 6,7 from bear creek mt (yakima co., wa), chinook pass, and apex mt (bc) laid 30-400 eggs on each occasion
- confined in plastic boxes with muslin lids (30 x 23 x 12 cm) with senescing host plants ( viola spp., vaccinium spp.) and exposed to sunshine at 22-28 c, they laid eggs on leaves, twigs, and inert surfaces
- eggs hatched in 6-10 days at 22-27 c; larvae consumed their eggshells but fed minimally or not at all; 1.1 sought shelter in curled leaves and under debris, and hibernated
- dormant li held at 21-27 c, 30-40% rh for 4-6 weeks desiccated and sultered >90% mortality (2 cohorts). dormant li transferred to winter conditions (5 c, 75-85% rh) within 7-10 days of hatching survived better, with <50% mortality in 3 cohorts
- after 89-192 days, li were transferred to 21-27 c, 16 or 24 hrs of daylight, and provided with viola labradorica (labrador violet), viola odorata (sweet violet), vaccinium parvijoliiim (red huckleberry), or vaccinium scoparium (grouseberry). two cohorts (apex mt, chinook pass) fed well on both vaccinium spp. and poorly on viola, while the third (apex mt) fed well on viola and poorly on vaccinium
- feeding commenced after 3-5 days, and 1.4 was reached after -30 days
+ in spite of these many variations, the larvae failed to feed and all died in l. females obtained on july 27, 29, 30, aug 6,7 from bear creek mt (yakima co., wa), chinook pass, and apex mt (bc) laid 30  eggs on each occasion
+ confined in plastic boxes with muslin lids (30 x 23 x 12 cm) with senescing host plants ( viola spp., vaccinium spp.) and exposed to sunshine at 22 28 c, they laid eggs on leaves, twigs, and inert surfaces
+ eggs hatched in 6 10 days at 22 27 c; larvae consumed their eggshells but fed minimally or not at all; 1.1 sought shelter in curled leaves and under debris, and hibernated
+ dormant l held at 21 27 c, 30 40% rh for 4 6 weeks desiccated and sultered >90% mortality (2 cohorts). dormant l transferred to winter conditions (5 c, 75 85% rh) within 7 10 days of hatching survived better, with <50% mortality in 3 cohorts
+ after 89  days, l were transferred to 21 27 c, 16 or 24 hrs of daylight, and provided with viola labradorica (labrador violet), viola odorata (sweet violet), vaccinium parvijoliiim (red huckleberry), or vaccinium scoparium (grouseberry). two cohorts (apex mt, chinook pass) fed well on both vaccinium spp. and poorly on viola, while the third (apex mt) fed well on viola and poorly on vaccinium
+ feeding commenced after 3 5 days, and 1.4 was reached after  30 days
  in some instances 1.4 stopped feeding and reentered diapause
  mortality was high, e.specially in 1.1, and no larvae reached 1.5. larvae were reared mostly on leaf platforms on moist cotton wool and were prone to drowning and disease
  larvae reared under drier conditions suffered from desiccation
  protection appears to be based on concealment (larvae appear to be nocturnal), a ventral gland, and spines to dissuade predators
  there are 5 instars, and no nests are constructed
-  subfamily heliconiinae
- i family nymphalidae
- 265  egg @ 0.8 mm  description of immature stages the pale yellowish white egg, orange at maturity, is broadly oval, wider at the base, with -30-35 vertical ribs merging tt) -20 at the apex and terminating around the micropyle
+ subfamily heliconiinae
+  family nymphalidae
+  egg @ 0.8 mm description of immature stages the pale yellowish white egg, orange at maturity, is broadly oval, wider at the base, with  30 35 vertical ribs merging tt)  20 at the apex and terminating around the micropyle
  1.1 is jirownish gray with a small sclerotized black collar
  the shinv black head bears setae and remains this way until pupation
- ttiere are 8-10 shiny dark tubercles i>n each segtnent, each bearing a single long pale seta, sometimes with a droplet at the tip. 1.2 is blackish gray with a broad middorsal pale stripe
- on each segment there are 6 conical black bullae, each with 10-15 spines
+ ttiere are 8 10 shiny dark tubercles >n each segtnent, each bearing a single long pale seta, sometimes with a droplet at the tip. 1.2 is blackish gray with a broad middorsal pale stripe
+ on each segment there are 6 conical black bullae, each with 10 15 spines
  in some individuals there are indistinct lateral pale markings
  1.3 is similar but blacker and with more profuse spines, tliere is an indistinct middorsal pale stripe bisected bv a black line
  in some individuals there are pale areas laterally
  uie true legs are black and the prolegs are white
- l4 is darker and spinier with some (.>rangish and white freckles laterally, particulark- at bullae bases, and has indistinct middorsal striping
+ l4 is darker and spinier with some (.>rangish and white freckles laterally, particulark  at bullae bases, and has indistinct middorsal striping
  the head is distinctly bifurcated and brownish dorsallv
- mature larvae were described by scott (1986a) and douglas and douglas (2005) as gray with black dorsal and lateral stripes with orange spines, the fi rst subdorsal pair longer and yellow
+ mature larvae were described by scott (6a) and douglas and douglas (5) as gray with black dorsal and lateral stripes with orange spines, the f rst subdorsal pair longer and yellow
  immature stages of other boloria spp. are similar; howex'er, larvae of b. chariclea are generally darker and less prominently marked than other boloria spp. our images are the first published of immature stages of this species in north america
-  discussion although eggs are readily obtained from gravid females and unfed 1.1 overwinter well, rearing early instars of this species is challenging
+ discussion although eggs are readily obtained from gravid females and unfed 1.1 overwinter well, rearing early instars of this species is challenging
  ll are very susceptible to disease, and it is difficult to obtain development to 1.2. later instars are hardier
- populations of b. chariclea appear to differ in host-plant preferences
- scott (1992) showed that vaccinium was chosen most often by ovipositing females in co; however, several of our larval cohorts preferred viola to vaccinium
- host-plant choice, larval utilization of hosts, and incidence of biennialism in cascadia are fertile fields for studv
-  li @ 2 mm  l2 ^ 5 mm  l3 (s) 8 mm  l4 (a) 12 mm  &.-ctriv  l4 (g) 13 mm  > n r*  n'  fi)  co o  q r> 3- o 2 2,' q  17i n 3- 3  a (d
+ populations of b. chariclea appear to differ in host plant preferences
+ scott (2) showed that vaccinium was chosen most often by ovipositing females in co; however, several of our larval cohorts preferred viola to vaccinium
+ host plant choice, larval utilization of hosts, and incidence of biennialism in cascadia are fertile fields for studv
+ l @ 2 mm l2 ^ 5 mm l3 (s) 8 mm l4 (a) 12 mm &. ctriv l4 (g) 13 mm > n r* n' f) co o q r> 3  o 2 2,' q 17 n 3  3 a (d
