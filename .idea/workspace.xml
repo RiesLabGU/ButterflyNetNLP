@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d39a6a8-76c7-4876-9132-59102d5e87de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR/extractor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,49 +15,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/line_classifier.py">
+        <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
-              <folding>
-                <element signature="e#22#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tv_file1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="7000" selection-start-line="7000" selection-end-line="7000" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bnet_raw.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="1500" column="43" selection-start-line="1500" selection-start-column="43" selection-end-line="1500" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bnet_vocab.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+            <state relative-caret-position="153">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/habitat_vocab.py">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="47" selection-start-line="47" selection-end-line="53" selection-end-column="19" />
               <folding>
                 <element signature="e#22#37#0" expanded="true" />
               </folding>
@@ -92,6 +72,8 @@
         <option value="$PROJECT_DIR$/tv_file1.txt" />
         <option value="$PROJECT_DIR$/bnet_raw.txt" />
         <option value="$PROJECT_DIR$/line_classifier.py" />
+        <option value="$PROJECT_DIR$/OCR/extractor.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -117,7 +99,7 @@
             <path>
               <item name="ButterflyNetNLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="ButterflyNetNLP" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="NaiveBayes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,6 +110,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vms44\PycharmProjects\ButterflyNetNLP\NaiveBayes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,13 +189,21 @@
       <option name="presentableId" value="Default" />
       <updated>1547920553390</updated>
     </task>
+    <task id="LOCAL-00001" summary="-moved NB to new dir">
+      <created>1551120641177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551120641177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="1912" y="-8" width="1296" height="1010" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12012645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1200318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,21 +222,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-moved NB to new dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="-moved NB to new dir" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/authorshipAttribution.py" />
     <entry file="file://$PROJECT_DIR$/function_words.txt" />
     <entry file="file://$PROJECT_DIR$/venv/bnet_vocab.txt" />
-    <entry file="file://$PROJECT_DIR$/habitat_WGS.txt">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_WGS.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tv_file.txt">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/tv_file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-143928">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/line_classifier.py">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/line_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
@@ -251,34 +250,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tv_file1.txt">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/tv_file1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="818">
           <caret line="7000" selection-start-line="7000" selection-end-line="7000" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bnet_raw.txt">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/bnet_raw.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="818">
           <caret line="1500" column="43" selection-start-line="1500" selection-start-column="43" selection-end-line="1500" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bnet_vocab.txt">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/bnet_vocab.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="818">
           <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/habitat_vocab.py">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="625">
+          <caret line="47" selection-start-line="47" selection-end-line="53" selection-end-column="19" />
           <folding>
             <element signature="e#22#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OCR/extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
