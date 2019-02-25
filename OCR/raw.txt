@@ -1,4 +1,6 @@
-228 life histories of cascadia butterflies  family nymphalidae subfamily heliconiinae  fritillaries  sixteen species of fritillaries occur in cascadia, including 9 greater fritillaries {argynnis), 6 lesser fritillaries (boloria), and euptoicta claiidia
+228   family nymphalidae
+ subfamily heliconiinae
+  fritillaries  sixteen species of fritillaries occur in cascadia, including 9 greater fritillaries {argynnis), 6 lesser fritillaries (boloria), and euptoicta claiidia
   all fritillaries are orange dorsally with complex markings of black lines and  spots
  ventrally, greater fritillaries bear large oval spots (silvered or not) on  the hindwings, and lesser fritillaries have violet- or rust-tinted hindwings  with white or yellow non-oval spots or markings, and euploicla has drab banded markings
   greater fritillaries are found in all montane habitats and many moist lowland habitats
@@ -15,7 +17,11 @@
  the pupae are similar to those of argynnis but vary in darkness and girth, and 3 have spiny abdominal processes and pearly nodes
   most fritillary larvae are active nocturnally
  all possess an eversible ventral gland on the first segment that emits chemicals likely used in defense against predators
-  subfamily heliconiinae \ family nymphalidae 229   mi -    230 i life histories of cascadia butterflies subfamily heliconiinae | family nymphalidae 231  i  variegated fritillary euptoieta claudia (cramer)  adult biology euptoieta claudia is a primarily tropical species intermediate between argynnis and heliconius
+  subfamily heliconiinae
+ \ family nymphalidae
+ 229   mi -    230 i  subfamily heliconiinae
+ | family nymphalidae
+ 231  i  variegated fritillary euptoieta claudia (cramer)  adult biology euptoieta claudia is a primarily tropical species intermediate between argynnis and heliconius
  in  the us it is a permanent resident from s az e to nc, flying all year with multiple generations (scott, 1986a). highly migratory and opportunistic, e. claudia ranges far to the n in summer, reaching se bc and across canada to the atlantic
  unable to withstand freezing,  n populations die out each fall, although a population has survived in quebec for at least 10 years (layberry et al., 1998). this species has not been found in wa or or but has been reported in bc close to the ne vva border, and there are records from the id panhandle
  during invasive years e. claudia reaches its n limits in late summer; records in bc occur from july 17-sep 4 (guppy and shepard, 2001). in its breeding range the preferred habitat includes open sunny fields, prairies, and roadsides (tveten and tveten, 1996), but it can be found everywhere but deep forests (pyle, 1981). larvae feed on a wide variety of host plants, including viola (violet), linum (flax), plantago (plantain), desmodiuni spp. (beggarticks), portulaca spp. (purslane), and passiflora (passion vine). males patrol all day just above the ground for mates; a receptive female holds her wings mostly closed and abdomen raised slightly
@@ -52,7 +58,7 @@
  why and how 1 population persists in quebec city, 1,000 miles north of its normal overwintering range, would make a fascinating research project
  tj-ie benefits derived from great summer range expansion each year followed by invariable winter contraction are unclear and would make an interesting study
  tlie possible aposematism of mature larvae and possible defensive function of the 1.1 setal droplets and ventral gland would provide excellent chemical ecology research subjects
-  li (ts 1.6 mm  l2 @ 4.0 mm  l3 @ 11 mm  l4 @ 16 mm  < q)  (0 iq 0)  a  0)  m c o o f5 q n  q c q. s  oi  3 (d  l5 @ 36 mm    232 life histories of cascadia butterflies  i  great spangled fritillary argynnis cybele (fabricius)  adult biology argynnis cybele, the largest cascadian fritillary, is found in most low-mid-elevation mountainous  and hilly areas, absent w of the cascades in bc and from the driest regions
+  li (ts 1.6 mm  l2 @ 4.0 mm  l3 @ 11 mm  l4 @ 16 mm  < q)  (0 iq 0)  a  0)  m c o o f5 q n  q c q. s  oi  3 (d  l5 @ 36 mm    232   i  great spangled fritillary argynnis cybele (fabricius)  adult biology argynnis cybele, the largest cascadian fritillary, is found in most low-mid-elevation mountainous  and hilly areas, absent w of the cascades in bc and from the driest regions
  beyond cascadia the range includes most of s canada and n us. preferring moist woods, meadows, and riparian areas, a. cybele is widely distributed, occurring from sea level to 6,000 ft (warren, 2005). the single brood flies early june-early oct. larval hosts include viola glabella (stream violet), v. adunca (blue violet), v. niittallii  (nuttall's violet), and v. sempervirens (evergreen violet). males eclose 4-5 days before females (james, 2008a), although allen (1997) reported their appearance 2-3 weeks before females in e us. females mate, enter reproductive diapause, and aestivate for 3-5 weeks after eclosion (james, 2008a), and are rarely seen before aug. flight is strong, and males patrol for females often in a territorial circuit (douglas and douglas, 2005). both sexes nectar on thistles, milkweed, and dogbane
  populations may be sedentary (miller and hammond, 2007). in aug and sep females lay eggs singly and haphazardly near the bases of dead and dying viola spp. (scott, 1986a; douglas and douglas, 2005).  immature stage biology we reared this species 3 times from gravid females collected mid-late aug in kittitas and asotin cos., wa. eggs hatched in 10-12 days at 20-22 c, then the larvae congregated under cover and diapaused as unfed li. overwintering for -80 days at 5 c was sufficient for li to break diapause and begin feeding on v. adunca leaves within -4 days at 25 c (james, 2008a). development from postdiapause li to pupation took an average of 44 days, females ~ 1 week longer than males, and adults edosed 13-19 days after pupation (james, 2008a). larvae feed  nocturnally, seeking cover during the day under leaves, rocks, or debris
  violet leaves are eaten from  the edges, producing large scooped-out holes
@@ -79,13 +85,15 @@
  the shape is robust, swollen in tbe middle with a large girth, and the abdomen bas parallel rows of orange bullae
  immature stages of this species are similar to those of other argynnis spp., especially a. cglcis, a. hydaspe, and a. hespcris, all of which have dark larvae
  argynnis cybele differs by having oranger spines and lacking a dorsal stripe
- 'ihe heads of mature a. cybele larvae have more extensive orange markings than those of other argynnis spp. 'the pupa of a. cybele is. more robust and more strongly textured than tho.se  subfamily heliconiinae i family nymphalidae 233  c\  (u  ta  d 0) 3  n a.  l2 4 mm egg @ 1.0 mm  l3 @ 8 mm (premolt)  l4 @ 10 mm  pupa (3) 30 mm li @ 1.8 mm  of other argynnis spp. (james, 2(k)8a). larvae and/or pupae were illustrated b\' allen (1997), layberry et al. (1998), guppy and shepard (2001), wagner (2005), allen et al. (2005), and miller and hammond (2003, 2007). lames (2008a) illustrated the entire life cycle
+ 'ihe heads of mature a. cybele larvae have more extensive orange markings than those of other argynnis spp. 'the pupa of a. cybele is. more robust and more strongly textured than tho.se  subfamily heliconiinae
+ i family nymphalidae
+ 233  c\  (u  ta  d 0) 3  n a.  l2 4 mm egg @ 1.0 mm  l3 @ 8 mm (premolt)  l4 @ 10 mm  pupa (3) 30 mm li @ 1.8 mm  of other argynnis spp. (james, 2(k)8a). larvae and/or pupae were illustrated b\' allen (1997), layberry et al. (1998), guppy and shepard (2001), wagner (2005), allen et al. (2005), and miller and hammond (2003, 2007). lames (2008a) illustrated the entire life cycle
  all images are similar to ours
   discussion additional information on immature stages is available in james (2008a). i.arvae are ditlicult to find, but eggs are readily obtained tvom gravid females
  one wandering larva we tound was parasitized
  douglas and douglas (2005) captured larvae in pitfall traps placed at the bases of host plants showing leaf damage
  larvae are easily reared on violet leaves, with native species preferred; late- instar a. cybele fed poorly on pansy (james, 2008a). research is being conducted on the chemistry and defensive function of the ventral osmeterium- like gland (james, 2008a), and similar studies are needed for the droplets on i.l setae
- ihis species is sensitive to forest management, with populations sometimes negatively affected by insecticide applications (miller and hammond, 2007).  l5 @ 21 mm  l6 @ 45 mm  q)  vs  to v: 3 3 k' n v: a-  .  ol cr  n' e' in  l6 @ 45 mm    234 life histories of cascadia butterflies  coronis fritillary argynnis coronis (behr)    adult biology argynnis coronis ranges throughout much of w us from wa and sd to co, az, and s ca. in cascadia  it occurs primarily along the cascades and foothills but also e of the cascades in or. favored habitats  include canyons, hillsides, shrub-steppe, forest margins, and mountain meadows from 1,000-8,000 ft. a single generation flies may-oct, with males emerging before females at relatively low elevations (< 2,000 ft). mating occurs, but females enter reproductive diapause, migrating upslope
+ ihis species is sensitive to forest management, with populations sometimes negatively affected by insecticide applications (miller and hammond, 2007).  l5 @ 21 mm  l6 @ 45 mm  q)  vs  to v: 3 3 k' n v: a-  .  ol cr  n' e' in  l6 @ 45 mm    234   coronis fritillary argynnis coronis (behr)    adult biology argynnis coronis ranges throughout much of w us from wa and sd to co, az, and s ca. in cascadia  it occurs primarily along the cascades and foothills but also e of the cascades in or. favored habitats  include canyons, hillsides, shrub-steppe, forest margins, and mountain meadows from 1,000-8,000 ft. a single generation flies may-oct, with males emerging before females at relatively low elevations (< 2,000 ft). mating occurs, but females enter reproductive diapause, migrating upslope
  males remain largely at low elevations
  populations seen migrating upslope near rimrock lk, yakima co., wa (3,000 ft) on june 4 were entirely female; they spend june-aug at high elevations (5,000-8,000 ft) seeking nectar
  reproductive diapause in females terminates by early aug in wa (james, 2008a), and they move downslope seeking host violets at lower elevations
@@ -116,14 +124,16 @@
  'llie pupa is medium brown with dark brown-black markings, including segment joints
  most argynnis spp. are similar, but a. h. brico, a. h. dodgei, a. cgleis, a. cybclc, and a. liydaspc larvae are darker
  argynnis callippe has a broad pale dorsal stripe
-  subfamily heliconiinae | family nymphalidae 235  egg @1.0 mm l3 @ 8 mm  pupa @21 mm  l4 @ 15 mm  li @ 1.5 mm  l5 @ 20 mm  l2 @ 3 mm  a. mormonia is smaller, and a. iillantis has more  complex side markings
+  subfamily heliconiinae
+ | family nymphalidae
+ 235  egg @1.0 mm l3 @ 8 mm  pupa @21 mm  l4 @ 15 mm  li @ 1.5 mm  l5 @ 20 mm  l2 @ 3 mm  a. mormonia is smaller, and a. iillantis has more  complex side markings
  argynnis zcrcnc is similar but tends to be lighter
  neill (2007) illustrated a larva similar to ours, and james (2008a) illustrated l6 @ 35 mm all immature stages
   discussion  additional observations and data are reported in james (2008a). li overwinter well in captivity if sufficient humidity is provided (>60%). although eggs were laid on dried v. labradorica and 1.3-1.6 fed on this ne us native, 1.1 and 1.2 did not readily accept this host
  similarly, viola tricolor (pansy) was accepted only by 1.5-1.6. the w native violets v. adunca and v. glabclla were very acceptable hosts
  the reproductive ecology of this species l6 @ 35 mm with well-defined adult and larval diapauses deserves further study
  of particular interest are the altitudinal migration, environmental cues determining movement, distances traveled, and whether males migrate
-  n o  o 3  w?' n  q>  tq  3 3_ k' o o t o 3  03 n>    236 life histories of cascadia butterflies  zerene fritillary argynnis zerene {so\sduva\)  i  adult biology argynnis zerene is a variable species with 15 subspecies (pelham, 2008). it occurs in most mountain and foothill areas of cascadia and in some prairie and shrub-steppe, but is absent from most of the cascades  in n wa. beyond cascadia it ranges from n bc to central ca, and the pacific coast to mt and co. tlie  single brood flies from mid-may to mid-sep, with males eclosing 4-5 days before females (james, 2008). habitats include prairies and foreshores w of the cascades, mountain clearings, logging roadsides, and shrub-steppe from sea level to 9,000 ft (warren, 2005). coastal populations are threatened; a. z. hippolyta (oregon silverspot) is federally and state listed, with captive breeding and reintroduction programs in progress (pyle, 2002; miller and hammond, 2007). larval hosts are viola adiinca (blue violet), v glabella (stream violet), v palustris (marsh violet), and v. nuttallii (nuttall's violet) in cascadia
+  n o  o 3  w?' n  q>  tq  3 3_ k' o o t o 3  03 n>    236   zerene fritillary argynnis zerene {so\sduva\)  i  adult biology argynnis zerene is a variable species with 15 subspecies (pelham, 2008). it occurs in most mountain and foothill areas of cascadia and in some prairie and shrub-steppe, but is absent from most of the cascades  in n wa. beyond cascadia it ranges from n bc to central ca, and the pacific coast to mt and co. tlie  single brood flies from mid-may to mid-sep, with males eclosing 4-5 days before females (james, 2008). habitats include prairies and foreshores w of the cascades, mountain clearings, logging roadsides, and shrub-steppe from sea level to 9,000 ft (warren, 2005). coastal populations are threatened; a. z. hippolyta (oregon silverspot) is federally and state listed, with captive breeding and reintroduction programs in progress (pyle, 2002; miller and hammond, 2007). larval hosts are viola adiinca (blue violet), v glabella (stream violet), v palustris (marsh violet), and v. nuttallii (nuttall's violet) in cascadia
  mating occurs immediately after female eclosion (guppy and shepard, 2001), and females do not mature their ovaries for 3-5 weeks (sims, 1984; scott, 1986a), spending the summer at higher elevations, returning to areas with violets to oviposit in aug and sep. reproductive diapause in females terminates by early aug in wa (james, 2008a). oviposition occurs on senesced violets; pyle (2002) suggested that females hunt over turf for violet scent
   immature stage biology we reared this species 5 times
  gravid females from kittitas, columbia, and pend oreille cos., wa during aug over 5 years produced 100-1,000 eggs per cohort, 2-5% of which were reared to adults
@@ -152,11 +162,13 @@ v side markings
  argynnis coronis is most similar; however, it tends to be darker with dorsolateral orange spots split into 2 lines
  guppy and shepard (2001), allen et al. (2005), and neill (2007) published images oflarvae from ak, ga, and gascadia that are darker than ours
   miller and hammond (2003, 2007) and james (2008a)  show images similar to ours
-  subfamily heliconiinae | family nymphalidae 237  egg @ 0.9 mm  l3 @7 mm  pupa @ 23 mm  h  l4 @ 13 mm  li (s) 1.5 mm  l5 @ 22 mm  k  l2@4mm  discussion  additional observations and data are reported in james (2008a). eggs are easily obtained from closely confined females as long as violet detritus is provided
+  subfamily heliconiinae
+ | family nymphalidae
+ 237  egg @ 0.9 mm  l3 @7 mm  pupa @ 23 mm  h  l4 @ 13 mm  li (s) 1.5 mm  l5 @ 22 mm  k  l2@4mm  discussion  additional observations and data are reported in james (2008a). eggs are easily obtained from closely confined females as long as violet detritus is provided
  li overwinter well if sufjicient humidity is provided (>60%). substantial mortality occurs under dry conditions, and larvae are subject to mold if rh is higher than 90%). overwintered larvae feed well on succulent fresh violet blossoms and leaves; tough species like \'. scinpcrvircns and \' tricolor may be rejected by early instars
  larvae are very difficult to find
  research is being conductecj on the chemistry and defensive function of the ventral osmeterium-like gland, and similar studies are needed for the droplets on 1,1 setae
-  l6 @ 38 mm  n (d  n 3 m  q)  vc 3 2 k' n 0)  0) 3 (d  cd o_ wi' a. c < at  l6 @ 38 mm    238 life histories of cascadia butterflies  callippe fritillary argynnis callippe (boisduval)  adult biology argynnis callippe flies in a single brood mid-may- mid-aug e of the cascades in much of cascadia, also w of the divide in s or, but is absent from tbe  driest parts of the columbia basin
+  l6 @ 38 mm  n (d  n 3 m  q)  vc 3 2 k' n 0)  0) 3 (d  cd o_ wi' a. c < at  l6 @ 38 mm    238   callippe fritillary argynnis callippe (boisduval)  adult biology argynnis callippe flies in a single brood mid-may- mid-aug e of the cascades in much of cascadia, also w of the divide in s or, but is absent from tbe  driest parts of the columbia basin
  beyond cascadia it ranges over much of w north america from s bc to the prairie provinces, s to co and ca. preferred habitats include montane canyons, open moist  wooded areas, and shrub-steppe prairie at elevations of 300-9,700 ft. the flight period is protracted in s bc and wa, females entering reproductive diapause soon after eclosion, moving to high elevations during june- july before returning to lay eggs in mid-late aug (guppy and shepard, 2001). scott (1992) suggested that a. callippe undergoes little or no reproductive diapause in co, dying before late summer, which also appears to be the case for populations in n ca (shapiro and manolis, 2007). larval hosts confirmed in cascadia are viola nuttallii (nuttall's violet) and  viola sempervirens (evergreen violet), although other viola spp. are likely used as well
  males frequent hilltops as well as patrolling hillsides near the ground to seek females (scott, 1986a). both sexes visit thistles and mints, and males are avid puddlers
  females crawl  into shady hollows where they lay eggs singly, often in litter where no violets are apparent but are present in spring (scott, 1986a, 1992).  immature stage biology we reared this species several times from gravid females
@@ -186,13 +198,15 @@ v side markings
  larvae are paler than those of a. h. dodgei, a. h. brico, a. hydaspc, a. inonnotua, and a. cybclc
  tlie larvae of a. atlantis have complex white lateral lines
  argynnis coronis and a. zcrenc are similar, but the dorsal stripe  in a. callippe is broader with a fainter median line
- guppy and shepard (2001) show a mature larva and  subfamily heliconiinae i family nymphalidae 239  ij-hi i.*.  l3 10 mm  egg @1.0 mm  pupa @ 22 mm  l4 @ 11 mm  l5 @ 15 mm  li @ 2.5 mm  l6 @ 30 mm  l2 @ 3 mm  f  r' . ' f '1   pupa from wa similar to ours
+ guppy and shepard (2001) show a mature larva and  subfamily heliconiinae
+ i family nymphalidae
+ 239  ij-hi i.*.  l3 10 mm  egg @1.0 mm  pupa @ 22 mm  l4 @ 11 mm  l5 @ 15 mm  li @ 2.5 mm  l6 @ 30 mm  l2 @ 3 mm  f  r' . ' f '1   pupa from wa similar to ours
  allen et al. (2005) picture a mature larva from t'x that is dark with a narrow dorsal stripe and a strong black central line
   discussion  larvae of a. callippe are ditlicult to find, but eggs are readily obtained from females confined with violet detritus
  overwintering 1.1 is difficult, with dry or excessively moist conditions causing high mortality
  post-winter larvae feed well on a number of viola spp., although v. sempervirens appeared unfavorable
  research is needed on the chemistry and defensive function of the eversible ventral gland and the setal droplets in 1.1. natural mortalit)' factors and their impact on population dynamics deserve study, as do the dynamics of reproductive diapause and associated environmental cues
-  l6 @ 35 mm  n  5l  5' d  01  iq  3 3 k' n  3 ft)  00 o_ ifl' a. c < q)    240 life histories of cascadia butterflies  great basin fritillary argynnis egleis (behr)  adult biology argynnis egleis is a w species ranging from wa, id, and mt s to wy, or, nv, ca, and ut, occurring mostly at mid-high elevations (2,000-10,000 ft) in forest clearings and meadows, and on dry rocky ridges and hilltops
+  l6 @ 35 mm  n  5l  5' d  01  iq  3 3 k' n  3 ft)  00 o_ ifl' a. c < q)    240   great basin fritillary argynnis egleis (behr)  adult biology argynnis egleis is a w species ranging from wa, id, and mt s to wy, or, nv, ca, and ut, occurring mostly at mid-high elevations (2,000-10,000 ft) in forest clearings and meadows, and on dry rocky ridges and hilltops
  it is sparsely distributed in wa but more readily found in the wallowa-blues, ochocos, warners and siskiyou ranges of or. adults fly in 1 generation mid-june-early sep and can be locally common
  males emerge a week or two before females, patrol and sometimes hill-top. no evidence has been presented that females enter reproductive diapause; this strategy may be unnecessary in these higher- elevation habitats
  later in the flight period females are found mostly in wooded areas seeking host plants
@@ -224,7 +238,9 @@ v side markings
  the pupa is brown with black markings limited to intersegmental banding, the eyes, and wing venation
  there are 2-3 lateral rows of indistinct orange spots on the abdomen
  most argynnis spp. larvae are lighter
- argynnis hydaspc, a.  subfamily heliconllnae | family nymphalidae 241  l3 ia> 5 mm egg @1.0 mm  pupa @ 22 mm  l4 (a> 12 mm (late)  li @ 1.5 mm  l5 @ 15 mm (early)  l2 @3.0 mm  h. brico, a. h. dodgci, and a. cybclc have dark larvae, but a. h. dodgei has a wide pale dorsal hand, and a. h. brico and a. cybclc have vivid orange spines
+ argynnis hydaspc, a.  subfamily heliconllnae
+ | family nymphalidae
+ 241  l3 ia> 5 mm egg @1.0 mm  pupa @ 22 mm  l4 (a> 12 mm (late)  li @ 1.5 mm  l5 @ 15 mm (early)  l2 @3.0 mm  h. brico, a. h. dodgci, and a. cybclc have dark larvae, but a. h. dodgei has a wide pale dorsal hand, and a. h. brico and a. cybclc have vivid orange spines
  the mature larva of a. hydaspc is most similar, but the head usually has no brown markings
  james (2008a) illustrated the life cycle of a. cglcis and provided further information on immature stages
   discussion  similar to other argynnis spp., a. cglcis oviposits readily in captivity and is easily reared
@@ -232,7 +248,7 @@ v side markings
  three previously unreported violet hosts were accepted by all instars, and pansies were acceptable to final instars
  studies are needed on the reproductive ecology of this species, which may vary between subspecies at different elevations
  little is known of natural enemies and other population-regulating factors
-  l6 @ 35 mm  cn  n> fi) r+  c9 01 ift  vs  iq v: =5 2  fd  ?  3 (t) =r  l6 @ 35 mm    242 life histories of cascadia butterflies  i  northwestern fritillary argynnis hesperis dodgei (gunder) (unsilvered form)  adult biology argynnis hesperis is considered by some authors a subspecies of a. atlantis (e.g., pyle, 2002; miller and hammond, 2007). we follow guppy and shepard (2001), warren (2005), and pelham (2008) in treating a. hesperis as a distinct species
+  l6 @ 35 mm  cn  n> fi) r+  c9 01 ift  vs  iq v: =5 2  fd  ?  3 (t) =r  l6 @ 35 mm    242   i  northwestern fritillary argynnis hesperis dodgei (gunder) (unsilvered form)  adult biology argynnis hesperis is considered by some authors a subspecies of a. atlantis (e.g., pyle, 2002; miller and hammond, 2007). we follow guppy and shepard (2001), warren (2005), and pelham (2008) in treating a. hesperis as a distinct species
  the northwestern fritillary ranges from ak to mb, s to nm and ca. in cascadia it occurs in bc, wa, or, and id. argynnis hesperis dodgei is unsilvered and occurs in the s cascades of wa and most mid-high-elevation areas in or. in n wa and bc it is replaced by the silvered a. h. brico
  in se wa and or a. h. dodgei is found in cool, forested and open, dry subalpine habitats (1,500- 8,000 ft) and can be locally common (dornfield, 1980; warren, 2005; miller and hammond, 2007).  the single brood flies mid-june-sep, males emerging a week or so before females
  males patrol meadows, hillsides, and ridgelines and visit mud and animal scat
@@ -263,13 +279,15 @@ v side markings
  4he pupa is mostly black dorsally with mahogany brown wing cases marked in black primarily following venation
  most argynnis spp. larvae are similar but lighter in color, argynnis hydaspe, a. egleis, a. cybelc, and a. h. brico have dark larvae, but a. egleis and a. h. brico have a pair of dorsal white lines, and a. cybcle has vivid orange spines
  larvae of a. hydaspe may be indistinguishable
- the  subfamily heliconiinae | family nymphalidae 243  l3 @ 7 mmegg @ 0.9 mm  pupa @17 mm  l4 @ 12 mm  li @ 1.5 mm  l5 @ 16 mm  l2 @4 mm  larva shown in miller and hammond (2007) (.s. atlantis dodgei) is similar to ours
+ the  subfamily heliconiinae
+ | family nymphalidae
+ 243  l3 @ 7 mmegg @ 0.9 mm  pupa @17 mm  l4 @ 12 mm  li @ 1.5 mm  l5 @ 16 mm  l2 @4 mm  larva shown in miller and hammond (2007) (.s. atlantis dodgei) is similar to ours
   discussion  the substantial difference between a. hesperis (both subspecies) and a. atlantis larvae, first reported by scott (1988) and scott et al. (1998) and illustrated here, supports the specific status of these 2 entities
  additional studies on the biology of immature stages of these species should be conducted and may reveal further differences
  cravid females appear to oviposit well in captivity, as do other argynnis spp. the full host range of this species remains to be determined; viola glabella (stream violet) occurs commonly in the sh wa and ne or habitats occupied by a. h. dodgei and is a likely host
  itic identity and impact of natural enemies on population dynamics of this localized but sometimes common species are unknown and deserve study
  also worthy of study is the possible existence of reproductive diapause in newly eclosed females
-  l6 @ 34 mm  l6 @ 34 mm  3 o  i 1 o  -h rt o fd  i3  0)  3 3  ln  3- fd  t3 (d 2 tn'  a. o a. la 2  c 3 q. (d    244 life histories of cascadia butterflies  northwestern fritiilary argynnis hesperis brico (silvered form) kondia, scott & spomer  adult biology argynnis hesperis brico is a subspecies of the northwestern fritiilary, occurring in s bc and n  wa from okanogan to pend oreille cos. argynnis hesperis brico ranges across w canada into mt and co. we separate the subspecies of a. hesperis because the adults are readily distinguished and there are no known blend areas in cascadia where the two meet or  merge
+  l6 @ 34 mm  l6 @ 34 mm  3 o  i 1 o  -h rt o fd  i3  0)  3 3  ln  3- fd  t3 (d 2 tn'  a. o a. la 2  c 3 q. (d    244   northwestern fritiilary argynnis hesperis brico (silvered form) kondia, scott & spomer  adult biology argynnis hesperis brico is a subspecies of the northwestern fritiilary, occurring in s bc and n  wa from okanogan to pend oreille cos. argynnis hesperis brico ranges across w canada into mt and co. we separate the subspecies of a. hesperis because the adults are readily distinguished and there are no known blend areas in cascadia where the two meet or  merge
  argynnis hesperis brico has affinities to the n and e and the rocky mts, while a. h. dodgei resembles relatives to the s. a single brood flies from mid-june to early sep, occupying partially wooded, moist meadow habitats, often near watercourses
  larval host plants include viola adunca (blue violet), v. canadensis  (canadian violet), v. nuttallii (nuttall's violet), and perhaps v. sempervirens (evergreen violet). males patrol meadows, ridges, and hilltops and visit mud. courtship is similar to that of other argynnis spp., females ovipositing throughout aug near senesced violets after most of the earlier-flying males have died
   it is likely, although unconfirmed, that females are in reproductive diapause from eclosion to late july, as in other argynnis spp. (james, 2008a).  immature stage biology we reared this subspecies once
@@ -295,14 +313,16 @@ v side markings
  mature larvae of a. h. brico tend to be shiny black with brighter orange markings than those of either a. h. dodgei or a. hydaspe
  otiier argynnis spp., except a. cybele and a. eglcis, have paler larvae, the former lacking dorsal stripes and with more extensive orange spines, the latter with paler sides
  we know of no published images of immature stages of a. h brico
-  discussion  argynnis h. brico is found close to and synchronously with populations of a. atlanlis in pend oreille co. in ne wa. adults are often very similar, particularly  subfamily heliconiinae | family nymphalidae 245  l2 3.7 mm  egg @ 0.8 mm (fresh, left, mature, right)  lb @ 8.5 mm  li @ 1.2 mm  **v>'  l4 @ n mm  pupa @ 20 mm  when worn; however a. h. brico occupies drier habitats while a. atlantis is found mostly near bogs and wet riparian areas
+  discussion  argynnis h. brico is found close to and synchronously with populations of a. atlanlis in pend oreille co. in ne wa. adults are often very similar, particularly  subfamily heliconiinae
+ | family nymphalidae
+ 245  l2 3.7 mm  egg @ 0.8 mm (fresh, left, mature, right)  lb @ 8.5 mm  li @ 1.2 mm  **v>'  l4 @ n mm  pupa @ 20 mm  when worn; however a. h. brico occupies drier habitats while a. atlantis is found mostly near bogs and wet riparian areas
  some lepidopterists still regard a. hesperis and a. atlanlis as conspecific; however, in cascadia the pale, dcrrsally striped larvae of a. atlantis bear limited resemblance to the black larvae of a. h. brico or a. h. dodgei
  further rearing of a. h. brico and a. h. dodgei populations is needed to confirm the differences we report between these subspecies
  little is known about the ecology of either subspecies, including the existence or not of reproductive diapause and the mortality factors affecting immature stages
  in our rearings, a. h. brico larvae developed faster than those of a. h. dodgei, 22 days from commencement ofpo
 stdiapause feeding to pupation, while the same development took 30-40 days for a. h. dodgei
  tlie full range of violet host plants used by a. h. brico in cascadia is unknown and needs studv
-  l5 (a) 18 mm  l6 @ 30 mm  l6 @ 30 mm    246 life histories of cascadia butterflies  atlantis frltlllary argynnis atlantis (w. h. edwards)  adult biology argynnis atlantis occurs in the ne us and e canada, w to e bc and s to mt, sd, co, and nm. in cascadia  it is found in se bc, n id, ne wa, and ne or. this  species was formerly combined with a. hespcris
+  l5 (a) 18 mm  l6 @ 30 mm  l6 @ 30 mm    246   atlantis frltlllary argynnis atlantis (w. h. edwards)  adult biology argynnis atlantis occurs in the ne us and e canada, w to e bc and s to mt, sd, co, and nm. in cascadia  it is found in se bc, n id, ne wa, and ne or. this  species was formerly combined with a. hespcris
  miller and hammond (2007) treat the cascadia subspecies of a. atlantis as a distinct species, a. hollandi
  in cascadia, a. atlantis is found in cool, moist to boggy boreal habitats
  never common, it sometimes flies  with a. hesperis brico in ne wa and a. hesperis dodgei in ne or. the single brood flies late june-late aug, and males emerge before females
@@ -337,14 +357,16 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  tlie black head is distinctly marked with dorsolateral brown markings
  tjie pupa is medium-dark brown with black markings on the head, thorax, and abdomen, black-banded intersegmentally, with a pair of dorsal black spots on each segment
  most argynnis spp. larvae are similar but mature larvae ot a. h. brico, a. h. dodgei, a. hydaspe, a. eglcis, and a. cybcle arc darker, with little or no white markings
- tlie lighter  subfamily heliconiinae \ family nymphalidae 247  l3 cic 9 mm  egg @ 0.8 mm (fresh) egg @ 0.9 mm (mature)    'v - 1  l4 (3 13 mm  li @ 1.6 mm  l5 (3) 23 mm  l2 @ 5 mm  larvae of a. zercnc, a. coronis, inonnoniii, and  a. callippe are similar, but none has the vi\ id dorsal white stripes and complex lateral white markings seen in a. atlantis
+ tlie lighter  subfamily heliconiinae
+ \ family nymphalidae
+ 247  l3 cic 9 mm  egg @ 0.8 mm (fresh) egg @ 0.9 mm (mature)    'v - 1  l4 (3 13 mm  li @ 1.6 mm  l5 (3) 23 mm  l2 @ 5 mm  larvae of a. zercnc, a. coronis, inonnoniii, and  a. callippe are similar, but none has the vi\ id dorsal white stripes and complex lateral white markings seen in a. atlantis
  tlie black spots on the pupa abdomen also appear to be unique, linages of mature larvae appear in allen (1997), wagner (2005), and allen et al. (2005) and agree with ours
   discussion  the need for humid conditions (>70%) to ensure  good survival of diapausing 1.1 likeh' retlects adaptation to the moist habitats occupied bv a. atlantis in cascadia
  tire violet species used in cascadia need documentation
  tlie rejection of v. adunca in our rearing is surprising, as this species is present in habitats used by a. atlantis
  the existence or not of reproductive diapause in females deserves study, as does the ecology of immature stages
  miller and hammond (2007) considered this species to be local and sedentarv, thus sensitive to forest management
-  l6 @ 36 mm  0) 3  w'  ql -i  ><  to  o 3  k' o  s 3  a  0)  a. in  l6 @ 36 mm  pupa @ 19 mm    248 life histories of cascadia butterflies  hydaspe fritillary argynnis hydaspe (boisduval)  adult biology argynnis hydaspe is widely distributed and common, found in a variety of forested habitats, particularly moist woodlands, meadows, and flowery scree slopes
+  l6 @ 36 mm  0) 3  w'  ql -i  ><  to  o 3  k' o  s 3  a  0)  a. in  l6 @ 36 mm  pupa @ 19 mm    248   hydaspe fritillary argynnis hydaspe (boisduval)  adult biology argynnis hydaspe is widely distributed and common, found in a variety of forested habitats, particularly moist woodlands, meadows, and flowery scree slopes
  the range includes nearly all of cascadia except the drier parts of the columbia basin and se or. beyond cascadia it is found from central bc to central ca,  e to co and ut. found from near sea level to 8,300  ft (warren, 2005), the single brood flies mid-may- late sep. larval host plants include viola glabella (streamviolet), v. adunca (blue violet), v. nuttallii (nuttall's violet), and v. sempervirens (evergreen violet). other violets (e.g., v. orbiculata, v. purpurea) are used elsewhere (scott, 1986a). males hill-top and are often seen at mud; both sexes visit thistles, asters,  penstemons, and dogbane
  males begin flight earlier than females, and after mating the females enter summer aestivation for 3-5 weeks before becoming gravid in early aug (james, 2008a). oviposition occurs in aug-sep in the vicinity of senesced violets
  pyle (2002) observed females ovipositing on rocks at the base of v. adunca in the olympic mts of wa.  immature stage biology we reared this species 4 times
@@ -369,7 +391,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  the pupa is dark reddish brown with black dorsal markings and rufous inlersegmental bands
  tlie wing cases are brown with black smudged markings
  all argynnis spp. have similar larvae (lames, 2008a), but several are considerably lighter than a. hydaspe, including those of a. coronis, a. zercnc, a. inonnonia
-  subfamily heliconiinae | family nymphalidae 249  l2 loi 5 mm  egg @ 1.0 mm (fresh, top, mature, bottom) pupa @ 22 mm  l3 (3) 8 mm  li @ 1.5 mm  a. atlantis, and a. eallippc
+  subfamily heliconiinae
+ | family nymphalidae
+ 249  l2 loi 5 mm  egg @ 1.0 mm (fresh, top, mature, bottom) pupa @ 22 mm  l3 (3) 8 mm  li @ 1.5 mm  a. atlantis, and a. eallippc
  the larvae i>t cylcis are dark with pale dorsal lines, in .4. cvbclc the orange spines are numerous and prominent, and the head is marked with brown dorsallv
  .\rgvntiis hesperis brico and a. h. dodgci are ver\' similar, although a. h. brico may have more extensive brown head markings
  photos of larvae and pupae in woodward (2005) and neill (2007) and a larva in guppy and shepard (2001) are similar to ours
@@ -377,7 +401,7 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
   discussion  gravid females lay eggs readily even in small containers as long as violet debris is present; however, overwintering of 1,1 can be difficult, with substantial mortality if conditions are too dry or too moist
  details of female aestivation (e.g., timing, behavior) need elucidation, as do the factors that shape the abundance and distribution of this species
  little is known of the natural enemies affecting a. hydaspe
-  l4 (3) 1 5 mm  ls @ 19 mm  l6 @ 32 mm  x  q.  v>  o fl>  q>  vq vc 3 3 k' 3- v; a. q in  t3 a>  00 o, in a c < 0)  l6 @ 37 mm    250 life histories of cascadia butterflies  mormon fritillary argynnis mormonia erinna (w. h. edwards)  i  adult biology argynnis mormonia ranges from ak s to az and e to mb, sd, ut, and co, occupying mid-high-elevation habitats
+  l4 (3) 1 5 mm  ls @ 19 mm  l6 @ 32 mm  x  q.  v>  o fl>  q>  vq vc 3 3 k' 3- v; a. q in  t3 a>  00 o, in a c < 0)  l6 @ 37 mm    250   mormon fritillary argynnis mormonia erinna (w. h. edwards)  i  adult biology argynnis mormonia ranges from ak s to az and e to mb, sd, ut, and co, occupying mid-high-elevation habitats
  two subspecies are found in cascadia; a. m. erinna is found in extreme s bc, in ne and se vva,  and in the cascades, ochocos, wallowas, and blue  mts of or. argynnis mormonia erinna flies in moist alpine and subalpine meadows, also drier hillsides, from -2,400 to 7,000 ft (warren, 2005). the single brood flies from late june to mid sep but is most common during july-aug. boggs (1987), studying a co population of a. mormonia, found males emerge 2-3 weeks before females and mate more than once
   females mate only once and do not appear to undergo reproductive diapause
  dispersal is limited, and males patrol for females
@@ -409,13 +433,15 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  the black head is covered dorsally with brown markings dotted with black
  tlie pupa is light brown with black markings on the head, thorax, and abdomen
  all argynnis spp. larvae are similar
-  subfamily heliconiinae | family nymphalidae 251  l2 to) 4 mm  egg @ 0.8 mm li (a) 1.5 mm  l3 @ 7 mm  l4 @ 11 mm  pupa @16 mm  but mature larvae of a. li. hrico
+  subfamily heliconiinae
+ | family nymphalidae
+ 251  l2 to) 4 mm  egg @ 0.8 mm li (a) 1.5 mm  l3 @ 7 mm  l4 @ 11 mm  pupa @16 mm  but mature larvae of a. li. hrico
  a. h. dodi^ci, ,4. hydaspe, a. eglcis, and a. cyhclc are darker with limited or no white markings
  ihe lighter mature larvae of a. zerenc, a. coronis, a. atlantis, and a. callippe are most similar, but only a. atlantis and a. coronis have bisected dorsal stripes as prominent; however, both subspecies of a. inonnonia are the only entities with all spines whitish in 1.6. miller and hammond (2007) show an image of a mature larva that appears similar to ours
   discussion  both subspecies of a. mormonia are easily reared from gravid females
  in our rearings, a. m. erinna l3-l6 were lighter and had more extensive white markings laterally than a. nt. washingtonia
  tlie dorsal white stripe was also more prominent and the overall appearance of late instars resembled that of a. atlantis
- l2ornfield (1980) described the larva of a. m. erinna in or as paler than other argynnis spp., but rearing of this subspecies from other locations (e.g., high-elevation habitats in or) is needed to determine whether lighter coloration is diagnostic in separating erinna from wiis/ungfou/u.  l5 @ 18 mm  l6 @ 32 mm  o  3 o 3  01 -r  vc  to v: 3 3  5'  2 o t  2 o 3  s ftj t  3 3 3  q.  o)  a in  l6 @ 32 mm    252 life histories of cascadia butterflies  mormon fritillary argynnis mormonia washingtonia (barnes & mcdunnough)  adult biology argynnis mormonia ranges from ak s to az and e to  mb, sd, ut, and co, occupying mid-high-elevation habitats
+ l2ornfield (1980) described the larva of a. m. erinna in or as paler than other argynnis spp., but rearing of this subspecies from other locations (e.g., high-elevation habitats in or) is needed to determine whether lighter coloration is diagnostic in separating erinna from wiis/ungfou/u.  l5 @ 18 mm  l6 @ 32 mm  o  3 o 3  01 -r  vc  to v: 3 3  5'  2 o t  2 o 3  s ftj t  3 3 3  q.  o)  a in  l6 @ 32 mm    252   mormon fritillary argynnis mormonia washingtonia (barnes & mcdunnough)  adult biology argynnis mormonia ranges from ak s to az and e to  mb, sd, ut, and co, occupying mid-high-elevation habitats
  two subspecies that differ substantially as adults occur in cascadia
  argynnis mormonia washingtonia is found in s bc and in the cascades of wa (pyle, 2002) and flies in moist alpine and subalpine meadows, also drier hillsides, from -2,500  to 7,000 ft. the single brood flies from early june to mid-oct but is most common during july-aug. females mate only once and do not appear to undergo reproductive diapause
  dispersal is limited, and males patrol for females
@@ -450,11 +476,13 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  lateral pale markings are limited
  ibe black head is covered dorsally with brown markings dotted with black
  tlte pupa is medium-dark brown with darker markings on the head, thorax, and abdomen
- all argynnis spp. larvae are similar, but mature larvae of a. /;. brico,  a. h. dodgei, a. hydaspe, a. cglcis, and a. cybelc are dark with limited or no white markings, llie lighter and dorsally striped mature larvae of a. zcrcne, a. coronis, a. atlantis, and a. callippc are most similar,  subfamily heliconiinae | family nymphalidae 253  l2 3 mm  eggs @ 0.9 mm  l3 @ 6 mm  3 o 3  q> -t  iq  3 3  li @ 1.5 mm  2 o  o 3  q  q lo  3-  3 to  l4 @ 12 mm  w.  o 3  ., it; -i- -  oj cu  3 rd tn  e  l5 @ 16 mm  pupa (a) 17 mm  but only a. atlantis and a. coronis have prominent bisected dorsal stripes; however, both subspecies of a. mormonia are the only entities with all spines whitish in l6. guppy and shepard (2001) show an image of a mature larva of ssp. opis that appears similar to ours
+ all argynnis spp. larvae are similar, but mature larvae of a. /;. brico,  a. h. dodgei, a. hydaspe, a. cglcis, and a. cybelc are dark with limited or no white markings, llie lighter and dorsally striped mature larvae of a. zcrcne, a. coronis, a. atlantis, and a. callippc are most similar,  subfamily heliconiinae
+ | family nymphalidae
+ 253  l2 3 mm  eggs @ 0.9 mm  l3 @ 6 mm  3 o 3  q> -t  iq  3 3  li @ 1.5 mm  2 o  o 3  q  q lo  3-  3 to  l4 @ 12 mm  w.  o 3  ., it; -i- -  oj cu  3 rd tn  e  l5 @ 16 mm  pupa (a) 17 mm  but only a. atlantis and a. coronis have prominent bisected dorsal stripes; however, both subspecies of a. mormonia are the only entities with all spines whitish in l6. guppy and shepard (2001) show an image of a mature larva of ssp. opis that appears similar to ours
   n  d c 3 3 o c to 3-  l6 @ 26 mm  discussion  both subspecies of a. mormonia are easily reared
  we found the larvae of a. in. washingtonia were darker and did not have the extensive white lateral  markings of a. m. eriniur, however, coloration and markings may vary with habitat and geography, and more rearing is needed to confirm this difference
  the need for sufficiently humid conditions (>70%) to ensure good survival of pre-overwintering, diapausing 1.1 likely reflects adaptation to the moist habitats occupied by a. in. washiiu^toniii
- high humidity is also needed for good survival of overwintering f.l.  l6 @ 26 mm  uaiulmu^ai.    254 life histories of cascadia butterflies  silver-bordered fritillary fio/or/a se/ene ([schiffermuller])  adult biology boloria selene is primarily a n species found e of the cascades in bc and in n wa, also in small remnant  populations scattered in central and se wa, ne or, and the id panhandle
+ high humidity is also needed for good survival of overwintering f.l.  l6 @ 26 mm  uaiulmu^ai.    254   silver-bordered fritillary fio/or/a se/ene ([schiffermuller])  adult biology boloria selene is primarily a n species found e of the cascades in bc and in n wa, also in small remnant  populations scattered in central and se wa, ne or, and the id panhandle
  it is circumboreal, occurring in europe and asia
  in north america it occurs in ak and much of canada, s into n us, and along the rocky mts to nm. the preferred habitats are bogs, fens, and moist riparian areas between 1,300 and 3,600 ft and it is locally common in some areas
  the flight period in cascadia is mid-april-early sep with 2 broods
@@ -491,7 +519,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  1.4 is a mottled jumble of gray, orange, and black, with gray dominating dorsally
  tlie horns on segment 1 are longer, and all bullae are black, bearing numerous setae
  l5 is purplish gray, mottled with numerous black splotches and yellow spinctike bullae bearing setae
- the anterior 3 segments are  subfamily heliconiinae | family nymphalidae 255  li (2) 2.0 mm  egg (s) 0.9 mm  pupa @15 mm  black, and the horns t)n the first segment are long and black with yellow bases
+ the anterior 3 segments are  subfamily heliconiinae
+ | family nymphalidae
+ 255  li (2) 2.0 mm  egg (s) 0.9 mm  pupa @15 mm  black, and the horns t)n the first segment are long and black with yellow bases
  the pupa is mottled brown, black, and reddish with spiny projections; there are 5 pairs of shiny cream-colored cones on the head and thorax
  the larcae of other boloria  spp. are similar; however, the contrasting cellow spines, long anterior horns, and black anterior segments of b. selene in l5 are diagnostic
  there are numerous published images of larvae, the most recent including allen (1997) and guppy and shepard (2001) (both with pupa images), and wagner (2003), allen et al. (2005), and neill (2007). all images agree with ours
@@ -502,7 +532,7 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  a proportion of the population may be obliged to diapause as larvae regardless of environmental conditions
  little is known of natural enemies; however, pvle (2002) found that ambush bugs prey on adults visiting flowers
  research is needed to clarify the relationship between the ecology and persistence of b. selene and grazing by herbivores
-  l2 @ 5 mm  l3 @ 10 mm  l4 @ 15 mm  l5 @ 23 mm  < m  i  a* o n  a  a.  n  01 t  00 o_ 5  s t/)  2. s 3 rti  ttj n  5; ro  3 e_  ro  l5 @ 23 mm    256 life histories of cascadia butterflies  meadow fritillary boloria bellona (fabricius)  adult biology boloria bellona ranges across canada and ne us  with disjunct populations in cascadia and the rocky mts. in cascadia small populations occur in n vva (okanogan and ferry cos.) and ne id. populations previously existed in the wa blue mts and in umatilla co.. or but have not been seen at these locations for  more than half a century
+  l2 @ 5 mm  l3 @ 10 mm  l4 @ 15 mm  l5 @ 23 mm  < m  i  a* o n  a  a.  n  01 t  00 o_ 5  s t/)  2. s 3 rti  ttj n  5; ro  3 e_  ro  l5 @ 23 mm    256   meadow fritillary boloria bellona (fabricius)  adult biology boloria bellona ranges across canada and ne us  with disjunct populations in cascadia and the rocky mts. in cascadia small populations occur in n vva (okanogan and ferry cos.) and ne id. populations previously existed in the wa blue mts and in umatilla co.. or but have not been seen at these locations for  more than half a century
  e populations are often found in disturbed environments, but in the w the  habitat is restricted to mid-high-elevation meadows
  adults fly from late may to early july where violet host plants grow, particularly the favored viola canadensis (canada violet). males patrol all day. conspicuously searching for females where open forest areas adjoin grassy meadows and boggy streams
  females generally remain low in the vegetation
@@ -537,7 +567,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  a vertical column of 3 strong v-shaped chevrons dominates the posterior end of the abdomen, and there are several reflective metallic spots
  larvae ot other boloria spp. are similar to b. bcllojia and are best separated by comparison ot images
  larvae of boloria cpithorc lack the well-defined side stripes and differ in details of the complex body mottling; also spine-bearing bullae are orange
- boloria sclenc often co-occurs with b. bellona and feeds on the same host  subfamily heliconiinae | family nymphalidae 257  eggs @1.0 mm l2 @ 3.1 mm  l3 @ 6 mm  li @ 1.7 mm  plants; however, mature larvae ot this species are solid black anteriorly, mottled grav posteriorlv
+ boloria sclenc often co-occurs with b. bellona and feeds on the same host  subfamily heliconiinae
+ | family nymphalidae
+ 257  eggs @1.0 mm l2 @ 3.1 mm  l3 @ 6 mm  li @ 1.7 mm  plants; however, mature larvae ot this species are solid black anteriorly, mottled grav posteriorlv
  with contrasting orange tubercles
  scott (1992) provided a description of the immature stages of b. bellona that agrees well with our images
  images of mature larvae shown by allen et. al. (2005) and wagner (2005) are similar to ours; however, the image of a mature larva from \v\' in allen (1997) differs in being brown with white markings and has a red-brown head
@@ -550,7 +582,7 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  ttie full host range in cascadia is unknown and deserves study
  it is difficult to find larvae as host plants are numerous, small, and typically well hidden under taller grasses and shrubs; also the larvae are nocturnal feeders and likely spend daylight hours in protected refugia
  very little is known of the biology and ecology of this species, including the biotic and abiotic factors affecting abundance and distribution in cascadia
-  l4 @ 13 mm  ls @ 24 mm  q>  a. o  v;  03 o  q  o-  . o 3 q  0) o-  c  pupa @ 15 mm    258 life histories of cascadia butterflies  western meadow fritillary boloria epithore (w. h. edwards)  adult biology boloria epithore flies in a single brood from early may to late sep in cascadia (depending on elevation), favoring meadows, riparian areas, logging roads, and moist openings in forests and mountains from sea level to -8,000 ft (guppy and shepard, 2001; warren, 2005). guppy and shepard (2001) found that populations fly for -3 weeks
+  l4 @ 13 mm  ls @ 24 mm  q>  a. o  v;  03 o  q  o-  . o 3 q  0) o-  c  pupa @ 15 mm    258   western meadow fritillary boloria epithore (w. h. edwards)  adult biology boloria epithore flies in a single brood from early may to late sep in cascadia (depending on elevation), favoring meadows, riparian areas, logging roads, and moist openings in forests and mountains from sea level to -8,000 ft (guppy and shepard, 2001; warren, 2005). guppy and shepard (2001) found that populations fly for -3 weeks
  this species is locally abundant and is found w of the cascades throughout cascadia and along the e slopes as well
  it also occurs in the mountains of ne wa, and in the blue and  wallowa mts of se wa and ne or. beyond cascadia it ranges from sw yt and sw ab, s through bc, mt, wa, id, wy, and or to central ca. larval host plants are violets including viola adunca (blue violet), v. glabella (stream violet), and v. scmpervirens (evergreen violet); warren (2005) and shapiro and manolis (2007) reported v. ocellata is used in ca, and scott (19b6a) suggested that v. nephrophylla is also a likely host
  both sexes visit flowers, including pearly everlasting, asters, and thistles, and males patrol relentlessly in search of females
@@ -579,7 +611,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  l4 is intermittently striped longitudinally in black, gray, or white with a ventrolateral orange stripe
  uie conical spines on segments 1-3 are black, but others are half orange
  in 1.5 the conical spines are entirely orange except on the terminal posterior segments and on the first 2 or 3 segments, where they are black
- the ventrolateral orange line is prominent, and there  subfamily heliconiinae i family nymphalidae 259  li 2 mm egg @ 1.0 mm  pupa @15 mm  are numerous white spots near the white circled spiracles
+ the ventrolateral orange line is prominent, and there  subfamily heliconiinae
+ i family nymphalidae
+ 259  li 2 mm egg @ 1.0 mm  pupa @15 mm  are numerous white spots near the white circled spiracles
  dorsally 1.5 varies trom gray tt) black and there is a narrow darker line down the center,  surrounded by pale spots
  the pupa is dark brown, sometimes with a purplish tint, hearing 5 pearlv conical processes in an irregidar row on each side  of the head and thorax
  the wing cases are darker brown, and dorsally the abdomen hears 2 rows of  bold triangular processes that join on posterit>r segments to form forward-pointing chevrons
@@ -592,7 +626,7 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  dormant 1.4 should be aged for -10 davs prior to overwintering, postdiapause development is enhanced by prolonged overwintering (at least 6 months). larvae are difficult to find as they feed nocturnally on low-growing violets under other vegetation
  late-season (high-elevation) larvae tend to be present after most violet hosts have senesced, an apparent maladaptive strategy unless other hosts are also used
  research is needed on the identity and impact of natural enemies influencing the abundance and distribution of this species
-  l2 @ 6 mm (late)  l3 @ 10 mm  l4 @ 13 mm  n> 1/1  <t>  3  n> cu  q. o  s  0/  v;  co o  o -5  s' (u  3- o  fd  q. in  l5 @ 21 mm    260 life histories of cascadia butterflies  freija fritillary boloria freija (thunberg)  adult biology boloria freija is a circumpolar species found in most of canada, extending to the great lakes and the n rockies (wy. co). in cascadia it occurs in bc and  okanogan co., wa in willow bogs and forest clearings above 5,000 ft. the single brood flies from june to july
+  l2 @ 6 mm (late)  l3 @ 10 mm  l4 @ 13 mm  n> 1/1  <t>  3  n> cu  q. o  s  0/  v;  co o  o -5  s' (u  3- o  fd  q. in  l5 @ 21 mm    260   freija fritillary boloria freija (thunberg)  adult biology boloria freija is a circumpolar species found in most of canada, extending to the great lakes and the n rockies (wy. co). in cascadia it occurs in bc and  okanogan co., wa in willow bogs and forest clearings above 5,000 ft. the single brood flies from june to july
  males patrol for females, flying erratically and close to the ground, sometimes even under low logs
  females are elusive but generally stay closer to host plants
  of 40 individuals seen near keremeos, bc on june 15-16, only 6 were female
@@ -620,7 +654,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  numerous tiny black bullae (-200 per segment), each bearing a short seta, give the body a textured appearance
  l5 is black with greatly reduced green spines giving the appearance of a green-dotted black larva with tiny light-colored bullae
  some individuals have pale dorsolateral stripes
- ihe head and spiracles  subfamily heliconiinae | family nvmphalidae 261  egg @ 0.9 mm  li (5! 3 mm  pupa @13 mm  are black
+ ihe head and spiracles  subfamily heliconiinae
+ | family nvmphalidae
+ 261  egg @ 0.9 mm  li (5! 3 mm  pupa @13 mm  are black
  tlie pupa is black mottled with grav, brown, and white on the abdomen
  tliere are .5  pairs of tubercles on the abdomen, the posterior 3 with connecting ridges
  the black 1,4 and green- dotted black 1.5 of b. freija are imicine in our fauna and should not be confused with other boloriti  or argynnis spp. larvae of the related wieeiiiiiiiii- feeding b. chariclca are closest in appearance, hut mature larvae are speckled with white dots and have dull orange spines
@@ -631,7 +667,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  overwintering occurred as mature 1.4. the absence of feeding in postdiapause l4 and a brief 1.3 is highly unusual and possibly unic]uc. if post-hibernation feeding does not occur in wild populations, the need for l5 is puzzling; perhaps the species is evoktng toward 4 instars? attempts to break dormancv early were unsuccessful, with 1.4 remaining alive for lengthy periods without pupation
  between 4 and 7 months of cold temperatures appear necessary to break diapause; thus shorter winters may reduce overwintering survival
  studies on the overwintering and postwintering behavior of b freija are needed to better understand the ecology of this species, which may be vulnerable to global climate change
-  1^ .'r  l4 @ 22 mm  l5 @ 20 mm  (t>  5^  co o  o  2 q  c 3 cr fp  iq  l5@21 mm    262 life histories of cascadia butterflies subfamily heliconiinae | family nymphalidae 263  astarte fritillary boloria astarte (e. doubleday)  i  adult biology boloria astarte is widely distributed in s bc. rare in wa and absent from or. in wa it occurs in a few scattered colonies in the n cascades (okanogan and chelan cos.). beyond cascadia the range includes ak, yt, ab, and mt. a true alpine specialist flying above 7,000 ft during mid-july-mid-aug, b. astarte frequents rocky ridges, slides, and steep scree slopes where the host plant grows
+  1^ .'r  l4 @ 22 mm  l5 @ 20 mm  (t>  5^  co o  o  2 q  c 3 cr fp  iq  l5@21 mm    262  subfamily heliconiinae
+ | family nymphalidae
+ 263  astarte fritillary boloria astarte (e. doubleday)  i  adult biology boloria astarte is widely distributed in s bc. rare in wa and absent from or. in wa it occurs in a few scattered colonies in the n cascades (okanogan and chelan cos.). beyond cascadia the range includes ak, yt, ab, and mt. a true alpine specialist flying above 7,000 ft during mid-july-mid-aug, b. astarte frequents rocky ridges, slides, and steep scree slopes where the host plant grows
  males hill-top or patrol in search of females, often flying diagonally up and down slopes
  females eclose later than males and are more sedentary, basking on boulders or visiting nectar sources, especially arnica spp. saxifraga bronchialis (spotted saxifrage) is the only known host plant in cascadia, although s. tricuspidata (three-toothed saxifrage) is used in n bc (guppy and shepard, 2001). boloria astarte is biennial, requiring 2 years for larval development and flying on even-numbered years in cascadia; guppy and shepard (2001) reported similar flights in the coast range of bc, with flights every year (2 separate biennial populations) in the rockies
  oviposition occurs in mid-late july, with eggs laid on or near the host plant (scott, 1986a). captive females laid -85% of their eggs on inert surfaces, the remainder well hidden on the undersides of host  leaves very close to or touching the ground
@@ -668,7 +706,7 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  nothing is known of the natural enemies affecting populations of b. astarte, nor ot climatic tolerances
  the restricted alpine habitat of b. astarte suggests vulnerability to climatic warming (miller and hammond, 2007), but further research is needed
  warmer summers might enable an annual rather than a biennial life cycle, but warmer winters might increase the mortality ot larvae
-  l2 @ 4.3 mm  l3 @ 10 mm  l4 @ 20 mm  l/i rt  0)  (t>  n  o)  co o_ 5  q 1/1  05  o o c  tt> a 05  vc  ls @ 25 mm    264 life histories of cascadia butterflies  arctic fritillary boloria chariclea (schneider)  adult biology the arctic fritillary is holarctic, occurring from siberia to scandinavia to the north american arctic
+  l2 @ 4.3 mm  l3 @ 10 mm  l4 @ 20 mm  l/i rt  0)  (t>  n  o)  co o_ 5  q 1/1  05  o o c  tt> a 05  vc  ls @ 25 mm    264   arctic fritillary boloria chariclea (schneider)  adult biology the arctic fritillary is holarctic, occurring from siberia to scandinavia to the north american arctic
   in north america it is found in most of canada, mn,  and nh in e us and ak through the rockies s to nm in the w. in cascadia it occurs in bc and the  olympic and cascade mts of wa. boloria chariclea flies in a single brood in moist mountain meadows and alpine tundra (4,000-8,000 ft), mid-jun-sep, depending on elevation and seasonal conditions
  the life cycle is annual or biennial, according to latitude and/or elevation (pyle, 1981; scott, 1986a, 1992), but pyle (2002) considered it annual in cascadia
  it is locally common and often flies with b. epilhore
@@ -695,7 +733,9 @@ stdiapause feeding to pupation, while the same development took 30-40 days for a
  larvae reared under drier conditions suffered from desiccation
  protection appears to be based on concealment (larvae appear to be nocturnal), a ventral gland, and spines to dissuade predators
  there are 5 instars, and no nests are constructed
-  subfamily heliconiinae i family nymphalidae 265  egg @ 0.8 mm  description of immature stages the pale yellowish white egg, orange at maturity, is broadly oval, wider at the base, with -30-35 vertical ribs merging tt) -20 at the apex and terminating around the micropyle
+  subfamily heliconiinae
+ i family nymphalidae
+ 265  egg @ 0.8 mm  description of immature stages the pale yellowish white egg, orange at maturity, is broadly oval, wider at the base, with -30-35 vertical ribs merging tt) -20 at the apex and terminating around the micropyle
  1.1 is jirownish gray with a small sclerotized black collar
  the shinv black head bears setae and remains this way until pupation
  ttiere are 8-10 shiny dark tubercles i>n each segtnent, each bearing a single long pale seta, sometimes with a droplet at the tip. 1.2 is blackish gray with a broad middorsal pale stripe
