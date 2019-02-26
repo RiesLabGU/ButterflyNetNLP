@@ -4,6 +4,11 @@ This repo contains workflow code for extracting text from butterfly
 field guides which have undergone optical character recognition
 as PDFs. Multiple subdirectories contain example data, output, and
 code with the exception of original PDFs due to copyright issues.
+
+The full workflow is illustrated below with solid arrows indicating completed steps
+and dashed arrows representing current development and/or future implementations.
+
+![workflow](NLPWorkflow.png)
 ***
 
 #### OCR
