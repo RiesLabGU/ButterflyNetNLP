@@ -13,7 +13,7 @@ and dashed arrows representing current development and/or future implementations
 
 #### OCR
 This subdirectory contains files related to processing raw OCR text
-from scanned PDFs. Many scanned PDFs require preprocessing to get
+from scanned PDFs. Many scanned PDFs require pre-processing to get
 rid of OCR errors and non-essential phrases (e.g. book titles and
 page numbers).
 * *extractor.py* - extracts raw text from OCR'd PDFS, performs

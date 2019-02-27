@@ -23,6 +23,9 @@ text = re.sub(r'([i])\b', '', text)
 text = re.sub(r'(family|subfamily).*', '', text)
 text = text.replace('-', ' ').replace('tlie', 'the').replace('ihis', 'this').replace('ditilicult', 'difficult')
 text = re.sub(r'^\s*$', '', text)
+text = ' '.join(text.split())  # remove consecutive spaces
+text = re.sub(r'(?<=[a-z]{4})[.]', '.\n', text)
+text = text.lstrip(' ')
 
 
 #line cleaing
