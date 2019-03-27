@@ -138,6 +138,7 @@ def main(tv_file, vocab_file):
 
     print(f"Baseline score: {baseline}")
 
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='feature vector homework')
     parser.add_argument('--tv_path', type=str, default="line_reads.txt",
