@@ -31,6 +31,20 @@ def ocr_cleaner(text):
     return text
 
 
+def get_tokens_from_file(file_path, column_index):
+    """Opens a file safely, then creates and returns a list of lists containing tokenized
+    sentences from the file."""
+
+    line_list = []
+
+    with open(file_path, 'r', encoding='utf8') as f:
+        content = f.readlines()
+        for i, line in enumerate(content):
+            line_list.append(line.split())
+
+    return line_list
+
+
 printable = set(string.printable)
 
 raw = parser.from_file('sample.pdf')  # parse OCR text from file
@@ -41,10 +55,5 @@ lines = ocr_cleaner(text)  # send to line cleaning function
 with open("raw.txt", 'w', encoding='utf8') as f:
     f.write(lines)
 
-line_list = []
-with open("raw.txt", 'r', encoding='utf8') as f:
-    content = f.readlines()
-    for i, line in enumerate(content):
-        line_list.append(line.split())
+line_list = get_tokens_from_file("raw.txt", 1)
 
-print(line_list[20])

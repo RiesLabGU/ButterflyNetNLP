@@ -72,7 +72,7 @@ def main(data_file, tv_file, vocab_file):
 
     function_words = load_function_words(vocab_file)
 
-    max_lines = 20
+    max_lines = 500
 
     lines = []
     classes = []
@@ -196,11 +196,11 @@ def main(data_file, tv_file, vocab_file):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='feature vector homework')
-    parser.add_argument('--path', type=str, default="bnet_raw.txt",
+    parser.add_argument('--path', type=str, default="NaiveBayes/bnet_raw.txt",
                         help='path to the menu to update')
-    parser.add_argument('--tv_path', type=str, default="tv_file1.txt",
+    parser.add_argument('--tv_path', type=str, default="NaiveBayes/tv_file1.txt",
                         help='path to the list of words to use as features')
-    parser.add_argument('--function_words_path', type=str, default="bnet_vocab.txt",
+    parser.add_argument('--function_words_path', type=str, default="NaiveBayes/bnet_vocab.txt",
                         help='path to the list of words to use as features')
     args = parser.parse_args()
 
