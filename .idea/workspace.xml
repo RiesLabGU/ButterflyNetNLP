@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d39a6a8-76c7-4876-9132-59102d5e87de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Classifier/bnet_vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classifier/classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classifier/line_reads.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classifier/vocab_002.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogisticRegression/logreg_lines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/bnet_vocab.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Classifier/vocab_001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classifier/classifier.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NaiveBayes/line_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="3009">
               <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="188" selection-end-column="93" />
               <folding>
                 <element signature="e#22#37#0" expanded="true" />
@@ -31,20 +30,34 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classifier/classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="139" column="39" selection-start-line="139" selection-start-column="39" selection-end-line="139" selection-end-column="39" />
+            <state relative-caret-position="292">
+              <caret line="172" column="105" selection-start-line="172" selection-start-column="105" selection-end-line="172" selection-end-column="105" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#194#452#0" />
+                <element signature="e#497#1352#0" />
+                <element signature="e#2080#2264#0" />
+                <element signature="e#2326#2658#0" />
+                <element signature="e#2726#2981#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classifier/bnet_vocab.txt">
+        <entry file="file://$PROJECT_DIR$/Classifier/vocab_002.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="553">
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classifier/vocab_001.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -52,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classifier/line_reads.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1237">
-              <caret line="687" column="55" selection-start-line="687" selection-start-column="55" selection-end-line="687" selection-end-column="55" />
+            <state relative-caret-position="391">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -61,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
+            <state relative-caret-position="629">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#22#37#0" expanded="true" />
               </folding>
@@ -110,6 +123,9 @@
         <option value="$PROJECT_DIR$/NaiveBayes/line_classifier.py" />
         <option value="$PROJECT_DIR$/LogisticRegression/bnet_vocab.txt" />
         <option value="$PROJECT_DIR$/LogisticRegression/logreg_lines.py" />
+        <option value="$PROJECT_DIR$/Classifier/bnet_vocab.txt" />
+        <option value="$PROJECT_DIR$/Classifier/vocab_001.txt" />
+        <option value="$PROJECT_DIR$/Classifier/vocab_002.txt" />
         <option value="$PROJECT_DIR$/Classifier/classifier.py" />
       </list>
     </option>
@@ -124,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,20 +152,16 @@
               <item name="ButterflyNetNLP" type="462c0819:PsiDirectoryNode" />
               <item name="Classifier" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ButterflyNetNLP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ButterflyNetNLP" type="462c0819:PsiDirectoryNode" />
-              <item name="NaiveBayes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -409,19 +420,33 @@
       <option name="project" value="LOCAL" />
       <updated>1553695038155</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="-dropped logreg&#10;-added NB">
+      <created>1553696512621</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1553696512621</updated>
+    </task>
+    <task id="LOCAL-00018" summary="-updated NB">
+      <created>1553696838204</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1553696838204</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1264489" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12605485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295325" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30653805" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30612245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,7 +474,9 @@
     <MESSAGE value="-updated readme" />
     <MESSAGE value="-added tokenizing" />
     <MESSAGE value="-updated logreg" />
-    <option name="LAST_COMMIT_MESSAGE" value="-updated logreg" />
+    <MESSAGE value="-dropped logreg&#10;-added NB" />
+    <MESSAGE value="-updated NB" />
+    <option name="LAST_COMMIT_MESSAGE" value="-updated NB" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/authorshipAttribution.py" />
@@ -510,27 +537,10 @@
     <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_WGS.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="49" column="50" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-          <folding>
-            <element signature="e#22#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classifier/line_reads.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1237">
-          <caret line="687" column="55" selection-start-line="687" selection-start-column="55" selection-end-line="687" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -545,16 +555,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classifier/bnet_vocab.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NaiveBayes/line_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="3009">
           <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="188" selection-end-column="93" />
           <folding>
             <element signature="e#22#37#0" expanded="true" />
@@ -562,12 +565,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/pycomplx/Lib/site-packages/sklearn/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classifier/vocab_001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/habitat_vocab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classifier/line_reads.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classifier/vocab_002.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Classifier/classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="139" column="39" selection-start-line="139" selection-start-column="39" selection-end-line="139" selection-end-column="39" />
+        <state relative-caret-position="292">
+          <caret line="172" column="105" selection-start-line="172" selection-start-column="105" selection-end-line="172" selection-end-column="105" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#194#452#0" />
+            <element signature="e#497#1352#0" />
+            <element signature="e#2080#2264#0" />
+            <element signature="e#2326#2658#0" />
+            <element signature="e#2726#2981#0" />
           </folding>
         </state>
       </provider>
