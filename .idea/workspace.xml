@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d39a6a8-76c7-4876-9132-59102d5e87de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,29 +12,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classifier/classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="180" column="71" selection-start-line="180" selection-start-column="71" selection-end-line="180" selection-end-column="71" />
+            <state relative-caret-position="203">
+              <caret line="100" column="18" lean-forward="true" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <element signature="e#194#452#0" />
-                <element signature="e#497#1352#0" />
-                <element signature="e#2080#2264#0" />
-                <element signature="e#2326#2658#0" />
-                <element signature="e#2726#2981#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="293">
-                <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+              <first_editor relative-caret-position="680">
+                <caret line="40" selection-start-line="40" selection-end-line="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classifier/line_reads.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2975">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="391">
+              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -93,13 +88,14 @@
         <option value="$PROJECT_DIR$/Classifier/bnet_vocab.txt" />
         <option value="$PROJECT_DIR$/Classifier/vocab_001.txt" />
         <option value="$PROJECT_DIR$/Classifier/vocab_002.txt" />
-        <option value="$PROJECT_DIR$/Classifier/classifier.py" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/Classifier/classifier.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-1668" />
+    <option name="y" value="-10" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
@@ -409,19 +405,26 @@
       <option name="project" value="LOCAL" />
       <updated>1556464158209</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="-updated NB">
+      <created>1556465001912</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556465001912</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12605485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12605485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295325" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30612245" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30612245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,33 +566,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classifier/line_reads.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2975">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classifier/classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="180" column="71" selection-start-line="180" selection-start-column="71" selection-end-line="180" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#194#452#0" />
-            <element signature="e#497#1352#0" />
-            <element signature="e#2080#2264#0" />
-            <element signature="e#2326#2658#0" />
-            <element signature="e#2726#2981#0" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="293">
-            <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+          <first_editor relative-caret-position="680">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classifier/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="100" column="18" lean-forward="true" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#194#452#0" />
+          </folding>
         </state>
       </provider>
     </entry>
